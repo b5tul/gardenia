@@ -12,7 +12,41 @@ Domeinnaam: betulspace.nl DNS-instellingen toevoegen en daarna met github koppel
 - Beschrijf hoe je aanpassingen aan jouw pagina kunt maken en hoe je er voor zorgt dat die op het web gepubliceerd worden.
 Dat heb ik nog niet gedaan.
 
-### 3 sept - [Workshop]
+### 2 sept - [Workshop Typografie en Schetsen]
+
+Typografie
+Voorafgaand aan de workshop zijn er twee artikelen gelezen, maar hier heb ik geen aantekeningen van gemaakt. Aan de hand van twee foto's van Dolly Parton hebben we trefwoorden opgeschreven, waarvan we er drie hebben geselecteerd. Op basis van de thema's van deze woorden hebben we kleine schetsen gemaakt en zo passende lettertypen voor elk thema gevonden.
+<img width="433" height="254" alt="Screenshot 2026-09-06 194559" src="https://github.com/user-attachments/assets/5869e496-d09f-4a5c-a0a6-dacbcf1d92d9" />
+
+Schetsen
+We hebben tekenoefeningen gedaan 
+<img width="1600" height="1096" alt="WhatsApp Image 2026-09-06 at 20 01 48 (2)" src="https://github.com/user-attachments/assets/ca470f8c-924a-4e53-b73b-efe34bc39255" />
+<img width="1600" height="1158" alt="WhatsApp Image 2026-09-06 at 20 01 48 (1)" src="https://github.com/user-attachments/assets/a9c80278-93a6-43af-9464-ddc85aa7a36a" />
+en uiteindelijk heb ik de Pinterest website als mifi uitgewerkt, waarbij ik ook de motions probeerde weer te geven.
+<img width="1600" height="1197" alt="WhatsApp Image 2026-09-06 at 20 01 48" src="https://github.com/user-attachments/assets/80831234-2585-453a-8903-4ada7971239a" />
+
+
+### 4 sept - [Workshop Praktische CSS en CSS: fonts met kleur en effecten]
+
+Praktische CSS
+Huiswerk:
+<img width="959" height="469" alt="Screenshot 2026-09-06 201046" src="https://github.com/user-attachments/assets/ec5a727e-d6ba-48a3-8ed1-3c06a610d642" />
+
+De codepen die we samen toepassingen gedaan:
+<img width="959" height="470" alt="Screenshot 2026-09-06 200925" src="https://github.com/user-attachments/assets/123f5c1f-3eac-4960-87be-2a98781732f3" />
+
+CSS: fonts met kleur en effecten
+Oefening 2
+<img width="959" height="599" alt="Screenshot 2026-09-04 113608" src="https://github.com/user-attachments/assets/fe62ce35-3b67-401e-a922-0169a26ac6a7" />
+<img width="382" height="359" alt="Screenshot 2026-09-04 085253" src="https://github.com/user-attachments/assets/5a166e3c-de26-4b53-90fe-543908ba306e" />
+
+Oefening 3
+<img width="959" height="599" alt="Screenshot 2026-09-06 140500" src="https://github.com/user-attachments/assets/b5d62bae-73ca-4487-8105-a8045e50d4a9" />
+
+
+
+
+
 
 [...]
 
