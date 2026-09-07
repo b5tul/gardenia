@@ -4,7 +4,7 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
-### '31 augustus'
+### `31 augustus`
 - Leg uit wat een source hosting platform is en voor welke jij gekozen hebt.
 Waar je jouw/een platform hosten en veranderingen maken. Github.
 - Vertel welke domeinnaam jij gekozen hebt en hoe je die hebt gekoppeld aan jouw pagina.
