@@ -58,6 +58,7 @@ Oefening 3
 
 
 
+
 ### `7 sept`
 
 #### Oefening: Twee websites analyseren
