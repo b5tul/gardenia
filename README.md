@@ -12,7 +12,8 @@ Domeinnaam: betulspace.nl DNS-instellingen toevoegen en daarna met github koppel
 - Beschrijf hoe je aanpassingen aan jouw pagina kunt maken en hoe je er voor zorgt dat die op het web gepubliceerd worden.
 Dat heb ik nog niet gedaan.
 
-### 2 sept - [Workshop Typografie en Schetsen]
+
+### `2 sept - [Workshop Typografie en Schetsen]`
 
 #### Typografie
 Voorafgaand aan de workshop zijn er twee artikelen gelezen, maar hier heb ik geen aantekeningen van gemaakt. Aan de hand van twee foto's van Dolly Parton hebben we trefwoorden opgeschreven, waarvan we er drie hebben geselecteerd. Op basis van de thema's van deze woorden hebben we kleine schetsen gemaakt en zo passende lettertypen voor elk thema gevonden.
@@ -31,7 +32,8 @@ en uiteindelijk heb ik de Pinterest website als mifi uitgewerkt, waarbij ik ook 
 <img width="400" height="274" alt="WhatsApp Image 2026-09-06 at 20 01 48" src="https://github.com/user-attachments/assets/80831234-2585-453a-8903-4ada7971239a" />
 
 
-### 4 sept - [Workshop Praktische CSS en CSS: fonts met kleur en effecten]
+
+### `4 sept - [Workshop Praktische CSS en CSS: fonts met kleur en effecten]`
 
 #### Praktische CSS
 Huiswerk:
@@ -54,7 +56,9 @@ Oefening 3
 
 <img width="400" height="250" alt="Screenshot 2026-09-06 140500" src="https://github.com/user-attachments/assets/b5d62bae-73ca-4487-8105-a8045e50d4a9" />
 
-### 7 sept
+
+
+### `7 sept`
 
 #### Oefening: Twee websites analyseren
 -We hebben naar 2 gekozende websites gekeken en geschreven als ze genoeg webby zijn.
