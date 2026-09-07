@@ -43,6 +43,17 @@ Oefening 2
 Oefening 3
 <img width="959" height="599" alt="Screenshot 2026-09-06 140500" src="https://github.com/user-attachments/assets/b5d62bae-73ca-4487-8105-a8045e50d4a9" />
 
+### 7 sept
+1. Leg uit wat een digital garden is en waarom dat anders is dan een reguliere website.
+   In digital garden staat er wat je leuk vindt dus het kan alles zijn. Het is niet af dus je maakt constant veranderingen en toevoegingen. Een reguliere website is eigenlijk het eind product. Tot het eind product te komen moet je altijd feedback hebben en variaties moeten maken.
+   
+2. Leg uit wat een website 'webby' maakt en welke websites jou het meeste inspireren.
+   Hoe interactief, toegankelijk en expressief en makkelijk voor de user, maakt een website "webby". 
+
+3. Vertel waar jij mee aan de slag wilt gaan bij het maken van jouw eigen digital garden (let op: dit zijn jouw eerste ideeën, dit kan en mag veranderen in de loop van het programma.
+   Ik dacht dat ik iets over "fangirlling" kunnen doen. Het was een grootdeel van mijn leven als een kind maar ook nu. Ik kan een deel persoonlijker kunnen maken maar ook informatief.
+
+
 
 
 
