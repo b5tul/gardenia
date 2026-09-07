@@ -49,7 +49,7 @@ Oefening 2
 
 <img width="400" height="250" alt="Screenshot 2026-09-04 113608" src="https://github.com/user-attachments/assets/fe62ce35-3b67-401e-a922-0169a26ac6a7" />
 
-<img width="400" height="376" alt="Screenshot 2026-09-04 085253" src="https://github.com/user-attachments/assets/5a166e3c-de26-4b53-90fe-543908ba306e" />
+<img width="400" height="250" alt="Screenshot 2026-09-04 085253" src="https://github.com/user-attachments/assets/5a166e3c-de26-4b53-90fe-543908ba306e" />
 
 
 Oefening 3
