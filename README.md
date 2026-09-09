@@ -12,7 +12,8 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
   Domeinnaam: betulspace.nl DNS-instellingen toevoegen en daarna met github koppelen.
 - Beschrijf hoe je aanpassingen aan jouw pagina kunt maken en hoe je er voor zorgt dat die op het web gepubliceerd worden.
   Dat heb ik nog niet gedaan.
-
+<br>
+   <br>
 ### `2 sept - [Workshop Typografie en Schetsen]`
 
 #### Typografie
@@ -20,7 +21,7 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 Voorafgaand aan de workshop zijn er twee artikelen gelezen, maar hier heb ik geen aantekeningen van gemaakt. Aan de hand van twee foto's van Dolly Parton hebben we trefwoorden opgeschreven, waarvan we er drie hebben geselecteerd. Op basis van de thema's van deze woorden hebben we kleine schetsen gemaakt en zo passende lettertypen voor elk thema gevonden.
 
 <img width="400" height="221" alt="Screenshot 2026-09-06 194559" src="https://github.com/user-attachments/assets/5869e496-d09f-4a5c-a0a6-dacbcf1d92d9" />
-
+<br> 
 #### Schetsen
 
 We hebben tekenoefeningen gedaan
@@ -32,7 +33,8 @@ We hebben tekenoefeningen gedaan
 en uiteindelijk heb ik de Pinterest website als mifi uitgewerkt, waarbij ik ook de motions probeerde weer te geven.
 
 <img width="400" height="274" alt="WhatsApp Image 2026-09-06 at 20 01 48" src="https://github.com/user-attachments/assets/80831234-2585-453a-8903-4ada7971239a" />
-
+<br>
+<br>
 ### `4 sept - [Workshop Praktische CSS en CSS: fonts met kleur en effecten]`
 
 #### Praktische CSS
@@ -44,7 +46,8 @@ Huiswerk:
 De codepen die we samen toepassingen gedaan:
 
 <img width="400" height="196" alt="Screenshot 2026-09-06 200925" src="https://github.com/user-attachments/assets/123f5c1f-3eac-4960-87be-2a98781732f3" />
-
+<br>
+  
 #### CSS: fonts met kleur en effecten
 
 Oefening 2
@@ -56,7 +59,8 @@ Oefening 2
 Oefening 3
 
 <img width="400" height="250" alt="Screenshot 2026-09-06 140500" src="https://github.com/user-attachments/assets/b5d62bae-73ca-4487-8105-a8045e50d4a9" />
-
+<br>
+<br>
 ### `7 sept`
 
 #### Oefening: Twee websites analyseren
@@ -79,35 +83,41 @@ Oefening 3
 3. Vertel waar jij mee aan de slag wilt gaan bij het maken van jouw eigen digital garden (let op: dit zijn jouw eerste ideeën, dit kan en mag veranderen in de loop van het programma.
    Ik dacht dat ik iets over "fangirlling" kunnen doen. Het was een grootdeel van mijn leven als een kind maar ook nu. Ik kan een deel persoonlijker kunnen maken maar ook informatief.
    <br>
+   <br>
 
 ### `8 sept - [Workshop: Light-Dark Thema]`
 
 #### Oefening 1 <br>
-
-<img width="400" alt="Screenshot 2026-09-08 193005" src="https://github.com/user-attachments/assets/1d2c805a-a835-4468-a1e4-f1b503f51c0e" />
+We hebben geleerd om custom properties te geven. color-scheme → custom properties 
 <img width="400" alt="Screenshot 2026-09-08 192937" src="https://github.com/user-attachments/assets/0d8c587e-6185-4d83-a4f5-b6ecf9edd404" />
+<img width="400" alt="Screenshot 2026-09-08 193005" src="https://github.com/user-attachments/assets/1d2c805a-a835-4468-a1e4-f1b503f51c0e" />
+
 <br>
 
 #### Oefening 2 <br>
-
-<img width="400" alt="Screenshot 2026-09-08 193055" src="https://github.com/user-attachments/assets/d5baa1c5-f07c-468c-bb20-032eeab01b5e" />
+Light thema met wit en paars. Dark thema met paars en geel.
 <img width="400" alt="Screenshot 2026-09-08 193038" src="https://github.com/user-attachments/assets/d5eae514-c635-4988-9038-5c284cc3df6c" />
+<img width="400" alt="Screenshot 2026-09-08 193055" src="https://github.com/user-attachments/assets/d5baa1c5-f07c-468c-bb20-032eeab01b5e" />
+<br>
+<br>
+#### Huiswerk Presentatie
+
+
 
 ### `9 sept`
-
 <br>
-- Wat is voor jou de essentie van wat je hebt gepresenteerd qua onderwerp en geschreven/beeldende content? ​<br>
+**- Wat is voor jou de essentie van wat je hebt gepresenteerd qua onderwerp en geschreven/beeldende content?** ​<br>
 Ik denk dat de ware essentie van mijn onderwerp zit in de Tumblr-fanbasecultuur van de jaren 2000/2010. Een fangirl zijn draaide vroeger veel meer om verzamelen en het hebben van een hechte gemeenschap, maar dat gevoel is door het consumentisme en de huidige sociale media een beetje vervaagd. Ik wil dat specifieke gevoel weer terughalen.
 <br>
-- Welke woorden uit de kwaliteitenlijst kunnen passen bij je onderwerp?​
+**- Welke woorden uit de kwaliteitenlijst kunnen passen bij je onderwerp?​**
 <br>
-- Heeft 'de ander' een aanvulling op je onderwerp?​
+**- Heeft 'de ander' een aanvulling op je onderwerp?​**
 We actually forgot to do that... But she said she liked the onderwerp.
 <br>
-- Wat is het karakter/ de uitstraling/ het gevoel dat bij het onderwerp past? (bijv. stoer, hip, vrolijk, dynamisch, eenvoudig, enz.)​<br>
+**- Wat is het karakter/ de uitstraling/ het gevoel dat bij het onderwerp past? (bijv. stoer, hip, vrolijk, dynamisch, eenvoudig, enz.)**​<br>
 Nostalgisch, DIY, ongepolijst.
 <br>
-- Welke inspiratie kun je uit je 25 afbeeldingen halen. Stijl, een gevoel, vorm, enz.​<br>
+**- Welke inspiratie kun je uit je 25 afbeeldingen halen. Stijl, een gevoel, vorm, enz.​**<br>
 Physieke materialen (diy), mix van allerlei dingen zoals text en afbeeldingen (ik weet het niet als ik het kan), vrije vorm met collages?, y2k en girly stijl
 
 ​
