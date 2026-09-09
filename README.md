@@ -5,23 +5,25 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 ## Learning Log
 
 ### `31 augustus`
-- Leg uit wat een source hosting platform is en voor welke jij gekozen hebt.
-Waar je jouw/een platform hosten en veranderingen maken. Github.
-- Vertel welke domeinnaam jij gekozen hebt en hoe je die hebt gekoppeld aan jouw pagina.
-Domeinnaam: betulspace.nl DNS-instellingen toevoegen en daarna met github koppelen.
-- Beschrijf hoe je aanpassingen aan jouw pagina kunt maken en hoe je er voor zorgt dat die op het web gepubliceerd worden.
-Dat heb ik nog niet gedaan.
 
+- Leg uit wat een source hosting platform is en voor welke jij gekozen hebt.
+  Waar je jouw/een platform hosten en veranderingen maken. Github.
+- Vertel welke domeinnaam jij gekozen hebt en hoe je die hebt gekoppeld aan jouw pagina.
+  Domeinnaam: betulspace.nl DNS-instellingen toevoegen en daarna met github koppelen.
+- Beschrijf hoe je aanpassingen aan jouw pagina kunt maken en hoe je er voor zorgt dat die op het web gepubliceerd worden.
+  Dat heb ik nog niet gedaan.
 
 ### `2 sept - [Workshop Typografie en Schetsen]`
 
 #### Typografie
+
 Voorafgaand aan de workshop zijn er twee artikelen gelezen, maar hier heb ik geen aantekeningen van gemaakt. Aan de hand van twee foto's van Dolly Parton hebben we trefwoorden opgeschreven, waarvan we er drie hebben geselecteerd. Op basis van de thema's van deze woorden hebben we kleine schetsen gemaakt en zo passende lettertypen voor elk thema gevonden.
 
 <img width="400" height="221" alt="Screenshot 2026-09-06 194559" src="https://github.com/user-attachments/assets/5869e496-d09f-4a5c-a0a6-dacbcf1d92d9" />
 
 #### Schetsen
-We hebben tekenoefeningen gedaan 
+
+We hebben tekenoefeningen gedaan
 
 <img width="400" height="274" alt="WhatsApp Image 2026-09-06 at 20 01 48 (2)" src="https://github.com/user-attachments/assets/ca470f8c-924a-4e53-b73b-efe34bc39255" />
 
@@ -31,11 +33,10 @@ en uiteindelijk heb ik de Pinterest website als mifi uitgewerkt, waarbij ik ook 
 
 <img width="400" height="274" alt="WhatsApp Image 2026-09-06 at 20 01 48" src="https://github.com/user-attachments/assets/80831234-2585-453a-8903-4ada7971239a" />
 
-
-
 ### `4 sept - [Workshop Praktische CSS en CSS: fonts met kleur en effecten]`
 
 #### Praktische CSS
+
 Huiswerk:
 
 <img width="400" height="196" alt="Screenshot 2026-09-06 201046" src="https://github.com/user-attachments/assets/ec5a727e-d6ba-48a3-8ed1-3c06a610d642" />
@@ -45,23 +46,21 @@ De codepen die we samen toepassingen gedaan:
 <img width="400" height="196" alt="Screenshot 2026-09-06 200925" src="https://github.com/user-attachments/assets/123f5c1f-3eac-4960-87be-2a98781732f3" />
 
 #### CSS: fonts met kleur en effecten
+
 Oefening 2
 
 <img width="400" height="250" alt="Screenshot 2026-09-04 113608" src="https://github.com/user-attachments/assets/fe62ce35-3b67-401e-a922-0169a26ac6a7" />
 
 <img width="400" height="250" alt="Screenshot 2026-09-04 085253" src="https://github.com/user-attachments/assets/5a166e3c-de26-4b53-90fe-543908ba306e" />
 
-
 Oefening 3
 
 <img width="400" height="250" alt="Screenshot 2026-09-06 140500" src="https://github.com/user-attachments/assets/b5d62bae-73ca-4487-8105-a8045e50d4a9" />
 
-
-
-
 ### `7 sept`
 
 #### Oefening: Twee websites analyseren
+
 -We hebben naar 2 gekozende websites gekeken en geschreven als ze genoeg webby zijn.
 
 <img width="400" height="298" alt="WhatsApp Image 2026-09-07 at 21 56 56" src="https://github.com/user-attachments/assets/4997caed-fda9-4d3a-92fe-0e2aa12f9544" />
@@ -71,20 +70,33 @@ Oefening 3
 <img width="400" height="279" alt="WhatsApp Image 2026-09-07 at 21 55 58" src="https://github.com/user-attachments/assets/e09508c4-d549-4a68-95ba-af53c343f06d" />
 
 #### Check-out
+
 1. Leg uit wat een digital garden is en waarom dat anders is dan een reguliere website.
    In digital garden staat er wat je leuk vindt dus het kan alles zijn. Het is niet af dus je maakt constant veranderingen en toevoegingen. Een reguliere website is eigenlijk het eind product. Tot het eind product te komen moet je altijd feedback hebben en variaties moeten maken.
-   
 2. Leg uit wat een website 'webby' maakt en welke websites jou het meeste inspireren.
-   Hoe interactief, toegankelijk en expressief en makkelijk voor de user, maakt een website "webby". 
+   Hoe interactief, toegankelijk en expressief en makkelijk voor de user, maakt een website "webby".
 
 3. Vertel waar jij mee aan de slag wilt gaan bij het maken van jouw eigen digital garden (let op: dit zijn jouw eerste ideeën, dit kan en mag veranderen in de loop van het programma.
    Ik dacht dat ik iets over "fangirlling" kunnen doen. Het was een grootdeel van mijn leven als een kind maar ook nu. Ik kan een deel persoonlijker kunnen maken maar ook informatief.
 
+### `9 sept`
 
+<br>
+- Wat is voor jou de essentie van wat je hebt gepresenteerd qua onderwerp en geschreven/beeldende content? ​<br>
+Ik denk dat de ware essentie van mijn onderwerp zit in de Tumblr-fanbasecultuur van de jaren 2000/2010. Een fangirl zijn draaide vroeger veel meer om verzamelen en het hebben van een hechte gemeenschap, maar dat gevoel is door het consumentisme en de huidige sociale media een beetje vervaagd. Ik wil dat specifieke gevoel weer terughalen.
+<br>
+- Welke woorden uit de kwaliteitenlijst kunnen passen bij je onderwerp?​
+<br>
+- Heeft 'de ander' een aanvulling op je onderwerp?​
+We actually forgot to do that... But she said she liked the onderwerp.
+<br>
+- Wat is het karakter/ de uitstraling/ het gevoel dat bij het onderwerp past? (bijv. stoer, hip, vrolijk, dynamisch, eenvoudig, enz.)​<br>
+Nostalgisch, DIY, ongepolijst.
+<br>
+- Welke inspiratie kun je uit je 25 afbeeldingen halen. Stijl, een gevoel, vorm, enz.​<br>
+Physieke materialen (diy), mix van allerlei dingen zoals text en afbeeldingen (ik weet het niet als ik het kan), vrije vorm met collages?, y2k en girly stijl
 
-
-
-
+​
 
 [...]
 
