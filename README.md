@@ -140,7 +140,7 @@ We actually forgot to do that... But she said she liked the onderwerp.
  **- Wat is het karakter/ de uitstraling/ het gevoel dat bij het onderwerp past? (bijv. stoer, hip, vrolijk, dynamisch, eenvoudig, enz.)** ​<br>
 Nostalgisch, DIY, ongepolijst.
 <br>
- **- Welke inspiratie kun je uit je 25 afbeeldingen halen. Stijl, een gevoel, vorm, enz.​** <br>
+ __- Welke inspiratie kun je uit je 25 afbeeldingen halen. Stijl, een gevoel, vorm, enz.​__ <br>
 Physieke materialen (diy), mix van allerlei dingen zoals text en afbeeldingen (ik weet het niet als ik het kan), vrije vorm met collages?, y2k en girly stijl
 
 ​
