@@ -14,6 +14,7 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
   Dat heb ik nog niet gedaan.
 <br>
    <br>
+   
 ### `2 sept - [Workshop Typografie en Schetsen]`
 
 #### Typografie
@@ -21,7 +22,9 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 Voorafgaand aan de workshop zijn er twee artikelen gelezen, maar hier heb ik geen aantekeningen van gemaakt. Aan de hand van twee foto's van Dolly Parton hebben we trefwoorden opgeschreven, waarvan we er drie hebben geselecteerd. Op basis van de thema's van deze woorden hebben we kleine schetsen gemaakt en zo passende lettertypen voor elk thema gevonden.
 
 <img width="400" height="221" alt="Screenshot 2026-09-06 194559" src="https://github.com/user-attachments/assets/5869e496-d09f-4a5c-a0a6-dacbcf1d92d9" />
+
 <br> 
+
 #### Schetsen
 
 We hebben tekenoefeningen gedaan
@@ -35,6 +38,7 @@ en uiteindelijk heb ik de Pinterest website als mifi uitgewerkt, waarbij ik ook 
 <img width="400" height="274" alt="WhatsApp Image 2026-09-06 at 20 01 48" src="https://github.com/user-attachments/assets/80831234-2585-453a-8903-4ada7971239a" />
 <br>
 <br>
+
 ### `4 sept - [Workshop Praktische CSS en CSS: fonts met kleur en effecten]`
 
 #### Praktische CSS
@@ -61,6 +65,7 @@ Oefening 3
 <img width="400" height="250" alt="Screenshot 2026-09-06 140500" src="https://github.com/user-attachments/assets/b5d62bae-73ca-4487-8105-a8045e50d4a9" />
 <br>
 <br>
+
 ### `7 sept`
 
 #### Oefening: Twee websites analyseren
