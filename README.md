@@ -125,8 +125,9 @@ Light thema met wit en paars. Dark thema met paars en geel.<br>
 <br>
 Ik was gekoppeld met Bryenne om onze presentaties te laten zien <br> 
 
-<img width="300" alt="Screenshot 2026-09-09 082102" src="https://github.com/user-attachments/assets/9a0748f6-bb21-480f-8dbc-b512847669c7" />
-
+<img width="300" alt="Screenshot 2026-09-09 082102" src="https://github.com/user-attachments/assets/9a0748f6-bb21-480f-8dbc-b512847669c7" /> <br> 
+<br> 
+<br> 
 <br>
 <strong>- Wat is voor jou de essentie van wat je hebt gepresenteerd qua onderwerp en geschreven/beeldende content?</strong> ​<br>
 Ik denk dat de ware essentie van mijn onderwerp zit in de Tumblr-fanbasecultuur van de jaren 2000/2010. Een fangirl zijn draaide vroeger veel meer om verzamelen en het hebben van een hechte gemeenschap, maar dat gevoel is door het consumentisme en de huidige sociale media een beetje vervaagd. Ik wil dat specifieke gevoel weer terughalen. <br> 
@@ -146,14 +147,12 @@ Physieke materialen (diy), mix van allerlei dingen zoals text en afbeeldingen (i
 
 #### Mijn Miro Board <br> 
 <br> 
-
-<img width="400" alt="Screenshot 2026-09-09 1" src="https://github.com/user-attachments/assets/e48ebee6-bd19-409f-aa71-257a6fe6e9ff" />
 <img width="400" alt="Screenshot 2026-09-09 2" src="https://github.com/user-attachments/assets/048ad418-10b2-443b-ab55-358df45095bd" />
 <img width="400" alt="Screenshot 2026-09-09 3" src="https://github.com/user-attachments/assets/78622064-8347-469b-8692-c6ddccaba7b3" />
 <img width="400" alt="Screenshot 2026-09-09 4" src="https://github.com/user-attachments/assets/a8921e66-cb36-4eeb-bf0e-1bdfa5d9be72" />
 <img width="400" alt="Screenshot 2026-09-09 5" src="https://github.com/user-attachments/assets/21a222c8-fa20-4e0e-b66b-5075c8e1ab3d" />
 <img width="400" alt="Screenshot 2026-09-09 6" src="https://github.com/user-attachments/assets/856fb518-8f96-47e6-97a4-93bdc0732b52" />
-<img width="400" alt="Screenshot 2026-09-09 7" src="https://github.com/user-attachments/assets/77494332-b091-4e6d-a56d-3643968c4737" />
+<img width="400" alt="Screenshot 2026-09-09 7" src="https://github.com/user-attachments/assets/77494332-b091-4e6d-a56d-3643968c4737" /> 
 
 
 ​
