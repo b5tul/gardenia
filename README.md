@@ -93,19 +93,37 @@ Oefening 3
 ### `8 sept - [Workshop: Light-Dark Thema]`
 
 #### Oefening 1 <br>
-We hebben geleerd om custom properties te geven. color-scheme → custom properties 
+We hebben geleerd om custom properties te geven. color-scheme → custom properties <br> 
 <img width="400" alt="Screenshot 2026-09-08 192937" src="https://github.com/user-attachments/assets/0d8c587e-6185-4d83-a4f5-b6ecf9edd404" />
 <img width="400" alt="Screenshot 2026-09-08 193005" src="https://github.com/user-attachments/assets/1d2c805a-a835-4468-a1e4-f1b503f51c0e" />
 
 <br>
 
 #### Oefening 2 <br>
-Light thema met wit en paars. Dark thema met paars en geel.
+Light thema met wit en paars. Dark thema met paars en geel.<br> 
 <img width="400" alt="Screenshot 2026-09-08 193038" src="https://github.com/user-attachments/assets/d5eae514-c635-4988-9038-5c284cc3df6c" />
 <img width="400" alt="Screenshot 2026-09-08 193055" src="https://github.com/user-attachments/assets/d5baa1c5-f07c-468c-bb20-032eeab01b5e" />
 <br>
 <br>
-#### Huiswerk Presentatie
+
+#### `Huiswerk Presentatie` <br>
+<br> 
+
+<img width="400" alt="Screenshot 2026-09-09 150632" src="https://github.com/user-attachments/assets/0807f053-87de-43a6-94a3-e0c28ccb77b0" />
+<img width="400" alt="Screenshot 2026-09-09 150644" src="https://github.com/user-attachments/assets/6d82b43b-66e7-4db0-b583-b3a727be039f" />
+<img width="400"  alt="Screenshot 2026-09-09 150653" src="https://github.com/user-attachments/assets/5fb3939d-5230-41c3-94d5-c0411d409744" />
+<img width="400" alt="Screenshot 2026-09-09 150702" src="https://github.com/user-attachments/assets/f8a90046-0f01-41b9-958d-82c7ae2365f5" />
+<img width="400" alt="Screenshot 2026-09-09 150716" src="https://github.com/user-attachments/assets/844ec20b-0cab-4bb5-b6d1-6fa26a1c8f11" />
+<img width="400" alt="Screenshot 2026-09-09 150725" src="https://github.com/user-attachments/assets/cedac375-e2e7-4968-b059-3b0a51b3d61f" />
+<img width="400"  alt="Screenshot 2026-09-09 150733" src="https://github.com/user-attachments/assets/621f9879-a084-427a-9aa9-e1f72fcdb0f4" />
+<img width="400" alt="Screenshot 2026-09-09 150740" src="https://github.com/user-attachments/assets/cfb8c27b-ba22-490d-a0a9-6d73ec923066" />
+
+
+
+
+
+
+
 
 
 
