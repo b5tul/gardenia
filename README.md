@@ -134,7 +134,7 @@ Ik denk dat de ware essentie van mijn onderwerp zit in de Tumblr-fanbasecultuur 
 <br>
 <strong>- Welke woorden uit de kwaliteitenlijst kunnen passen bij je onderwerp?​</strong> 
 <br>
- **- Heeft 'de ander' een aanvulling op je onderwerp?​** <br>
+<strong>- Heeft 'de ander' een aanvulling op je onderwerp?​</strong> <br>
 We actually forgot to do that... But she said she liked the onderwerp.
 <br>
 <strong>- Wat is het karakter/ de uitstraling/ het gevoel dat bij het onderwerp past? (bijv. stoer, hip, vrolijk, dynamisch, eenvoudig, enz.)</strong> ​<br>
