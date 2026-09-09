@@ -130,7 +130,7 @@ Ik was gekoppeld met Bryenne om onze presentaties te laten zien <br>
 <br> 
 <br>
 <strong>- Wat is voor jou de essentie van wat je hebt gepresenteerd qua onderwerp en geschreven/beeldende content?</strong> ​<br>
-Ik denk dat de ware essentie van mijn onderwerp zit in de Tumblr-fanbasecultuur van de jaren 2000/2010. Een fangirl zijn draaide vroeger veel meer om verzamelen en het hebben van een hechte gemeenschap, maar dat gevoel is door het consumentisme en de huidige sociale media een beetje vervaagd. Ik wil dat specifieke gevoel weer terughalen. <br> 
+Ik denk dat de ware essentie van mijn onderwerp zit in de Tumblr fanbase cultuur van de jaren 2000/2010. Een fangirl zijn draaide vroeger veel meer om verzamelen en het hebben van een hechte gemeenschap, maar dat gevoel is door het consumentisme en de huidige sociale media een beetje vervaagd. Ik wil dat specifieke gevoel weer terughalen. <br> 
 <br>
 <strong>- Welke woorden uit de kwaliteitenlijst kunnen passen bij je onderwerp?​</strong> <br> 
 <br>
