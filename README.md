@@ -78,17 +78,20 @@ Oefening 3
 
 3. Vertel waar jij mee aan de slag wilt gaan bij het maken van jouw eigen digital garden (let op: dit zijn jouw eerste ideeën, dit kan en mag veranderen in de loop van het programma.
    Ik dacht dat ik iets over "fangirlling" kunnen doen. Het was een grootdeel van mijn leven als een kind maar ook nu. Ik kan een deel persoonlijker kunnen maken maar ook informatief.
-<br>
+   <br>
+
 ### `8 sept - [Workshop: Light-Dark Thema]`
-#### Oefening 1 
+
+#### Oefening 1 <br>
+
 <img width="400" alt="Screenshot 2026-09-08 193005" src="https://github.com/user-attachments/assets/1d2c805a-a835-4468-a1e4-f1b503f51c0e" />
 <img width="400" alt="Screenshot 2026-09-08 192937" src="https://github.com/user-attachments/assets/0d8c587e-6185-4d83-a4f5-b6ecf9edd404" />
 <br>
-#### Oefening 2
+
+#### Oefening 2 <br>
+
 <img width="400" alt="Screenshot 2026-09-08 193055" src="https://github.com/user-attachments/assets/d5baa1c5-f07c-468c-bb20-032eeab01b5e" />
 <img width="400" alt="Screenshot 2026-09-08 193038" src="https://github.com/user-attachments/assets/d5eae514-c635-4988-9038-5c284cc3df6c" />
-
-
 
 ### `9 sept`
 
