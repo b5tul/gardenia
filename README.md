@@ -129,18 +129,18 @@ Light thema met wit en paars. Dark thema met paars en geel.<br>
 
 ### `9 sept`
 <br>
-**- Wat is voor jou de essentie van wat je hebt gepresenteerd qua onderwerp en geschreven/beeldende content?** ​<br>
+ **- Wat is voor jou de essentie van wat je hebt gepresenteerd qua onderwerp en geschreven/beeldende content?** ​<br>
 Ik denk dat de ware essentie van mijn onderwerp zit in de Tumblr-fanbasecultuur van de jaren 2000/2010. Een fangirl zijn draaide vroeger veel meer om verzamelen en het hebben van een hechte gemeenschap, maar dat gevoel is door het consumentisme en de huidige sociale media een beetje vervaagd. Ik wil dat specifieke gevoel weer terughalen.
 <br>
 **- Welke woorden uit de kwaliteitenlijst kunnen passen bij je onderwerp?​**
 <br>
-**- Heeft 'de ander' een aanvulling op je onderwerp?​**
+ **- Heeft 'de ander' een aanvulling op je onderwerp?​** <br>
 We actually forgot to do that... But she said she liked the onderwerp.
 <br>
-**- Wat is het karakter/ de uitstraling/ het gevoel dat bij het onderwerp past? (bijv. stoer, hip, vrolijk, dynamisch, eenvoudig, enz.)**​<br>
+ **- Wat is het karakter/ de uitstraling/ het gevoel dat bij het onderwerp past? (bijv. stoer, hip, vrolijk, dynamisch, eenvoudig, enz.)** ​<br>
 Nostalgisch, DIY, ongepolijst.
 <br>
-**- Welke inspiratie kun je uit je 25 afbeeldingen halen. Stijl, een gevoel, vorm, enz.​**<br>
+ **- Welke inspiratie kun je uit je 25 afbeeldingen halen. Stijl, een gevoel, vorm, enz.​** <br>
 Physieke materialen (diy), mix van allerlei dingen zoals text en afbeeldingen (ik weet het niet als ik het kan), vrije vorm met collages?, y2k en girly stijl
 
 ​
