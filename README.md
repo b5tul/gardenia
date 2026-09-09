@@ -145,7 +145,7 @@ Physieke materialen (diy), mix van allerlei dingen zoals text en afbeeldingen (i
 
 <br>
 
-#### Mijn Miro Board <br> 
+#### <strong> Mijn Miro Board </strong> <br> 
 <br> 
 <img width="400" alt="Screenshot 2026-09-09 2" src="https://github.com/user-attachments/assets/048ad418-10b2-443b-ab55-358df45095bd" />
 <img width="400" alt="Screenshot 2026-09-09 3" src="https://github.com/user-attachments/assets/78622064-8347-469b-8692-c6ddccaba7b3" />
