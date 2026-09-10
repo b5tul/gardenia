@@ -160,7 +160,7 @@ Physieke materialen (diy), mix van allerlei dingen zoals text en afbeeldingen (i
 ### `10 sept [Workshop: CSS Mooie kleuren en gradients]` <br> 
 <br> 
 
-#### Workshop: CSS Mooie kleuren en gradients
+#### - Workshop: CSS Mooie kleuren en gradients
 Ik was aanwezig bij de workshop.
 <br>
 
@@ -170,10 +170,11 @@ Ik was aanwezig bij de workshop.
 <img width="400" alt="Screenshot 2026-09-10 153328" src="https://github.com/user-attachments/assets/2ea24001-0a12-467b-bde3-3470f7ef4eb7" />
 <br> 
 
-#### Oefening 1 en 2
+#### - Oefening 1 en 2
 - nog niet gedaan
-<br> 
-#### Huiswerk voor vrijdag <br>
+<br>
+
+#### - Huiswerk voor vrijdag  <br> 
 <br> 
 Ik heb vandaag nog een Crazy 8 gedaan omdat ik niet tevreden was met mijn eerste Crazy 8. <br> 
 Hier zijn mijn alle crazy 8's: <br> 
