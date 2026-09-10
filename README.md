@@ -164,14 +164,15 @@ Physieke materialen (diy), mix van allerlei dingen zoals text en afbeeldingen (i
 Ik was aanwezig bij de workshop.
 <br>
 
-<strong>Meetypen oefeningen</strong> <br> 
+<strong> Meetypen oefeningen </strong> <br> 
 <img width="400" alt="Screenshot 2026-09-10 150825" src="https://github.com/user-attachments/assets/2d3266fe-d7f2-4640-b1f1-a2905841992c" />
 <img width="400" alt="Screenshot 2026-09-10 230930" src="https://github.com/user-attachments/assets/6aa157a6-ed54-4de4-b0b3-639094726577" />
 <img width="400" alt="Screenshot 2026-09-10 153328" src="https://github.com/user-attachments/assets/2ea24001-0a12-467b-bde3-3470f7ef4eb7" />
-<br>
+<br> 
+
 #### Oefening 1 en 2
-- nog niet gedaan -
-<br>
+- nog niet gedaan
+<br> 
 #### Huiswerk voor vrijdag <br>
 <br> 
 Ik heb vandaag nog een Crazy 8 gedaan omdat ik niet tevreden was met mijn eerste Crazy 8. <br> 
@@ -179,9 +180,12 @@ Hier zijn mijn alle crazy 8's: <br>
 <img width="400" alt="WhatsApp Image 2026-09-10 at 23 08 43" src="https://github.com/user-attachments/assets/83d9188e-ec58-40ed-833e-d277ad7bbaf0" />
 <img width="400" alt="WhatsApp Image 2026-09-10 at 23 08 43 (1)" src="https://github.com/user-attachments/assets/c58c7a47-5e77-4817-9609-155ccca6c880" /> 
 <br> 
+<br> 
+
 Mobile Schermen <br> 
 <img width="400" alt="mobile scherm 1" src="https://github.com/user-attachments/assets/aebb35bf-045a-404f-b1bc-2cca13e7e1e0" />
-<img width="400" alt="mobile scherm 2" src="https://github.com/user-attachments/assets/1c300565-6e33-4c28-b76b-751a9610deb0" />
+<img width="400" alt="mobile scherm 2" src="https://github.com/user-attachments/assets/0498dbac-f688-4e96-86a5-13e00c4950b6" />
+
 
 
 
