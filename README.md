@@ -220,6 +220,3 @@ Op de vraag welke competentie ik het lastigst vond, koos ik voor evalueren. Bij 
 
 [...]
 
-### 31 aug - Kickoff
-
-Een fork van de model repository gemaakt en gepubliceerd via mijn eigen Github omgeving.
