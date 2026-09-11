@@ -162,7 +162,7 @@ Physieke materialen (diy), mix van allerlei dingen zoals text en afbeeldingen (i
 
 #### - Workshop: CSS Mooie kleuren en gradients
 Ik was aanwezig bij de workshop.
-<br>
+<br> 
 
 <strong> Meetypen oefeningen </strong> <br> 
 <img width="400" alt="Screenshot 2026-09-10 150825" src="https://github.com/user-attachments/assets/2d3266fe-d7f2-4640-b1f1-a2905841992c" />
@@ -185,7 +185,21 @@ Hier zijn mijn alle crazy 8's: <br>
 
 Mobile Schermen <br> 
 <img width="400" alt="mobile scherm 1" src="https://github.com/user-attachments/assets/aebb35bf-045a-404f-b1bc-2cca13e7e1e0" />
-<img width="400" alt="mobile scherm 2" src="https://github.com/user-attachments/assets/0498dbac-f688-4e96-86a5-13e00c4950b6" />
+<img width="400" alt="mobile scherm 2" src="https://github.com/user-attachments/assets/0498dbac-f688-4e96-86a5-13e00c4950b6" /> 
+<br> 
+<br> 
+
+### `11 sept [Gesprek en Workshop: Grid 101 + Media queries]` <br> 
+<br> 
+
+#### Gesprek met Barbara <br> 
+Ik ben up-to-date met alle content op GitHub. Ik was bij meeste workshops aanwezig, dus het begrijpen van de deep dives gaat goed. Ik heb Barbara mijn mobiele schermen en Crazy 8's laten zien. Ze vond het leuk en vroeg hoe ik het nostalgische gevoel ga overbrengen. Ik heb verteld dat ik verschillende materialen ga gebruiken, zoals mijn eigen schetsen. Ik wil mijn website namelijk als een pinboard inrichten.<br> 
+Op de vraag welke competentie ik het lastigst vond, koos ik voor evalueren. Bij dit soort projecten kan het namelijk lastig zijn om kritisch terug te blikken en door te ontwikkelen. Barbara gaf aan dat ik hiervoor de Webby criteria kan gebruiken, wat een waardevol inzicht was. Vervolgens gaf ik aan dat mijn website achteraf gezien misschien niet heel uitdagend leek. Dankzij een medestudent ontdekte ik dat ik bepaalde vormen met clip-path kan maken, en diegene raadde me daar nuttige bronnen voor aan. Barbara gaf aan dat het niet gaat om hoe complex of groot de site is, maar juist dat je het zelf codeert en dat het echt jouw eigen werk is. Dat hielp me erg om mijn gedachten op een rijtje te krijgen.
+<br> 
+
+#### Workshop: Grid 101 + Media queries <br> 
+
+
 
 
 
