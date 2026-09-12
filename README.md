@@ -170,8 +170,9 @@ Ik was aanwezig bij de workshop.
 <img width="400" alt="Screenshot 2026-09-10 153328" src="https://github.com/user-attachments/assets/2ea24001-0a12-467b-bde3-3470f7ef4eb7" />
 <br> 
 
-#### - Oefening 1 en 2
-- nog niet gedaan
+#### - Oefening 1 en 2 <br> 
+<img width="400" alt="Screenshot 2026-09-11 092241" src="https://github.com/user-attachments/assets/05a5d024-32e1-451e-8634-a9b7776ab203" />
+<img width="400" alt="Screenshot 2026-09-12 163750" src="https://github.com/user-attachments/assets/c54131f6-9733-4362-8b96-4785194c1744" />
 <br>
 
 #### - Huiswerk voor vrijdag  <br> 
@@ -192,12 +193,17 @@ Mobile Schermen <br>
 ### `11 sept [Gesprek en Workshop: Grid 101 + Media queries]` <br> 
 <br> 
 
+
+
 #### Gesprek met Barbara <br> 
 Ik ben up-to-date met alle content op GitHub. Ik was bij meeste workshops aanwezig, dus het begrijpen van de deep dives gaat goed. Ik heb Barbara mijn mobiele schermen en Crazy 8's laten zien. Ze vond het leuk en vroeg hoe ik het nostalgische gevoel ga overbrengen. Ik heb verteld dat ik verschillende materialen ga gebruiken, zoals mijn eigen schetsen. Ik wil mijn website namelijk als een pinboard inrichten.<br> 
 Op de vraag welke competentie ik het lastigst vond, koos ik voor evalueren. Bij dit soort projecten kan het namelijk lastig zijn om kritisch terug te blikken en door te ontwikkelen. Barbara gaf aan dat ik hiervoor de Webby criteria kan gebruiken, wat een waardevol inzicht was. Vervolgens gaf ik aan dat mijn website achteraf gezien misschien niet heel uitdagend leek. Dankzij een medestudent ontdekte ik dat ik bepaalde vormen met clip-path kan maken, en diegene raadde me daar nuttige bronnen voor aan. Barbara gaf aan dat het niet gaat om hoe complex of groot de site is, maar juist dat je het zelf codeert en dat het echt jouw eigen werk is. Dat hielp me erg om mijn gedachten op een rijtje te krijgen.
 <br> 
 
 #### Workshop: Grid 101 + Media queries <br> 
+Oefeningen <br> 
+<img width="400" alt="Screenshot 2026-09-12 200559" src="https://github.com/user-attachments/assets/6f6e8ad7-6e4f-4891-ad5c-a2614fbd06e2" />
+<img width="400" alt="Screenshot 2026-09-11 134006" src="https://github.com/user-attachments/assets/04e720ce-d56d-45ae-b1de-67e14ee7f58c" />
 
 
 
