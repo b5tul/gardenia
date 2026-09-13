@@ -44,6 +44,8 @@
 
 body {
   font-family: "forma-djr-deck", system-ui;
+  font-weight: 500;
+  font-style: normal;
   background-color: Canvas;
   color: CanvasText;
   color-scheme: light dark;
