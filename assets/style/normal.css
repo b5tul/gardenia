@@ -5,9 +5,45 @@
   font-weight: 400;
   font-style: normal;
 }
+@font-face {
+  font-family: "forma-djr-deck", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: "forma-djr-deck", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+}
+@font-face {
+  font-family: "forma-djr-deck", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "forma-djr-deck", sans-serif;
+  font-weight: 500;
+  font-style: italic;
+}
+@font-face {
+  font-family: "forma-djr-deck", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+}
+@font-face {
+  font-family: "forma-djr-deck", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: "forma-djr-deck", sans-serif;
+  font-weight: 700;
+  font-style: italic;
+}
 
 body {
-  font-family: "Comic Relief", system-ui;
+  font-family: "forma-djr-deck", system-ui;
   background-color: Canvas;
   color: CanvasText;
   color-scheme: light dark;
