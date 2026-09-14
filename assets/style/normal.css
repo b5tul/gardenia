@@ -5,7 +5,7 @@
   font-weight: 400;
   font-style: normal;
 }
-@font-face {
+/* @font-face {
   font-family: "forma-djr-deck", sans-serif;
   font-weight: 400;
   font-style: normal;
@@ -42,11 +42,75 @@
   font-style: italic;
 }
 
+@font-face {
+  font-family: "erotica-big", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: "erotica-inline", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+} */
+@font-face {
+  font-family: "Ballet";
+  src: url(../type/Ballet-Regular-VariableFont_opsz.ttf);
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: "MissFajardose";
+  src: url(../type/MissFajardose-Regular.ttf);
+  font-weight: 400;
+  font-style: normal;
+}
+
 body {
   font-family: "forma-djr-deck", system-ui;
   font-weight: 500;
+  font-family: Helvetica, sans-serif;
   font-style: normal;
-  background-color: Canvas;
-  color: CanvasText;
+  color: rgb(45, 45, 45);
   color-scheme: light dark;
+  background-color: rgb(255, 181, 255);
+}
+main {
+  display: grid;
+  max-width: 70em;
+  grid-template-columns: repeat(auto-fit, minmax(20em, 20em));
+  gap: 1em;
+  margin: 1em;
+}
+article {
+  /* background-color: rgb(239, 239, 239); */
+  background-color: #fff2fd;
+  padding: 0em 1em 1em 1em;
+  border-radius: 10px;
+}
+/* article:nth-of-type(:first-child) {} */
+h1 {
+  margin: 1em;
+  max-width: 30em;
+  display: grid;
+  font-family: "MissFajardose";
+  font-size: 50px;
+  /* font-family: "erotica-inline"; */
+  /* font-weight: 400; */
+  /* font-style: normal; */
+  /* font-size: 100px; */
+  /* grid-template-columns: ; */
+  /* grid-template-rows: 1fr; */
+}
+nav {
+  display: grid;
+  margin: 0em;
+  max-width: 60em;
+  align-self: center;
+  justify-self: start;
+  grid-template-columns: 20em 1fr 1fr 1fr;
+  grid-template-rows: 1fr;
+  font-family: Helvetica, sans-serif;
+  font-weight: normal;
+  font-style: normal;
+  align-items: center;
 }
