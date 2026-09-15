@@ -12,9 +12,9 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
   Domeinnaam: betulspace.nl DNS-instellingen toevoegen en daarna met github koppelen.
 - Beschrijf hoe je aanpassingen aan jouw pagina kunt maken en hoe je er voor zorgt dat die op het web gepubliceerd worden.
   Dat heb ik nog niet gedaan.
-<br>
-   <br>
-   
+  <br>
+  <br>
+
 ### `2 sept - [Workshop Typografie en Schetsen]`
 
 #### Typografie
@@ -23,7 +23,7 @@ Voorafgaand aan de workshop zijn er twee artikelen gelezen, maar hier heb ik gee
 
 <img width="400" height="221" alt="Screenshot 2026-09-06 194559" src="https://github.com/user-attachments/assets/5869e496-d09f-4a5c-a0a6-dacbcf1d92d9" />
 
-<br> 
+<br>
 
 #### Schetsen
 
@@ -93,21 +93,24 @@ Oefening 3
 ### `8 sept - [Workshop: Light-Dark Thema]`
 
 #### Oefening 1 <br>
-We hebben geleerd om custom properties te geven. color-scheme → custom properties <br> 
+
+We hebben geleerd om custom properties te geven. color-scheme → custom properties <br>
 <img width="400" alt="Screenshot 2026-09-08 192937" src="https://github.com/user-attachments/assets/0d8c587e-6185-4d83-a4f5-b6ecf9edd404" />
 <img width="400" alt="Screenshot 2026-09-08 193005" src="https://github.com/user-attachments/assets/1d2c805a-a835-4468-a1e4-f1b503f51c0e" />
 
 <br>
 
 #### Oefening 2 <br>
-Light thema met wit en paars. Dark thema met paars en geel.<br> 
+
+Light thema met wit en paars. Dark thema met paars en geel.<br>
 <img width="400" alt="Screenshot 2026-09-08 193038" src="https://github.com/user-attachments/assets/d5eae514-c635-4988-9038-5c284cc3df6c" />
 <img width="400" alt="Screenshot 2026-09-08 193055" src="https://github.com/user-attachments/assets/d5baa1c5-f07c-468c-bb20-032eeab01b5e" />
 <br>
 <br>
 
 #### `Huiswerk Presentatie` <br>
-<br> 
+
+<br>
 
 <img width="400" alt="Screenshot 2026-09-09 150632" src="https://github.com/user-attachments/assets/0807f053-87de-43a6-94a3-e0c28ccb77b0" />
 <img width="400" alt="Screenshot 2026-09-09 150644" src="https://github.com/user-attachments/assets/6d82b43b-66e7-4db0-b583-b3a727be039f" />
@@ -122,107 +125,114 @@ Light thema met wit en paars. Dark thema met paars en geel.<br>
 <br>
 
 ### `9 sept` <br>
-<br>
-Ik was gekoppeld met Bryenne om onze presentaties te laten zien <br> 
 
-<img width="300" alt="Screenshot 2026-09-09 082102" src="https://github.com/user-attachments/assets/9a0748f6-bb21-480f-8dbc-b512847669c7" /> <br> 
-<br> 
-<br> 
+<br>
+Ik was gekoppeld met Bryenne om onze presentaties te laten zien <br>
+
+<img width="300" alt="Screenshot 2026-09-09 082102" src="https://github.com/user-attachments/assets/9a0748f6-bb21-480f-8dbc-b512847669c7" /> <br>
+<br>
+<br>
 <br>
 <strong>- Wat is voor jou de essentie van wat je hebt gepresenteerd qua onderwerp en geschreven/beeldende content?</strong> ​<br>
-Ik denk dat de ware essentie van mijn onderwerp zit in de Tumblr fanbase cultuur van de jaren 2000/2010. Een fangirl zijn draaide vroeger veel meer om verzamelen en het hebben van een hechte gemeenschap, maar dat gevoel is door het consumentisme en de huidige sociale media een beetje vervaagd. Ik wil dat specifieke gevoel weer terughalen. <br> 
+Ik denk dat de ware essentie van mijn onderwerp zit in de Tumblr fanbase cultuur van de jaren 2000/2010. Een fangirl zijn draaide vroeger veel meer om verzamelen en het hebben van een hechte gemeenschap, maar dat gevoel is door het consumentisme en de huidige sociale media een beetje vervaagd. Ik wil dat specifieke gevoel weer terughalen. <br>
 <br>
-<strong>- Welke woorden uit de kwaliteitenlijst kunnen passen bij je onderwerp?​</strong> <br> 
+<strong>- Welke woorden uit de kwaliteitenlijst kunnen passen bij je onderwerp?​</strong> <br>
 <br>
 <strong>- Heeft 'de ander' een aanvulling op je onderwerp?​</strong> <br>
-We actually forgot to do that... But she said she liked the onderwerp. <br> 
+We actually forgot to do that... But she said she liked the onderwerp. <br>
 <br>
 <strong>- Wat is het karakter/ de uitstraling/ het gevoel dat bij het onderwerp past? (bijv. stoer, hip, vrolijk, dynamisch, eenvoudig, enz.)</strong> ​<br>
-Nostalgisch, DIY, ongepolijst. <br> 
+Nostalgisch, DIY, ongepolijst. <br>
 <br>
 <strong>- Welke inspiratie kun je uit je 25 afbeeldingen halen. Stijl, een gevoel, vorm, enz.​</strong> <br>
-Physieke materialen (diy), mix van allerlei dingen zoals text en afbeeldingen (ik weet het niet als ik het kan), vrije vorm met collages?, y2k en girly stijl <br> 
+Physieke materialen (diy), mix van allerlei dingen zoals text en afbeeldingen (ik weet het niet als ik het kan), vrije vorm met collages?, y2k en girly stijl <br>
 
 <br>
 
-#### <strong> Mijn Miro Board </strong> <br> 
+#### <strong> Mijn Miro Board </strong> <br>
+
 <br> 
 <img width="400" alt="Screenshot 2026-09-09 2" src="https://github.com/user-attachments/assets/048ad418-10b2-443b-ab55-358df45095bd" />
 <img width="400" alt="Screenshot 2026-09-09 3" src="https://github.com/user-attachments/assets/78622064-8347-469b-8692-c6ddccaba7b3" />
 <img width="400" alt="Screenshot 2026-09-09 4" src="https://github.com/user-attachments/assets/a8921e66-cb36-4eeb-bf0e-1bdfa5d9be72" />
 <img width="400" alt="Screenshot 2026-09-09 5" src="https://github.com/user-attachments/assets/21a222c8-fa20-4e0e-b66b-5075c8e1ab3d" />
 <img width="400" alt="Screenshot 2026-09-09 6" src="https://github.com/user-attachments/assets/856fb518-8f96-47e6-97a4-93bdc0732b52" />
-<img width="400" alt="Screenshot 2026-09-09 7" src="https://github.com/user-attachments/assets/77494332-b091-4e6d-a56d-3643968c4737" /> 
+<img width="400" alt="Screenshot 2026-09-09 7" src="https://github.com/user-attachments/assets/77494332-b091-4e6d-a56d-3643968c4737" />
 
 <br> 
-<br> 
+<br>
 
-### `10 sept [Workshop: CSS Mooie kleuren en gradients]` <br> 
-<br> 
+### `10 sept [Workshop: CSS Mooie kleuren en gradients]` <br>
+
+<br>
 
 #### - Workshop: CSS Mooie kleuren en gradients
-Ik was aanwezig bij de workshop.
-<br> 
 
-<strong> Meetypen oefeningen </strong> <br> 
+Ik was aanwezig bij de workshop.
+<br>
+
+<strong> Meetypen oefeningen </strong> <br>
 <img width="400" alt="Screenshot 2026-09-10 150825" src="https://github.com/user-attachments/assets/2d3266fe-d7f2-4640-b1f1-a2905841992c" />
 <img width="400" alt="Screenshot 2026-09-10 230930" src="https://github.com/user-attachments/assets/6aa157a6-ed54-4de4-b0b3-639094726577" />
 <img width="400" alt="Screenshot 2026-09-10 153328" src="https://github.com/user-attachments/assets/2ea24001-0a12-467b-bde3-3470f7ef4eb7" />
-<br> 
+<br>
 
-#### - Oefening 1 en 2 <br> 
+#### - Oefening 1 en 2 <br>
+
 <img width="400" alt="Screenshot 2026-09-11 092241" src="https://github.com/user-attachments/assets/05a5d024-32e1-451e-8634-a9b7776ab203" />
 <img width="400" alt="Screenshot 2026-09-12 163750" src="https://github.com/user-attachments/assets/c54131f6-9733-4362-8b96-4785194c1744" />
 <br>
 
-#### - Huiswerk voor vrijdag  <br> 
+#### - Huiswerk voor vrijdag <br>
+
 <br> 
 Ik heb vandaag nog een Crazy 8 gedaan omdat ik niet tevreden was met mijn eerste Crazy 8. <br> 
 Hier zijn mijn alle crazy 8's: <br> 
 <img width="400" alt="WhatsApp Image 2026-09-10 at 23 08 43" src="https://github.com/user-attachments/assets/83d9188e-ec58-40ed-833e-d277ad7bbaf0" />
 <img width="400" alt="WhatsApp Image 2026-09-10 at 23 08 43 (1)" src="https://github.com/user-attachments/assets/c58c7a47-5e77-4817-9609-155ccca6c880" /> 
 <br> 
-<br> 
+<br>
 
-Mobile Schermen <br> 
+Mobile Schermen <br>
 <img width="400" alt="mobile scherm 1" src="https://github.com/user-attachments/assets/aebb35bf-045a-404f-b1bc-2cca13e7e1e0" />
-<img width="400" alt="mobile scherm 2" src="https://github.com/user-attachments/assets/0498dbac-f688-4e96-86a5-13e00c4950b6" /> 
-<br> 
-<br> 
+<img width="400" alt="mobile scherm 2" src="https://github.com/user-attachments/assets/0498dbac-f688-4e96-86a5-13e00c4950b6" />
+<br>
+<br>
 
-### `11 sept [Gesprek en Workshop: Grid 101 + Media queries]` <br> 
-<br> 
+### `11 sept [Gesprek en Workshop: Grid 101 + Media queries]` <br>
 
+<br>
 
+#### Gesprek met Barbara <br>
 
-#### Gesprek met Barbara <br> 
-Ik ben up-to-date met alle content op GitHub. Ik was bij meeste workshops aanwezig, dus het begrijpen van de deep dives gaat goed. Ik heb Barbara mijn mobiele schermen en Crazy 8's laten zien. Ze vond het leuk en vroeg hoe ik het nostalgische gevoel ga overbrengen. Ik heb verteld dat ik verschillende materialen ga gebruiken, zoals mijn eigen schetsen. Ik wil mijn website namelijk als een pinboard inrichten.<br> 
+Ik ben up-to-date met alle content op GitHub. Ik was bij meeste workshops aanwezig, dus het begrijpen van de deep dives gaat goed. Ik heb Barbara mijn mobiele schermen en Crazy 8's laten zien. Ze vond het leuk en vroeg hoe ik het nostalgische gevoel ga overbrengen. Ik heb verteld dat ik verschillende materialen ga gebruiken, zoals mijn eigen schetsen. Ik wil mijn website namelijk als een pinboard inrichten.<br>
 Op de vraag welke competentie ik het lastigst vond, koos ik voor evalueren. Bij dit soort projecten kan het namelijk lastig zijn om kritisch terug te blikken en door te ontwikkelen. Barbara gaf aan dat ik hiervoor de Webby criteria kan gebruiken, wat een waardevol inzicht was. Vervolgens gaf ik aan dat mijn website achteraf gezien misschien niet heel uitdagend leek. Dankzij een medestudent ontdekte ik dat ik bepaalde vormen met clip-path kan maken, en diegene raadde me daar nuttige bronnen voor aan. Barbara gaf aan dat het niet gaat om hoe complex of groot de site is, maar juist dat je het zelf codeert en dat het echt jouw eigen werk is. Dat hielp me erg om mijn gedachten op een rijtje te krijgen.
-<br> 
+<br>
 
-#### Workshop: Grid 101 + Media queries <br> 
-Oefeningen <br> 
+#### Workshop: Grid 101 + Media queries <br>
+
+Oefeningen <br>
 <img width="400" alt="Screenshot 2026-09-12 200559" src="https://github.com/user-attachments/assets/6f6e8ad7-6e4f-4891-ad5c-a2614fbd06e2" />
 <img width="400" alt="Screenshot 2026-09-11 134006" src="https://github.com/user-attachments/assets/04e720ce-d56d-45ae-b1de-67e14ee7f58c" />
+<br>
+<br>
 
+### `14 sept [Werkgroep]`
 
+#### Checkout
 
+Leg uit wanneer een website 'lelijk' wordt en geef voorbeelden wat je kan doen om deze 'lelijke' onderdelen te fixen? <br>
 
+- AAls er geen HTML structuur staat en hierarchie, wordt een website lelijk. Passende headers en paragraafs te selecteren.<br>
 
+Vertel welke volgende stap je neemt om je website responsive te maken. <br>
 
+- Display grid maken en dan met grid-template-columns/rows duidelijkere structuur geven. <br>
 
+Kun je het ontwerp en de bouw van je eigen Garden (zo uit je hoofd) onderbouwen in Webby vocabulair? <br>
 
-
-
-
-
-
-
-
-
-
+- Ja en nee kan ik zeggen bij deze vraag. In het begin wordt het moeilijk om welke codes te kiezen. Als ik begint wordt het makkelijker om de juiste codes te kiezen.<br>
 
 ​
 
 [...]
-
