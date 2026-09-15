@@ -229,12 +229,27 @@ Daarna heb ik in de les verder gewerkt. Ik heb grid-template-columns/rows gebrui
 <br>
 
 Opdracht 17 – Responsive voorbeelden zoeken <br>
-<img width="400" alt="Screenshot 2026-09-15 205231" src="https://github.com/user-attachments/assets/e31fa69e-d3c0-442a-9c87-0f90fdf875e8" />
+<img width="400" alt="Screenshot 2026-09-15 205231" src="https://github.com/user-attachments/assets/e31fa69e-d3c0-442a-9c87-0f90fdf875e8" /> <br>
+<br> 
+#### Checkout
+
+Leg uit wanneer een website 'lelijk' wordt en geef voorbeelden wat je kan doen om deze 'lelijke' onderdelen te fixen? <br>
+
+- AAls er geen HTML structuur staat en hierarchie, wordt een website lelijk. Passende headers en paragraafs te selecteren.<br>
+
+Vertel welke volgende stap je neemt om je website responsive te maken. <br>
+
+- Display grid maken en dan met grid-template-columns/rows duidelijkere structuur geven. <br>
+
+Kun je het ontwerp en de bouw van je eigen Garden (zo uit je hoofd) onderbouwen in Webby vocabulair? <br>
+
+- Ja en nee kan ik zeggen bij deze vraag. In het begin wordt het moeilijk om welke codes te kiezen. Als ik begint wordt het makkelijker om de juiste codes te kiezen.<br>
 <br>
 <br>
 
 ### `15 sept [Workshop: Responsive grid + Grid-areas]` <br> 
 <br> 
+
 - Oefening 1 <br>  
 <img width="400" alt="Screenshot 2026-09-15 141213" src="https://github.com/user-attachments/assets/72c31445-a85f-460f-aa78-86b999b641d2" /> <br>
 
@@ -249,24 +264,6 @@ Opdracht 17 – Responsive voorbeelden zoeken <br>
 
 
 
-
-
-
-
-
-#### Checkout
-
-Leg uit wanneer een website 'lelijk' wordt en geef voorbeelden wat je kan doen om deze 'lelijke' onderdelen te fixen? <br>
-
-- AAls er geen HTML structuur staat en hierarchie, wordt een website lelijk. Passende headers en paragraafs te selecteren.<br>
-
-Vertel welke volgende stap je neemt om je website responsive te maken. <br>
-
-- Display grid maken en dan met grid-template-columns/rows duidelijkere structuur geven. <br>
-
-Kun je het ontwerp en de bouw van je eigen Garden (zo uit je hoofd) onderbouwen in Webby vocabulair? <br>
-
-- Ja en nee kan ik zeggen bij deze vraag. In het begin wordt het moeilijk om welke codes te kiezen. Als ik begint wordt het makkelijker om de juiste codes te kiezen.<br>
 
 ​
 
