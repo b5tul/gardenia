@@ -214,8 +214,12 @@ Op de vraag welke competentie ik het lastigst vond, koos ik voor evalueren. Bij 
 Oefeningen <br>
 <img width="400" alt="Screenshot 2026-09-12 200559" src="https://github.com/user-attachments/assets/6f6e8ad7-6e4f-4891-ad5c-a2614fbd06e2" />
 <img width="400" alt="Screenshot 2026-09-11 134006" src="https://github.com/user-attachments/assets/04e720ce-d56d-45ae-b1de-67e14ee7f58c" />
-<br>
-<br>
+<br> 
+
+Mijn nieuwe schermschets <br> 
+
+<img width="500" alt="WhatsApp Image 2026-09-14 at 09 44 02" src="https://github.com/user-attachments/assets/e80a0c4e-e5e8-460f-a4cf-53cc1a29792d" />
+
 
 ### `14 sept [Werkgroep]`
 #### Bi-weekly geek 1 <br>
