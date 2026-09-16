@@ -237,17 +237,14 @@ Opdracht 17 – Responsive voorbeelden zoeken <br>
 <br> 
 #### Checkout
 
-Leg uit wanneer een website 'lelijk' wordt en geef voorbeelden wat je kan doen om deze 'lelijke' onderdelen te fixen? <br>
+- Leg uit wanneer een website 'lelijk' wordt en geef voorbeelden wat je kan doen om deze 'lelijke' onderdelen te fixen? <br>
+Als er geen HTML structuur staat en hierarchie, wordt een website lelijk. Passende headers en paragraafs te selecteren.<br>
 
-- AAls er geen HTML structuur staat en hierarchie, wordt een website lelijk. Passende headers en paragraafs te selecteren.<br>
+- Vertel welke volgende stap je neemt om je website responsive te maken. <br>
+Display grid maken en dan met grid-template-columns/rows duidelijkere structuur geven. <br> 
 
-Vertel welke volgende stap je neemt om je website responsive te maken. <br>
-
-- Display grid maken en dan met grid-template-columns/rows duidelijkere structuur geven. <br>
-
-Kun je het ontwerp en de bouw van je eigen Garden (zo uit je hoofd) onderbouwen in Webby vocabulair? <br>
-
-- Ja en nee kan ik zeggen bij deze vraag. In het begin wordt het moeilijk om welke codes te kiezen. Als ik begint wordt het makkelijker om de juiste codes te kiezen.<br>
+- Kun je het ontwerp en de bouw van je eigen Garden (zo uit je hoofd) onderbouwen in Webby vocabulair? <br>
+Ja en nee kan ik zeggen bij deze vraag. In het begin wordt het moeilijk om welke codes te kiezen. Als ik begint wordt het makkelijker om de juiste codes te kiezen.<br>
 <br>
 <br>
 
@@ -274,7 +271,7 @@ Kun je het ontwerp en de bouw van je eigen Garden (zo uit je hoofd) onderbouwen 
   Hierarchie: Elk element heeft een ander niveau, dus het belangrijkste element springt eruit. <br> 
   Contrast: Het sterkste verschil die je kan laten zien <br>
   
-- Een grid biedt ruimte om te spelen (vrijheid), maar tegelijkertijd ook eenheid en structuur (vastigheid). Wat wordt hiermee bedoeld?
+- Een grid biedt ruimte om te spelen (vrijheid), maar tegelijkertijd ook eenheid en structuur (vastigheid). Wat wordt hiermee bedoeld? <br> 
   Je kan dus de plek en de grote van elementen veranderen maar in de ruimte waar het mag (dus dat is dan grid). <br>
   
 - Welk principe neem je mee in een laatste iteratie van je ontwerp? <br>
