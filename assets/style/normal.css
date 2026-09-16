@@ -1,57 +1,10 @@
-/* HIER KOMT JOUW CSS */
 @font-face {
   font-family: "Comic Relief";
   src: url(../type/ComicRelief-Regular.woff2);
   font-weight: 400;
   font-style: normal;
 }
-/* @font-face {
-  font-family: "forma-djr-deck", sans-serif;
-  font-weight: 400;
-  font-style: normal;
-}
-@font-face {
-  font-family: "forma-djr-deck", sans-serif;
-  font-weight: 400;
-  font-style: italic;
-}
-@font-face {
-  font-family: "forma-djr-deck", sans-serif;
-  font-weight: 500;
-  font-style: normal;
-}
 
-@font-face {
-  font-family: "forma-djr-deck", sans-serif;
-  font-weight: 500;
-  font-style: italic;
-}
-@font-face {
-  font-family: "forma-djr-deck", sans-serif;
-  font-weight: 600;
-  font-style: normal;
-}
-@font-face {
-  font-family: "forma-djr-deck", sans-serif;
-  font-weight: 700;
-  font-style: normal;
-}
-@font-face {
-  font-family: "forma-djr-deck", sans-serif;
-  font-weight: 700;
-  font-style: italic;
-}
-
-@font-face {
-  font-family: "erotica-big", sans-serif;
-  font-weight: 400;
-  font-style: normal;
-}
-@font-face {
-  font-family: "erotica-inline", sans-serif;
-  font-weight: 400;
-  font-style: normal;
-} */
 @font-face {
   font-family: "Ballet";
   src: url(../type/Ballet-Regular-VariableFont_opsz.ttf);
@@ -65,56 +18,131 @@
   font-style: normal;
 }
 
+html {
+  color-scheme: light dark;
+  --background: rgb(255, 181, 255);
+  --text-color: rgb(45, 45, 45);
+  --text-background: #fff2fd;
+  --article-text: rgb(45, 45, 45);
+  --hover-background: rgb(45, 45, 45);
+  --hover-text: rgb(45, 45, 45);
+  --hover-nav: #ffffff;
+  --hover-nav-shadow: #2d3153;
+
+  --background: light-dark(rgb(255, 181, 255), #2d3153);
+  --text-color: light-dark(rgb(45, 45, 45), rgb(255, 218, 255));
+  --text-background: light-dark(#fff2fd, rgb(255, 218, 255));
+  --article-text: light-dark(rgb(45, 45, 45), #2d3153);
+  --hover-background: light-dark(#2d3153, #131522);
+  --hover-text: light-dark(rgb(255, 218, 255), rgb(255, 218, 255));
+  --hover-nav: light-dark(#ffffff, #ffffff);
+  --hover-nav-shadow: light-dark(#2d3153, rgb(239, 107, 239));
+}
+
 body {
   font-family: "forma-djr-deck", system-ui;
   font-weight: 500;
   font-family: Helvetica, sans-serif;
   font-style: normal;
-  color: rgb(45, 45, 45);
-  color-scheme: light dark;
-  background-color: rgb(255, 181, 255);
+  color: var(--text-color);
+  background-color: var(--background);
 }
+
 main {
   display: grid;
   max-width: 50em;
   grid-template-columns: 1fr 1fr;
-  grid-template-columns: repeat(auto-fit, minmax(auto, auto));
+  grid-template-columns: repeat(auto-fit, minmax(10em, 20em));
   gap: 1em;
   margin: 1em;
-  /* justify-content: center; later can be deleted */
+  padding: 0em 5em 0em 5em;
+
   @media (width<30em) {
     grid-template-columns: 1fr 1fr;
   }
 }
+
+/******************/
+/**** ARTICLES ****/
+/******************/
+
+article:nth-last-child(1) {
+  background-color: var(--text-background);
+  aspect-ratio: 1/1;
+  width: 100%;
+  /* max-width: 100%; ya da grid hücresine göre istediğin bir genişlik */
+  padding: 25% 20%; /* metni yıldızın kolları arasına sıkıştırmaz, merkeze toplar */
+  box-sizing: border-box;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  text-wrap: balance;
+
+  grid-column-start: 1;
+  grid-row-start: 1;
+  /* padding: 20%; */
+  clip-path: polygon(
+    50% 0%,
+    63% 33%,
+    100% 33%,
+    70% 59%,
+    82% 95%,
+    50% 72%,
+    19% 95%,
+    30% 59%,
+    0% 33%,
+    37% 33%
+  );
+}
 article {
-  /* background-color: rgb(239, 239, 239); */
-  background-color: #fff2fd;
+  background-color: var(--text-background);
+  color: var(--article-text);
   padding: 1em 1em 1em 1em;
   border-radius: 10px;
+  cursor: pointer;
 }
-article:nth-of-type(1) {
-  grid-column-start: 1;
-  grid-column-end: -1;
+article:hover {
+  background-color: var(--hover-background);
+  color: var(--hover-text);
 }
+
+/****************/
+/**** HEADER ****/
+/****************/
+
 h1 {
-  margin: 0em;
-  min-width: 5em;
+  /* min-width: 5em; */
   display: grid;
   font-family: "MissFajardose";
-  font-size: 50px;
+  font-size: 3em;
 }
 nav {
+  /* background-color: #fff2fd; */
   display: grid;
-  gap: 1em;
+  padding: 0.5em;
+  width: 100%;
+  gap: 0.5em;
   /* max-width: 30em; */
   grid-template-columns: 1fr 1fr 1fr 1fr;
-  grid-template-columns: repeat(auto-fit, minmax(15em, auto));
+  grid-template-columns: repeat(auto-fit, minmax(10em, 15em));
   @media (width<40em) {
     grid-template-columns: 1fr;
   }
   /* grid-template-rows: 1fr; */
   font-family: Helvetica, sans-serif;
-  font-weight: normal;
   font-style: normal;
   align-items: center;
+}
+nav p {
+  font-weight: 700;
+  cursor: pointer;
+}
+
+nav p:hover {
+  /* text-decoration: underline; */
+  text-shadow: var(--hover-nav-shadow) 0px 0 10px; /* offset-x, y, blur */
+
+  color: var(--hover-nav);
 }
