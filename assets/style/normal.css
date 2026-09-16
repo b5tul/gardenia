@@ -81,8 +81,7 @@ main {
   grid-template-columns: repeat(auto-fit, minmax(auto, auto));
   gap: 1em;
   margin: 1em;
-  justify-content: center; /* later can be deleted */
-  align-items: center;
+  /* justify-content: center; later can be deleted */
   @media (width<30em) {
     grid-template-columns: 1fr 1fr;
   }
@@ -105,12 +104,14 @@ h1 {
   font-size: 50px;
 }
 nav {
-  display: flex;
+  display: grid;
   gap: 1em;
-  max-width: 30em;
+  /* max-width: 30em; */
   grid-template-columns: 1fr 1fr 1fr 1fr;
   grid-template-columns: repeat(auto-fit, minmax(15em, auto));
-
+  @media (width<40em) {
+    grid-template-columns: 1fr;
+  }
   /* grid-template-rows: 1fr; */
   font-family: Helvetica, sans-serif;
   font-weight: normal;
