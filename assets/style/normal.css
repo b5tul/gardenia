@@ -77,47 +77,40 @@ body {
 main {
   display: grid;
   max-width: 50em;
-  min-width: 30em;
-  grid-template-columns: repeat(auto-fit, minmax(20em, 1fr));
+  grid-template-columns: 1fr 1fr;
+  grid-template-columns: repeat(auto-fit, minmax(auto, auto));
   gap: 1em;
   margin: 1em;
-  /* align-items: center; */
   justify-content: center; /* later can be deleted */
   align-items: center;
+  @media (width<30em) {
+    grid-template-columns: 1fr 1fr;
+  }
 }
 article {
   /* background-color: rgb(239, 239, 239); */
   background-color: #fff2fd;
-  padding: 0em 1em 1em 1em;
+  padding: 1em 1em 1em 1em;
   border-radius: 10px;
 }
 article:nth-of-type(1) {
   grid-column-start: 1;
-  grid-column-end: 3;
+  grid-column-end: -1;
 }
 h1 {
   margin: 0em;
-  min-width: 15em;
+  min-width: 5em;
   display: grid;
   font-family: "MissFajardose";
   font-size: 50px;
-  /* font-family: "erotica-inline"; */
-  /* font-weight: 400; */
-  /* font-style: normal; */
-  /* font-size: 100px; */
-  /* grid-template-columns: ; */
-  /* grid-template-rows: 1fr; */
 }
 nav {
-  display: grid;
-  /* margin-bottom: 1em; */
-  /* margin-right: 1em; */
-  max-width: 60em;
-  min-width: 10em;
-  align-self: center;
-  /* justify-self: center; */
-  grid-template-columns: repeat(auto-fit, minmax(15em, 1fr));
-  /* grid-template-columns: 15em 1fr 1fr 1fr; */
+  display: flex;
+  gap: 1em;
+  max-width: 30em;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-template-columns: repeat(auto-fit, minmax(15em, auto));
+
   /* grid-template-rows: 1fr; */
   font-family: Helvetica, sans-serif;
   font-weight: normal;
