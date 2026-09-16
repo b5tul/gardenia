@@ -254,7 +254,7 @@ Kun je het ontwerp en de bouw van je eigen Garden (zo uit je hoofd) onderbouwen 
 ### `15 sept [Workshop: Responsive grid + Grid-areas]` <br> 
 <br> 
 
-- Oefening 1 <br>  
+- Oefening 1 <br>
 <img width="400" alt="Screenshot 2026-09-15 141213" src="https://github.com/user-attachments/assets/72c31445-a85f-460f-aa78-86b999b641d2" /> <br>
 
 
