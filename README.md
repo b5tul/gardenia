@@ -214,11 +214,27 @@ Op de vraag welke competentie ik het lastigst vond, koos ik voor evalueren. Bij 
 Oefeningen <br>
 <img width="400" alt="Screenshot 2026-09-12 200559" src="https://github.com/user-attachments/assets/6f6e8ad7-6e4f-4891-ad5c-a2614fbd06e2" />
 <img width="400" alt="Screenshot 2026-09-11 134006" src="https://github.com/user-attachments/assets/04e720ce-d56d-45ae-b1de-67e14ee7f58c" />
-<br>
-<br>
+<br> 
+
+Mijn nieuwe schermschets <br> 
+
+<img width="500" alt="WhatsApp Image 2026-09-14 at 09 44 02" src="https://github.com/user-attachments/assets/e80a0c4e-e5e8-460f-a4cf-53cc1a29792d" />
+
 
 ### `14 sept [Werkgroep]`
+#### Bi-weekly geek 1 <br>
+Onze group: Ik, Tüya, Susanne en Casper <br>
+<img width="400" alt="Screenshot 2026-09-14 115058" src="https://github.com/user-attachments/assets/98dae7ff-09b2-4f38-b067-6b63e0633d57" />
+<img width="400" alt="Screenshot 2026-09-14 115217" src="https://github.com/user-attachments/assets/04dcaaf6-1af7-48a9-aca6-93ef4fa15d75" />
+<br> 
 
+Daarna heb ik in de les verder gewerkt. Ik heb grid-template-columns/rows gebruikt om een goede structuur te geven. <br>
+<img width="400" alt="Screenshot 2026-09-14 181728" src="https://github.com/user-attachments/assets/497f091c-319f-4013-a916-2519258e4001" />
+<br>
+
+Opdracht 17 – Responsive voorbeelden zoeken <br>
+<img width="400" alt="Screenshot 2026-09-15 205231" src="https://github.com/user-attachments/assets/e31fa69e-d3c0-442a-9c87-0f90fdf875e8" /> <br>
+<br> 
 #### Checkout
 
 Leg uit wanneer een website 'lelijk' wordt en geef voorbeelden wat je kan doen om deze 'lelijke' onderdelen te fixen? <br>
@@ -232,6 +248,26 @@ Vertel welke volgende stap je neemt om je website responsive te maken. <br>
 Kun je het ontwerp en de bouw van je eigen Garden (zo uit je hoofd) onderbouwen in Webby vocabulair? <br>
 
 - Ja en nee kan ik zeggen bij deze vraag. In het begin wordt het moeilijk om welke codes te kiezen. Als ik begint wordt het makkelijker om de juiste codes te kiezen.<br>
+<br>
+<br>
+
+### `15 sept [Workshop: Responsive grid + Grid-areas]` <br> 
+<br> 
+
+- Oefening 1 <br>  
+<img width="400" alt="Screenshot 2026-09-15 141213" src="https://github.com/user-attachments/assets/72c31445-a85f-460f-aa78-86b999b641d2" /> <br>
+
+
+- Oefening 2 <br> 
+<img width="400" alt="Screenshot 2026-09-15 141156" src="https://github.com/user-attachments/assets/1063581e-fd0b-4bc9-9d7e-7e5653249aba" /> <br>
+
+
+- Oefening 3 <br> 
+<img width="400" alt="Screenshot 2026-09-15 141122" src="https://github.com/user-attachments/assets/842dd769-98fd-400b-8807-3bc5dfe2edb8" /> <br>
+
+
+
+
 
 ​
 
