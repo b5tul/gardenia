@@ -237,24 +237,21 @@ Opdracht 17 – Responsive voorbeelden zoeken <br>
 <br> 
 #### Checkout
 
-Leg uit wanneer een website 'lelijk' wordt en geef voorbeelden wat je kan doen om deze 'lelijke' onderdelen te fixen? <br>
+- Leg uit wanneer een website 'lelijk' wordt en geef voorbeelden wat je kan doen om deze 'lelijke' onderdelen te fixen? <br>
+Als er geen HTML structuur staat en hierarchie, wordt een website lelijk. Passende headers en paragraafs te selecteren.<br>
 
-- AAls er geen HTML structuur staat en hierarchie, wordt een website lelijk. Passende headers en paragraafs te selecteren.<br>
+- Vertel welke volgende stap je neemt om je website responsive te maken. <br>
+Display grid maken en dan met grid-template-columns/rows duidelijkere structuur geven. <br> 
 
-Vertel welke volgende stap je neemt om je website responsive te maken. <br>
-
-- Display grid maken en dan met grid-template-columns/rows duidelijkere structuur geven. <br>
-
-Kun je het ontwerp en de bouw van je eigen Garden (zo uit je hoofd) onderbouwen in Webby vocabulair? <br>
-
-- Ja en nee kan ik zeggen bij deze vraag. In het begin wordt het moeilijk om welke codes te kiezen. Als ik begint wordt het makkelijker om de juiste codes te kiezen.<br>
+- Kun je het ontwerp en de bouw van je eigen Garden (zo uit je hoofd) onderbouwen in Webby vocabulair? <br>
+Ja en nee kan ik zeggen bij deze vraag. In het begin wordt het moeilijk om welke codes te kiezen. Als ik begint wordt het makkelijker om de juiste codes te kiezen.<br>
 <br>
 <br>
 
 ### `15 sept [Workshop: Responsive grid + Grid-areas]` <br> 
 <br> 
 
-- Oefening 1 <br>  
+- Oefening 1 <br>
 <img width="400" alt="Screenshot 2026-09-15 141213" src="https://github.com/user-attachments/assets/72c31445-a85f-460f-aa78-86b999b641d2" /> <br>
 
 
@@ -264,6 +261,22 @@ Kun je het ontwerp en de bouw van je eigen Garden (zo uit je hoofd) onderbouwen 
 
 - Oefening 3 <br> 
 <img width="400" alt="Screenshot 2026-09-15 141122" src="https://github.com/user-attachments/assets/842dd769-98fd-400b-8807-3bc5dfe2edb8" /> <br>
+<br>
+
+### `16 sept [Werkgroep en Workshop: Debuggen en Verrijken]` <br> 
+#### Checkout <br> 
+
+- Noem 3 Gestaltprincipes op en laat de ander uitleggen wat ze betekenen en doen. <br>
+  Symetrie: Beide kanten zijn hetzelfde en evenwicht. <br> 
+  Hierarchie: Elk element heeft een ander niveau, dus het belangrijkste element springt eruit. <br> 
+  Contrast: Het sterkste verschil die je kan laten zien <br>
+  
+- Een grid biedt ruimte om te spelen (vrijheid), maar tegelijkertijd ook eenheid en structuur (vastigheid). Wat wordt hiermee bedoeld? <br> 
+  Je kan dus de plek en de grote van elementen veranderen maar in de ruimte waar het mag (dus dat is dan grid). <br>
+  
+- Welk principe neem je mee in een laatste iteratie van je ontwerp? <br>
+  Hierarchie en contrast was de principes die ik meegenomen heb. Ik had meer contrast gegeven aan een element die eigenlijk niet nodig heeft. Dat heb ik veranderd door de feedback die ik heb gehad. Het is nu kleiner als grootte. <br> 
+
 
 
 
