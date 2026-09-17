@@ -264,6 +264,20 @@ Ja en nee kan ik zeggen bij deze vraag. In het begin wordt het moeilijk om welke
 <br>
 
 ### `16 sept [Werkgroep en Workshop: Debuggen en Verrijken]` <br> 
+
+#### Samen kijken met Gestalt principles
+Deze zijn my sketches voordat ik feedback gekregen van mijn klasgenoten. <br> 
+<img height="500"  alt="my sketch" src="https://github.com/user-attachments/assets/abe248f3-adc4-46c0-9920-e44ec310178a" />
+<img height="500" alt="my sketch 2" src="https://github.com/user-attachments/assets/a1a6220e-b9ee-43f1-8227-29b2b2e50468" /> <br> 
+- Klasgenoot 1 <br>
+  Van deze sketches neem ik aan dat ik de contrast en de aandacht aan andere elementen kunnen geven. <br> 
+<img width="400" alt="tuyas sketch" src="https://github.com/user-attachments/assets/433dbe53-661a-46fb-b769-3b9817878c72" />
+<img width="400" alt="tuyas sketch 2" src="https://github.com/user-attachments/assets/8a740036-9c83-4ae6-8740-6d5a240d2e5f" /> <br> 
+- Klasgenoot 2 <br>
+ Hier zie ik ook een duidelijke hierarchie! <br>  
+<img width="500" alt="klasgenoots sketch" src="https://github.com/user-attachments/assets/3bfb36da-a33f-4e54-9916-2afc2d1533be" />
+
+
 #### Checkout <br> 
 
 - Noem 3 Gestaltprincipes op en laat de ander uitleggen wat ze betekenen en doen. <br>
@@ -275,7 +289,34 @@ Ja en nee kan ik zeggen bij deze vraag. In het begin wordt het moeilijk om welke
   Je kan dus de plek en de grote van elementen veranderen maar in de ruimte waar het mag (dus dat is dan grid). <br>
   
 - Welk principe neem je mee in een laatste iteratie van je ontwerp? <br>
-  Hierarchie en contrast was de principes die ik meegenomen heb. Ik had meer contrast gegeven aan een element die eigenlijk niet nodig heeft. Dat heb ik veranderd door de feedback die ik heb gehad. Het is nu kleiner als grootte. <br> 
+  Hierarchie en contrast was de principes die ik meegenomen heb. Ik had meer contrast gegeven aan een element die eigenlijk niet nodig heeft. Dat heb ik veranderd door de feedback die ik heb gehad. Het is nu kleiner als grootte. <br>
+
+#### Workshop: Debuggen en Verrijken
+In deze workshop heb ik light and dark mode toegevoegd in mijn website. Het lukt zonder errors en daar was ik echt trots op.
+
+### `Bronnen en Wat ik heb gedaan voordat Sprint 1 eindigt`
+Dat is hoe mijn website eruit ziet op het eind van Sprint 1. Ik moet zeggen dat ik ben er niet zo blij mee. Ik heb heel gespeeld met grid en soms het niet helemaal lukt dus moest ik nog een keer controleren en typen zonder AI. Ik heb soms vragen gesteld aan medestudenten of student assistenten. <br> 
+<img width="400" alt="dark mode" src="https://github.com/user-attachments/assets/bacde553-86be-472b-8fa2-ba9ee72e8728" />
+<img width="400" alt="light mode" src="https://github.com/user-attachments/assets/1c1a762b-20ef-4476-a883-61ca813f7e9a" /> <br> 
+
+*nog een paar toepassingen: <br> 
+<img width="400" alt="Screenshot 2026-09-17 233607" src="https://github.com/user-attachments/assets/de6f81fc-7a80-4d4d-bfda-e642960bc8df" />
+
+
+
+Ik heb deze schets in Procreate gemaakt, vervolgens 'Image Trace' in Adobe Illustrator gebruikt en hem als SVG opgeslagen. <br> 
+<img width="400" alt="icon sketch svg" src="https://github.com/user-attachments/assets/bcd2c2ba-e695-4000-bb1e-eb0345d5b235" />
+
+<br> 
+Als bron heb ik bijna altijd deze website gebruikt: https://developer.mozilla.org/en-US/ Ik heb op deze site de codes kunnen vinden die ik echt nodig had. Ook gebruikte ik de site telkens als ik vergeten was wat een bepaalde code deed of als ik die niet begreep. 
+<br> 
+Ik heb de ster met de hulp van deze website (https://www.cssportal.com/css-clip-path-generator/) gedaan. Dat heb ik ook gehoord van een student assistent. <br>
+
+Ik heb AI gebruikt om te helpen bij bugs en een oplossingsrichting te zoeken. Verder heb ik AI niet gebruikt. 
+
+
+
+
 
 
 
