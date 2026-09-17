@@ -44,8 +44,6 @@ html {
 }
 
 body {
-  font-family: "forma-djr-deck", system-ui;
-  font-weight: 500;
   font-family: Helvetica, sans-serif;
   font-style: normal;
   color: var(--text-color);
@@ -56,13 +54,13 @@ main {
   display: grid;
   max-width: 70em;
   grid-template-columns: 1fr 1fr 1fr;
-  grid-template-columns: repeat(auto-fit, minmax(10em, 20em, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(1fr, 1fr, 10em));
   gap: 1em;
   margin: 1em;
-  padding: 0em 5em 0em 5em;
+  padding: 0em 1em 0em 1em;
 
-  @media (width<30em) {
-    grid-template-columns: 1fr 1fr;
+  @media (width<40em) {
+    grid-template-columns: 1fr;
   }
 }
 
@@ -71,12 +69,11 @@ main {
 /******************/
 
 article:nth-last-child(1) {
+  /* star: artist of the day */
   background-color: var(--text-background);
   aspect-ratio: 1/1;
-  width: 100%;
-  /* max-width: 100%; ya da grid hücresine göre istediğin bir genişlik */
-  padding: 25% 20%; /* metni yıldızın kolları arasına sıkıştırmaz, merkeze toplar */
-  box-sizing: border-box;
+  max-width: 1fr;
+  padding: 30% 30%;
 
   display: flex;
   align-items: center;
@@ -101,7 +98,17 @@ article:nth-last-child(1) {
   );
 }
 
+article:nth-of-type(1) {
+  /* get to know me */
+  justify-items: center;
+}
+
 article:nth-of-type(2) {
+  /* last entries*/
+  @media (width<40em) {
+    grid-row-start: 2;
+    grid-row-end: 2;
+  }
   background-color: transparent;
   color: var(--lastentries);
 }
@@ -109,6 +116,7 @@ article:nth-of-type(2):hover {
   background-color: transparent;
   color: var(--lastentries-hover);
 }
+
 article {
   background-color: var(--text-background);
   color: var(--article-text);
@@ -120,12 +128,21 @@ article:hover {
   background-color: var(--hover-background);
   color: var(--hover-text);
 }
+
 img {
+  /* sketch */
   aspect-ratio: 1/1;
-  max-width: 70%;
-  justify-items: center;
+  max-width: 90%;
+
   align-items: center;
-  /* mix-blend-mode: multiply; */
+  /* mix-blend-mode: multiply; 
+  ----The artline is black so this didn't work. 
+  It will be changed.*/
+
+  display: block;
+  /* block meaning: The element generates a block box, 
+  generating line breaks both before and after the element 
+  when in the normal flow. */
 }
 
 /****************/
@@ -139,7 +156,6 @@ h1 {
   font-size: 3em;
 }
 nav {
-  /* background-color: #fff2fd; */
   display: grid;
   padding: 0.5em;
   width: 100%;
