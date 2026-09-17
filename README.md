@@ -267,14 +267,14 @@ Ja en nee kan ik zeggen bij deze vraag. In het begin wordt het moeilijk om welke
 
 #### Samen kijken met Gestalt principles
 Deze zijn my sketches voordat ik feedback gekregen van mijn klasgenoten. <br> 
-<img width="400"  alt="my sketch" src="https://github.com/user-attachments/assets/abe248f3-adc4-46c0-9920-e44ec310178a" />
-<img width="400" alt="my sketch 2" src="https://github.com/user-attachments/assets/a1a6220e-b9ee-43f1-8227-29b2b2e50468" /> <br> 
+<img height="500"  alt="my sketch" src="https://github.com/user-attachments/assets/abe248f3-adc4-46c0-9920-e44ec310178a" />
+<img height="500" alt="my sketch 2" src="https://github.com/user-attachments/assets/a1a6220e-b9ee-43f1-8227-29b2b2e50468" /> <br> 
 - Klasgenoot 1 <br>
-  Van deze sketches neem ik aan dat ik de contrast en de aandacht aan andere elementen kunnen geven.
+  Van deze sketches neem ik aan dat ik de contrast en de aandacht aan andere elementen kunnen geven. <br> 
 <img width="400" alt="tuyas sketch" src="https://github.com/user-attachments/assets/433dbe53-661a-46fb-b769-3b9817878c72" />
 <img width="400" alt="tuyas sketch 2" src="https://github.com/user-attachments/assets/8a740036-9c83-4ae6-8740-6d5a240d2e5f" /> <br>
--Klasgenoot 2 <br>
- Hier zie ik ook een duidelijke hierarchie! 
+- Klasgenoot 2 <br>
+ Hier zie ik ook een duidelijke hierarchie! <br>  
 <img width="500" alt="klasgenoots sketch" src="https://github.com/user-attachments/assets/3bfb36da-a33f-4e54-9916-2afc2d1533be" />
 
 
