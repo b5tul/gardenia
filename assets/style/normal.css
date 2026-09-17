@@ -28,6 +28,8 @@ html {
   --hover-text: rgb(45, 45, 45);
   --hover-nav: #ffffff;
   --hover-nav-shadow: #2d3153;
+  --lastentries: rgb(45, 45, 45);
+  --lastentries-hover: rgb(45, 45, 45);
 
   --background: light-dark(rgb(255, 181, 255), #2d3153);
   --text-color: light-dark(rgb(45, 45, 45), rgb(255, 218, 255));
@@ -37,6 +39,8 @@ html {
   --hover-text: light-dark(rgb(255, 218, 255), rgb(255, 218, 255));
   --hover-nav: light-dark(#ffffff, #ffffff);
   --hover-nav-shadow: light-dark(#2d3153, rgb(239, 107, 239));
+  --lastentries: light-dark(rgb(45, 45, 45), rgb(255, 218, 255));
+  --lastentries-hover: light-dark(rgb(45, 45, 45), rgb(255, 218, 255));
 }
 
 body {
@@ -50,9 +54,9 @@ body {
 
 main {
   display: grid;
-  max-width: 50em;
-  grid-template-columns: 1fr 1fr;
-  grid-template-columns: repeat(auto-fit, minmax(10em, 20em));
+  max-width: 70em;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-columns: repeat(auto-fit, minmax(10em, 20em, 1fr));
   gap: 1em;
   margin: 1em;
   padding: 0em 5em 0em 5em;
@@ -96,6 +100,15 @@ article:nth-last-child(1) {
     37% 33%
   );
 }
+
+article:nth-of-type(2) {
+  background-color: transparent;
+  color: var(--lastentries);
+}
+article:nth-of-type(2):hover {
+  background-color: transparent;
+  color: var(--lastentries-hover);
+}
 article {
   background-color: var(--text-background);
   color: var(--article-text);
@@ -106,6 +119,13 @@ article {
 article:hover {
   background-color: var(--hover-background);
   color: var(--hover-text);
+}
+img {
+  aspect-ratio: 1/1;
+  max-width: 70%;
+  justify-items: center;
+  align-items: center;
+  /* mix-blend-mode: multiply; */
 }
 
 /****************/
