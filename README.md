@@ -297,7 +297,12 @@ In deze workshop heb ik light and dark mode toegevoegd in mijn website. Het lukt
 ### `Bronnen en Wat ik heb gedaan voordat Sprint 1 eindigt`
 Dat is hoe mijn website eruit ziet op het eind van Sprint 1. Ik moet zeggen dat ik ben er niet zo blij mee. Ik heb heel gespeeld met grid en soms het niet helemaal lukt dus moest ik nog een keer controleren en typen zonder AI. Ik heb soms vragen gesteld aan medestudenten of student assistenten. <br> 
 <img width="400" alt="dark mode" src="https://github.com/user-attachments/assets/bacde553-86be-472b-8fa2-ba9ee72e8728" />
-<img width="400" alt="light mode" src="https://github.com/user-attachments/assets/1c1a762b-20ef-4476-a883-61ca813f7e9a" /> <br>
+<img width="400" alt="light mode" src="https://github.com/user-attachments/assets/1c1a762b-20ef-4476-a883-61ca813f7e9a" /> <br> 
+
+*nog een paar toepassingen: <br> 
+<img width="400" alt="Screenshot 2026-09-17 233607" src="https://github.com/user-attachments/assets/de6f81fc-7a80-4d4d-bfda-e642960bc8df" />
+
+
 
 Ik heb deze schets in Procreate gemaakt, vervolgens 'Image Trace' in Adobe Illustrator gebruikt en hem als SVG opgeslagen. <br> 
 <img width="400" alt="icon sketch svg" src="https://github.com/user-attachments/assets/bcd2c2ba-e695-4000-bb1e-eb0345d5b235" />
