@@ -314,6 +314,21 @@ Ik heb de ster met de hulp van deze website (https://www.cssportal.com/css-clip-
 
 Ik heb AI gebruikt om te helpen bij bugs en een oplossingsrichting te zoeken. Verder heb ik AI niet gebruikt. 
 
+### `18 sept Retrospect 1 en Gesprek met Vasilis` <br> 
+
+#### Retrospect 1 <br>
+Individueel opdrachten
+<img width="400" alt="retrospect 1" src="https://github.com/user-attachments/assets/99aea425-9275-42e1-81dd-b1fa42d026fe" />
+<img width="400" alt="retrospect 1 piek en dal" src="https://github.com/user-attachments/assets/11375262-1f3a-4998-a47c-69cf168e8f10" />
+<img width="500" alt="retrospect 1 metafoor" src="https://github.com/user-attachments/assets/967b3aa7-9cf7-4b4c-8499-6932edab1b90" /> <br> 
+
+Groep opdracht met Tüya, Sophia en Jesse <br> 
+<img width="500" alt="groep opdracht tot minst naar best" src="https://github.com/user-attachments/assets/9bfcea6d-6dbf-45dd-b69f-dabfa688fbec" />
+
+
+
+
+
 
 
 
