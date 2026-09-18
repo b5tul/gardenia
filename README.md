@@ -317,7 +317,7 @@ Ik heb AI gebruikt om te helpen bij bugs en een oplossingsrichting te zoeken. Ve
 ### `18 sept Retrospect 1 en Gesprek met Vasilis` <br> 
 
 #### Retrospect 1 <br>
-Individueel opdrachten
+Individueel opdrachten <br> 
 <img width="400" alt="retrospect 1" src="https://github.com/user-attachments/assets/99aea425-9275-42e1-81dd-b1fa42d026fe" />
 <img width="400" alt="retrospect 1 piek en dal" src="https://github.com/user-attachments/assets/11375262-1f3a-4998-a47c-69cf168e8f10" />
 <img width="500" alt="retrospect 1 metafoor" src="https://github.com/user-attachments/assets/967b3aa7-9cf7-4b4c-8499-6932edab1b90" /> <br> 
