@@ -214,19 +214,20 @@ Op de vraag welke competentie ik het lastigst vond, koos ik voor evalueren. Bij 
 Oefeningen <br>
 <img width="400" alt="Screenshot 2026-09-12 200559" src="https://github.com/user-attachments/assets/6f6e8ad7-6e4f-4891-ad5c-a2614fbd06e2" />
 <img width="400" alt="Screenshot 2026-09-11 134006" src="https://github.com/user-attachments/assets/04e720ce-d56d-45ae-b1de-67e14ee7f58c" />
-<br> 
+<br>
 
-Mijn nieuwe schermschets <br> 
+Mijn nieuwe schermschets <br>
 
 <img width="500" alt="WhatsApp Image 2026-09-14 at 09 44 02" src="https://github.com/user-attachments/assets/e80a0c4e-e5e8-460f-a4cf-53cc1a29792d" />
 
-
 ### `14 sept [Werkgroep]`
+
 #### Bi-weekly geek 1 <br>
+
 Onze group: Ik, Tüya, Susanne en Casper <br>
 <img width="400" alt="Screenshot 2026-09-14 115058" src="https://github.com/user-attachments/assets/98dae7ff-09b2-4f38-b067-6b63e0633d57" />
 <img width="400" alt="Screenshot 2026-09-14 115217" src="https://github.com/user-attachments/assets/04dcaaf6-1af7-48a9-aca6-93ef4fa15d75" />
-<br> 
+<br>
 
 Daarna heb ik in de les verder gewerkt. Ik heb grid-template-columns/rows gebruikt om een goede structuur te geven. <br>
 <img width="400" alt="Screenshot 2026-09-14 181728" src="https://github.com/user-attachments/assets/497f091c-319f-4013-a916-2519258e4001" />
@@ -234,77 +235,76 @@ Daarna heb ik in de les verder gewerkt. Ik heb grid-template-columns/rows gebrui
 
 Opdracht 17 – Responsive voorbeelden zoeken <br>
 <img width="400" alt="Screenshot 2026-09-15 205231" src="https://github.com/user-attachments/assets/e31fa69e-d3c0-442a-9c87-0f90fdf875e8" /> <br>
-<br> 
+<br>
+
 #### Checkout
 
 - Leg uit wanneer een website 'lelijk' wordt en geef voorbeelden wat je kan doen om deze 'lelijke' onderdelen te fixen? <br>
-Als er geen HTML structuur staat en hierarchie, wordt een website lelijk. Passende headers en paragraafs te selecteren.<br>
+  Als er geen HTML structuur staat en hierarchie, wordt een website lelijk. Passende headers en paragraafs te selecteren.<br>
 
 - Vertel welke volgende stap je neemt om je website responsive te maken. <br>
-Display grid maken en dan met grid-template-columns/rows duidelijkere structuur geven. <br> 
+  Display grid maken en dan met grid-template-columns/rows duidelijkere structuur geven. <br>
 
 - Kun je het ontwerp en de bouw van je eigen Garden (zo uit je hoofd) onderbouwen in Webby vocabulair? <br>
-Ja en nee kan ik zeggen bij deze vraag. In het begin wordt het moeilijk om welke codes te kiezen. Als ik begint wordt het makkelijker om de juiste codes te kiezen.<br>
-<br>
-<br>
+  Ja en nee kan ik zeggen bij deze vraag. In het begin wordt het moeilijk om welke codes te kiezen. Als ik begint wordt het makkelijker om de juiste codes te kiezen.<br>
+  <br>
+  <br>
 
-### `15 sept [Workshop: Responsive grid + Grid-areas]` <br> 
-<br> 
+### `15 sept [Workshop: Responsive grid + Grid-areas]` <br>
+
+<br>
 
 - Oefening 1 <br>
-<img width="400" alt="Screenshot 2026-09-15 141213" src="https://github.com/user-attachments/assets/72c31445-a85f-460f-aa78-86b999b641d2" /> <br>
+  <img width="400" alt="Screenshot 2026-09-15 141213" src="https://github.com/user-attachments/assets/72c31445-a85f-460f-aa78-86b999b641d2" /> <br>
 
+- Oefening 2 <br>
+  <img width="400" alt="Screenshot 2026-09-15 141156" src="https://github.com/user-attachments/assets/1063581e-fd0b-4bc9-9d7e-7e5653249aba" /> <br>
 
-- Oefening 2 <br> 
-<img width="400" alt="Screenshot 2026-09-15 141156" src="https://github.com/user-attachments/assets/1063581e-fd0b-4bc9-9d7e-7e5653249aba" /> <br>
+- Oefening 3 <br>
+  <img width="400" alt="Screenshot 2026-09-15 141122" src="https://github.com/user-attachments/assets/842dd769-98fd-400b-8807-3bc5dfe2edb8" /> <br>
+  <br>
 
-
-- Oefening 3 <br> 
-<img width="400" alt="Screenshot 2026-09-15 141122" src="https://github.com/user-attachments/assets/842dd769-98fd-400b-8807-3bc5dfe2edb8" /> <br>
-<br>
-
-### `16 sept [Werkgroep en Workshop: Debuggen en Verrijken]` <br> 
+### `16 sept [Werkgroep en Workshop: Debuggen en Verrijken]` <br>
 
 #### Samen kijken met Gestalt principles
-Deze zijn my sketches voordat ik feedback gekregen van mijn klasgenoten. <br> 
+
+Deze zijn my sketches voordat ik feedback gekregen van mijn klasgenoten. <br>
 <img height="500"  alt="my sketch" src="https://github.com/user-attachments/assets/abe248f3-adc4-46c0-9920-e44ec310178a" />
-<img height="500" alt="my sketch 2" src="https://github.com/user-attachments/assets/a1a6220e-b9ee-43f1-8227-29b2b2e50468" /> <br> 
+<img height="500" alt="my sketch 2" src="https://github.com/user-attachments/assets/a1a6220e-b9ee-43f1-8227-29b2b2e50468" /> <br>
+
 - Klasgenoot 1 <br>
-  Van deze sketches neem ik aan dat ik de contrast en de aandacht aan andere elementen kunnen geven. <br> 
-<img width="400" alt="tuyas sketch" src="https://github.com/user-attachments/assets/433dbe53-661a-46fb-b769-3b9817878c72" />
-<img width="400" alt="tuyas sketch 2" src="https://github.com/user-attachments/assets/8a740036-9c83-4ae6-8740-6d5a240d2e5f" /> <br> 
+  Van deze sketches neem ik aan dat ik de contrast en de aandacht aan andere elementen kunnen geven. <br>
+  <img width="400" alt="tuyas sketch" src="https://github.com/user-attachments/assets/433dbe53-661a-46fb-b769-3b9817878c72" />
+  <img width="400" alt="tuyas sketch 2" src="https://github.com/user-attachments/assets/8a740036-9c83-4ae6-8740-6d5a240d2e5f" /> <br>
 - Klasgenoot 2 <br>
- Hier zie ik ook een duidelijke hierarchie! <br>  
-<img width="500" alt="klasgenoots sketch" src="https://github.com/user-attachments/assets/3bfb36da-a33f-4e54-9916-2afc2d1533be" />
+  Hier zie ik ook een duidelijke hierarchie! <br>  
+  <img width="500" alt="klasgenoots sketch" src="https://github.com/user-attachments/assets/3bfb36da-a33f-4e54-9916-2afc2d1533be" />
 
-
-#### Checkout <br> 
+#### Checkout <br>
 
 - Noem 3 Gestaltprincipes op en laat de ander uitleggen wat ze betekenen en doen. <br>
-  Symetrie: Beide kanten zijn hetzelfde en evenwicht. <br> 
-  Hierarchie: Elk element heeft een ander niveau, dus het belangrijkste element springt eruit. <br> 
+  Symetrie: Beide kanten zijn hetzelfde en evenwicht. <br>
+  Hierarchie: Elk element heeft een ander niveau, dus het belangrijkste element springt eruit. <br>
   Contrast: Het sterkste verschil die je kan laten zien <br>
-  
-- Een grid biedt ruimte om te spelen (vrijheid), maar tegelijkertijd ook eenheid en structuur (vastigheid). Wat wordt hiermee bedoeld? <br> 
+- Een grid biedt ruimte om te spelen (vrijheid), maar tegelijkertijd ook eenheid en structuur (vastigheid). Wat wordt hiermee bedoeld? <br>
   Je kan dus de plek en de grote van elementen veranderen maar in de ruimte waar het mag (dus dat is dan grid). <br>
-  
 - Welk principe neem je mee in een laatste iteratie van je ontwerp? <br>
   Hierarchie en contrast was de principes die ik meegenomen heb. Ik had meer contrast gegeven aan een element die eigenlijk niet nodig heeft. Dat heb ik veranderd door de feedback die ik heb gehad. Het is nu kleiner als grootte. <br>
 
 #### Workshop: Debuggen en Verrijken
+
 In deze workshop heb ik light and dark mode toegevoegd in mijn website. Het lukt zonder errors en daar was ik echt trots op.
 
 ### `Bronnen en Wat ik heb gedaan voordat Sprint 1 eindigt`
-Dat is hoe mijn website eruit ziet op het eind van Sprint 1. Ik moet zeggen dat ik ben er niet zo blij mee. Ik heb heel gespeeld met grid en soms het niet helemaal lukt dus moest ik nog een keer controleren en typen zonder AI. Ik heb soms vragen gesteld aan medestudenten of student assistenten. <br> 
-<img width="400" alt="dark mode" src="https://github.com/user-attachments/assets/bacde553-86be-472b-8fa2-ba9ee72e8728" />
-<img width="400" alt="light mode" src="https://github.com/user-attachments/assets/1c1a762b-20ef-4476-a883-61ca813f7e9a" /> <br> 
 
-*nog een paar toepassingen: <br> 
+Dat is hoe mijn website eruit ziet op het eind van Sprint 1. Ik moet zeggen dat ik ben er niet zo blij mee. Ik heb heel gespeeld met grid en soms het niet helemaal lukt dus moest ik nog een keer controleren en typen zonder AI. Ik heb soms vragen gesteld aan medestudenten of student assistenten. <br>
+<img width="400" alt="dark mode" src="https://github.com/user-attachments/assets/bacde553-86be-472b-8fa2-ba9ee72e8728" />
+<img width="400" alt="light mode" src="https://github.com/user-attachments/assets/1c1a762b-20ef-4476-a883-61ca813f7e9a" /> <br>
+
+\*nog een paar toepassingen: <br>
 <img width="400" alt="Screenshot 2026-09-17 233607" src="https://github.com/user-attachments/assets/de6f81fc-7a80-4d4d-bfda-e642960bc8df" />
 
-
-
-Ik heb deze schets in Procreate gemaakt, vervolgens 'Image Trace' in Adobe Illustrator gebruikt en hem als SVG opgeslagen. <br> 
+Ik heb deze schets in Procreate gemaakt, vervolgens 'Image Trace' in Adobe Illustrator gebruikt en hem als SVG opgeslagen. <br>
 <img width="400" alt="icon sketch svg" src="https://github.com/user-attachments/assets/bcd2c2ba-e695-4000-bb1e-eb0345d5b235" />
 
 <br> 
@@ -312,31 +312,41 @@ Als bron heb ik bijna altijd deze website gebruikt: https://developer.mozilla.or
 <br> 
 Ik heb de ster met de hulp van deze website (https://www.cssportal.com/css-clip-path-generator/) gedaan. Dat heb ik ook gehoord van een student assistent. <br>
 
-Ik heb AI gebruikt om te helpen bij bugs en een oplossingsrichting te zoeken. Verder heb ik AI niet gebruikt. 
+Ik heb AI gebruikt om te helpen bij bugs en een oplossingsrichting te zoeken. Verder heb ik AI niet gebruikt.
 
-### `18 sept Retrospect 1 en Gesprek met Vasilis` <br> 
+### `18 sept Retrospect 1 en Gesprek met Vasilis` <br>
 
 #### Retrospect 1 <br>
-Individueel opdrachten <br> 
+
+Individueel opdrachten <br>
 <img width="400" alt="retrospect 1" src="https://github.com/user-attachments/assets/99aea425-9275-42e1-81dd-b1fa42d026fe" />
 <img width="400" alt="retrospect 1 piek en dal" src="https://github.com/user-attachments/assets/11375262-1f3a-4998-a47c-69cf168e8f10" />
-<img width="500" alt="retrospect 1 metafoor" src="https://github.com/user-attachments/assets/967b3aa7-9cf7-4b4c-8499-6932edab1b90" /> <br> 
+<img width="500" alt="retrospect 1 metafoor" src="https://github.com/user-attachments/assets/967b3aa7-9cf7-4b4c-8499-6932edab1b90" /> <br>
 
-Groep opdracht met Tüya, Sophia en Jesse <br> 
-<img width="500" alt="groep opdracht tot minst naar best" src="https://github.com/user-attachments/assets/9bfcea6d-6dbf-45dd-b69f-dabfa688fbec" />
+Groep opdracht met Tüya, Sophia en Jesse <br>
+<img width="500" alt="groep opdracht tot minst naar best" src="https://github.com/user-attachments/assets/9bfcea6d-6dbf-45dd-b69f-dabfa688fbec" /> <br>
 
+#### Check-out <br>
 
+**1. Waarom geven de docenten deze opdracht?**
 
+Ik zie elke opdracht als een opstapje dat me helpt om de volgende stap te zetten, en daarom probeer ik ze allemaal zorgvuldig uit te voeren. Als ik iets mis, weet ik dat ik bij latere opdrachten vastloop. Deze opdrachten leren me wat er allemaal wel mogelijk is binnen de website die we bouwen, maar laten me tegelijkertijd ook zien waar de grenzen liggen.
 
+**2. Welke technieken gebruik ik?**
 
+Tijdens deze sprint heb ik veel geleerd over CSS Grid en heb ik mijn best gedaan om dit goed toe te passen. In de HTML heb ik met behulp van headers en unordered lists gezorgd voor een duidelijke en nette structuur.
 
+**3. Wat zijn de randvoorwaarden?**
 
+Een van de belangrijkste voorwaarden was dat de website echt ‘webby’ moest zijn. Door veel verschillende websites te analyseren, hebben we geleerd wat dat precies inhoudt: eigenschappen zoals fluid, responsive en adaptief zijn maken een site webby (en veel meer). De grootste beperking voor mij was de tijd: binnen twee weken een webby site neerzetten waarin het concept duidelijk naar voren komt. Hierdoor kon ik niet heel veel experimenteren en heb ik me vooral gefocust op het goed toepassen van wat we net geleerd hadden.
 
+**4. Waar gebruik je HTML/CSS voor?**
 
+Voor mij is HTML echt het skelet van de website; hierin bouw je de basis en de structuur op. Vervolgens gebruik ik CSS om te bepalen hoe alles eruitziet en hoe elementen zich gedragen. Door die combinatie voelt de website logischer en vloeiender aan voor de bezoeker.
 
+**5. Wat kan er allemaal met CSS?**
 
-
-
+Met CSS kun je enorm veel kanten op: van grids en responsive layouts tot kleurpaletten, custom fonts en zelfs animaties. In dit project heb ik vooral gewerkt met `grid-template/columns/rows' en 'grid-row/column-start/end'. Daarnaast heb ik met custom properties een light/dark theme opgezet.
 
 ​
 
