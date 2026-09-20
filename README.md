@@ -326,8 +326,8 @@ Individueel opdrachten <br>
 Groep opdracht met Tüya, Sophia en Jesse <br>
 <img width="500" alt="groep opdracht tot minst naar best" src="https://github.com/user-attachments/assets/9bfcea6d-6dbf-45dd-b69f-dabfa688fbec" /> <br>
 
-#### `Check-out` <br> <span style="color: #3498db;">Bu metin mavi görünecek</span>
-
+#### `Check-out` <br> 
+<font color="#3498db">Bu metin mavi görünecek</font> 
 **ORIENTEREN EN BEGRIJPEN** <br> 
 **1. Waarom geven de docenten deze opdracht?** <br> 
 Ik zie elke opdracht als een opstapje dat me helpt om de volgende stap te zetten, en daarom probeer ik ze allemaal zorgvuldig uit te voeren. Als ik iets mis, weet ik dat ik bij latere opdrachten vastloop. Deze opdrachten leren me wat er allemaal wel mogelijk is binnen de website die we bouwen, maar laten me tegelijkertijd ook zien waar de grenzen liggen.
