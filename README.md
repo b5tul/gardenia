@@ -328,26 +328,75 @@ Groep opdracht met Tüya, Sophia en Jesse <br>
 
 #### Check-out <br>
 
-**1. Waarom geven de docenten deze opdracht?**
-
+**ORIENTEREN EN BEGRIJPEN** <br> 
+**1. Waarom geven de docenten deze opdracht?** <br> 
 Ik zie elke opdracht als een opstapje dat me helpt om de volgende stap te zetten, en daarom probeer ik ze allemaal zorgvuldig uit te voeren. Als ik iets mis, weet ik dat ik bij latere opdrachten vastloop. Deze opdrachten leren me wat er allemaal wel mogelijk is binnen de website die we bouwen, maar laten me tegelijkertijd ook zien waar de grenzen liggen.
 
-**2. Welke technieken gebruik ik?**
-
+**2. Welke technieken gebruik ik?** <br> 
 Tijdens deze sprint heb ik veel geleerd over CSS Grid en heb ik mijn best gedaan om dit goed toe te passen. In de HTML heb ik met behulp van headers en unordered lists gezorgd voor een duidelijke en nette structuur.
 
-**3. Wat zijn de randvoorwaarden?**
-
+**3. Wat zijn de randvoorwaarden?** <br> 
 Een van de belangrijkste voorwaarden was dat de website echt ‘webby’ moest zijn. Door veel verschillende websites te analyseren, hebben we geleerd wat dat precies inhoudt: eigenschappen zoals fluid, responsive en adaptief zijn maken een site webby (en veel meer). De grootste beperking voor mij was de tijd: binnen twee weken een webby site neerzetten waarin het concept duidelijk naar voren komt. Hierdoor kon ik niet heel veel experimenteren en heb ik me vooral gefocust op het goed toepassen van wat we net geleerd hadden.
 
-**4. Waar gebruik je HTML/CSS voor?**
-
+**4. Waar gebruik je HTML/CSS voor?** <br> 
 Voor mij is HTML echt het skelet van de website; hierin bouw je de basis en de structuur op. Vervolgens gebruik ik CSS om te bepalen hoe alles eruitziet en hoe elementen zich gedragen. Door die combinatie voelt de website logischer en vloeiender aan voor de bezoeker.
 
-**5. Wat kan er allemaal met CSS?**
+**5. Wat kan er allemaal met CSS?** <br> 
+Je kunt er grids, responsive lay-outs, kleurenpaletten, lettertypen en zelfs animaties mee maken. Ik heb in dit geval grid-template-columns en -rows gebruikt. Door middel van custom properties heb ik het light en dark theme ingesteld. <br> 
+<br> 
 
-Met CSS kun je enorm veel kanten op: van grids en responsive layouts tot kleurpaletten, custom fonts en zelfs animaties. In dit project heb ik vooral gewerkt met `grid-template/columns/rows' en 'grid-row/column-start/end'. Daarnaast heb ik met custom properties een light/dark theme opgezet.
+**VERBEELDEN EN CONCEPTUALISEREN** <br> 
+**1. Lukt het om verschillende ideeën te bedenken?** <br> 
+Omdat ik bij het bedenken van ideeën niet te ver wilde afwijken van de vibe en het gevoel dat ik wilde creëren, heb ik over het algemeen schetsen in dezelfde stijl gemaakt. Ik heb geprobeerd verschillende lay-outs te testen, maar ik kan niet zeggen dat ze heel erg van elkaar verschilden. <br> 
 
+**2. Lukt het om je ideeën te schetsen?** <br> 
+Ideeën vormgeven door te tekenen is erg nuttig en het is een van de processen die ik graag doe. We hebben Crazy 8's en veel wireframes getekend. Op dat vlak ging dus alles goed, ik heb alleen door de feedback die ik kreeg geleerd dat ik ook andere technieken moet proberen.  <br> 
+
+**3. Wat doet deze CSS-property?** <br> 
+Terwijl ik leerde hoe ik de code uit de deep dives op de website kon toepassen, begon ik na te denken of iets voor mij zou werken, waardoor ik soms code typte en weer wiste. Soms liet ik ze ook als comments staan, maar omdat dit zorgde voor een erg rommelig CSS-bestand, heb ik ze verwijderd. <br> 
+
+**4. Welke content, en welke HTML heb ik nodig?** <br> 
+Ik wilde onder elke header kleine introductieteksten plaatsen, maar door onze groepswerkzaamheden kwam ik erachter dat dit veel te druk werd. Hierdoor heb ik de onnodige delen verwijderd. <br> 
+
+**5. Hoe kan ik dit soort content vormgeven?** <br> 
+Omdat mijn ideeën qua vormgeving momenteel veel weg hebben van een pinboard, kwam de grid heel goed van pas en heb ik dat gebruikt. Dit zorgt er ook voor dat de elementen op het scherm makkelijker en sneller te lezen zijn voor de gebruiker. Het belangrijkste onderdeel, waar ik ook moeite mee had, was hiërarchie en contrast. Zelfs in een grid is het belangrijk om te weten hoe je de elementen die je wilt laten opvallen naar voren laat komen door kleur en grootte te gebruiken. <br> 
+
+**6. Wat als ik hier nu eens 1000 invul?** <br> 
+Het is makkelijker om code te leren en te begrijpen door trial-and-error. Daarom heb ik op de site vaak dingen geprobeerd die ik later soms moeilijk kon herstellen, maar uiteindelijk heb ik het toch weer opgelost.  <br> 
+<br> 
+
+**PROTOTYPEN EN UITWERKEN** <br>
+**1. Begrijpen bezoekers de site?** <br> 
+Ja, ze begrijpen het. <br>
+
+**2. Wat vindt de opdrachtgever er van?** <br> 
+Door de code die ik heb geschreven, en in het bijzonder door CSS, begreep de opdrachtgever wat ik probeerde te doen. <br> 
+
+**3. Werkt dit wel?** <br> 
+Ja. <br> 
+
+**4. Oooooh, kan dit óók?!** <br> 
+Ik was erg verrast dat we met de clip-path code afbeeldingen of vormen konden veranderen in elke gewenste vorm. Dit heb ik dus ook op mijn website gebruikt! <br> 
+<br> 
+
+**EVALUEREN** <br> 
+**1. Wat wil(de) ik weten/bereiken?** <br> 
+Als ik naar de deep dives ga, doe ik dat met het besef van mijn tekortkomingen en dat ik nog veel moet leren. Dit geldt ook voor de opdrachten; beter voorbereid naar de werkgroepen gaan door de verplichte artikelen te lezen, is een van de doelen die ik wil bereiken. <br> 
+
+**2. Wat heb ik gedaan?** <br> 
+Het was voor mij erg verrassend dat het coderen beter ging dan ik had verwacht. Hoewel ik meer zelfvertrouwen had bij het schetsen, moest ik eigenlijk meer verschillende technieken uitproberen. <br> 
+
+**3. Wat was het resultaat?** <br> 
+Tijdens het schetsen van de wireframes heb ik eigenlijk beter begrepen hoe ik er als gebruiker naar moet kijken. Dit zal mijn toekomstige schetsen verbeteren, waardoor ik betere resultaten kan behalen. <br> 
+
+**4. Wat weet je nu (niet)?** <br> 
+Ik weet hoe ik moet coderen en wat er op een website moet staan. Maar ik weet nog steeds niet precies in welke volgorde ik de teksten en elementen moet plaatsen. Hiervoor moet ik mijn website beter analyseren. <br> 
+
+**5. Wat vond je (niet) leuk?** <br> 
+Ik heb gemerkt dat coderen eigenlijk veel leuker kan zijn dan ik dacht. <br> 
+
+**6. Voldoet het nog aan de eisen?** <br> 
+Ja. Alleen moet ik nog meer werken aan de eis: "Je hebt meerdere richtingen verkend met behulp van schetstechnieken." <br> 
 ​
 
 [...]
