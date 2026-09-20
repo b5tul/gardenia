@@ -345,7 +345,7 @@ Voor mij is HTML echt het skelet van de website; hierin bouw je de basis en de s
 Je kunt er grids, responsive lay-outs, kleurenpaletten, lettertypen en zelfs animaties mee maken. Ik heb in dit geval grid-template-columns en -rows gebruikt. Door middel van custom properties heb ik het light en dark theme ingesteld. <br> 
 <br> 
 
-**VERBEELDEN EN CONCEPTUALISEREN** <br> 
+**VERBEELDEN EN CONCEPTUALISEREN** <br> <code style="color: fuchsia">SELAM</code>
 **1. Lukt het om verschillende ideeën te bedenken?** <br> 
 Omdat ik bij het bedenken van ideeën niet te ver wilde afwijken van de vibe en het gevoel dat ik wilde creëren, heb ik over het algemeen schetsen in dezelfde stijl gemaakt. Ik heb geprobeerd verschillende lay-outs te testen, maar ik kan niet zeggen dat ze heel erg van elkaar verschilden. <br> 
 
