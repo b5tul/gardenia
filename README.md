@@ -397,6 +397,24 @@ Ik heb gemerkt dat coderen eigenlijk veel leuker kan zijn dan ik dacht. <br>
 
 **6. Voldoet het nog aan de eisen?** <br> 
 Ja. Alleen moet ik nog meer werken aan de eis: "Je hebt meerdere richtingen verkend met behulp van schetstechnieken." <br> 
+
+
+### `📅 21 sept Werkgroep` <br> 
+#### **Ik was niet aanwezig vanwege ziekte dus ik heb geprobeerd mijn best te doen om de opdrachten uit te voeren** <br> 
+
+- HTML structuur <br> 
+-------- <br>
+  
+- Cookies Consent <br> 
+<img width="500" alt="Cookie consent" src="https://github.com/user-attachments/assets/7fc95345-549b-4bc0-977d-66cc11966e62" />
+<br>
+
+#### ✅Check-out <br> 
+Wat zijn HTML landmark role elements? <br> 
+<br> 
+Wat zijn heading elementen en hoe horen deze 'genest' te worden? <br> 
+<br> 
+Hoe ga jij met cookies om? Beschrijf jouw beweegredenen en of die zijn veranderd na het volgen van dit college. <br> 
 ​
 
 [...]
