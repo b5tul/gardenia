@@ -397,7 +397,7 @@ Ik heb gemerkt dat coderen eigenlijk veel leuker kan zijn dan ik dacht. <br>
 
 **6. Voldoet het nog aan de eisen?** <br> 
 Ja. Alleen moet ik nog meer werken aan de eis: "Je hebt meerdere richtingen verkend met behulp van schetstechnieken." <br> 
-
+<br> 
 
 ### `📅 21 sept Werkgroep` <br> 
 #### **Ik was niet aanwezig vanwege ziekte dus ik heb geprobeerd mijn best te doen om de opdrachten uit te voeren** <br> 
@@ -415,6 +415,17 @@ Wat zijn HTML landmark role elements? <br>
 Wat zijn heading elementen en hoe horen deze 'genest' te worden? <br> 
 <br> 
 Hoe ga jij met cookies om? Beschrijf jouw beweegredenen en of die zijn veranderd na het volgen van dit college. <br> 
-​
+​<br> 
+
+### `📅 21 sept Thuis` <br> 
+#### Workshop: Buttons, states en selectors (Vasilis) <br> 
+Thuis heb ik deze oefening gedaan. <br> 
+<img width="400" alt="Screenshot 2026-09-22 165126" src="https://github.com/user-attachments/assets/77a9b9f9-d996-47fc-87e7-582113d845fb" /> <br> 
+
+
+
+
+
+
 
 [...]
