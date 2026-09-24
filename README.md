@@ -445,14 +445,21 @@ De banner moet duidelijk vermelden dat de site gebruikmaakt van trackers, kort h
 1. Equal-Weight Accept/Reject Banners
 2. Header Notification Bar
 3. Small panel in the corner
-4. Center modal pop-up
-   <img width="400" alt="image" src="https://github.com/user-attachments/assets/24a8fd99-4629-4c61-9c4c-aa89c7d6e122" />
+4. Center modal pop-up <br> 
+   <img width="400" alt="image" src="https://github.com/user-attachments/assets/24a8fd99-4629-4c61-9c4c-aa89c7d6e122" /> <br> 
 Bronnen: https://www.iubenda.com/en/blog/what-is-gdpr-cookie-consent-examples/ <br>
 https://www.cookiebot.com/en/cookie-banner-examples/ <br>
 https://cookieinformation.com/blog/checklist-to-collecting-valid-cookie-consent-in-the-era-of-the-gdpr/ <br>
 
 -- Denk na over een manier van werken die past binnen de layout van jouw digital garden? <br>
+#### ✅Check-out <br> 
+**Wat is een wireflow en wat heb je er aan?** <br> 
+Een wireflow helpt ons te begrijpen hoe een actie op een scherm verloopt. <br> 
 
-​
+**Wat zijn dark UX patterns? Geef drie voorbeelden...** <br> 
+Het is ontwerpelement dat gebruikers op subtiele wijze aanzet tot het uitvoeren van een specifieke actie. Bijvoorbeeld: misdirection, bait en switch, fomo <br> 
+
+**Waar moet je als ontwerper rekening mee houden bij het maken van een human consent component?** <br> 
+ Gebruikers keuzes laten maken en proberen hen daarbij niet te beïnvloeden en wat het belangrijkst is: die keuzes respecteren en uitvoeren wat er wordt gevraagd.
 
 [...]
