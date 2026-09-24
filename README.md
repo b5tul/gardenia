@@ -316,7 +316,7 @@ Ik heb AI gebruikt om te helpen bij bugs en een oplossingsrichting te zoeken. Ve
 
 ### `18 sept Retrospect 1 en Gesprek met Vasilis` <br>
 
-#### Retrospect 1 <br>
+#### `Retrospect 1` <br>
 
 Individueel opdrachten <br>
 <img width="400" alt="retrospect 1" src="https://github.com/user-attachments/assets/99aea425-9275-42e1-81dd-b1fa42d026fe" />
@@ -326,25 +326,26 @@ Individueel opdrachten <br>
 Groep opdracht met Tüya, Sophia en Jesse <br>
 <img width="500" alt="groep opdracht tot minst naar best" src="https://github.com/user-attachments/assets/9bfcea6d-6dbf-45dd-b69f-dabfa688fbec" /> <br>
 
-#### Check-out <br>
+#### `Check-out` <br>
 
-**1. Waarom geven de docenten deze opdracht?**
+**ORIENTEREN EN BEGRIJPEN**
+**Waarom geven de docenten deze opdracht?**
 
 Ik zie elke opdracht als een opstapje dat me helpt om de volgende stap te zetten, en daarom probeer ik ze allemaal zorgvuldig uit te voeren. Als ik iets mis, weet ik dat ik bij latere opdrachten vastloop. Deze opdrachten leren me wat er allemaal wel mogelijk is binnen de website die we bouwen, maar laten me tegelijkertijd ook zien waar de grenzen liggen.
 
-**2. Welke technieken gebruik ik?**
+**Welke technieken gebruik ik?**
 
 Tijdens deze sprint heb ik veel geleerd over CSS Grid en heb ik mijn best gedaan om dit goed toe te passen. In de HTML heb ik met behulp van headers en unordered lists gezorgd voor een duidelijke en nette structuur.
 
-**3. Wat zijn de randvoorwaarden?**
+**Wat zijn de randvoorwaarden?**
 
 Een van de belangrijkste voorwaarden was dat de website echt ‘webby’ moest zijn. Door veel verschillende websites te analyseren, hebben we geleerd wat dat precies inhoudt: eigenschappen zoals fluid, responsive en adaptief zijn maken een site webby (en veel meer). De grootste beperking voor mij was de tijd: binnen twee weken een webby site neerzetten waarin het concept duidelijk naar voren komt. Hierdoor kon ik niet heel veel experimenteren en heb ik me vooral gefocust op het goed toepassen van wat we net geleerd hadden.
 
-**4. Waar gebruik je HTML/CSS voor?**
+**Waar gebruik je HTML/CSS voor?**
 
 Voor mij is HTML echt het skelet van de website; hierin bouw je de basis en de structuur op. Vervolgens gebruik ik CSS om te bepalen hoe alles eruitziet en hoe elementen zich gedragen. Door die combinatie voelt de website logischer en vloeiender aan voor de bezoeker.
 
-**5. Wat kan er allemaal met CSS?**
+**Wat kan er allemaal met CSS?**
 
 Met CSS kun je enorm veel kanten op: van grids en responsive layouts tot kleurpaletten, custom fonts en zelfs animaties. In dit project heb ik vooral gewerkt met `grid-template/columns/rows' en 'grid-row/column-start/end'. Daarnaast heb ik met custom properties een light/dark theme opgezet.
 
