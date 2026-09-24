@@ -413,7 +413,7 @@ Ja. Alleen moet ik nog meer werken aan de eis: "Je hebt meerdere richtingen verk
 Wat zijn HTML landmark role elements? <br> 
 Dit zijn tags die de belangrijkste structurele onderdelen van een webpagina. Het helpt snel door de pagina te navigeren. <br> 
 Wat zijn heading elementen en hoe horen deze 'genest' te worden? <br> 
-Heading elementen zijn (<h1> tot en met <h6>) die worden gebruikt om de hiërarchie en structuur van de content op een website te bepalen.<br> 
+Heading elementen zijn (tot h1 en met h6) die worden gebruikt om de hiërarchie en structuur van de content op een website te bepalen.<br> 
 Hoe ga jij met cookies om? Beschrijf jouw beweegredenen en of die zijn veranderd na het volgen van dit college. <br> 
 ​Ik weiger cookies meestal, maar als ik op veel verschillende knoppen moet drukken om ze af te wijzen, accepteer ik ze soms omdat ik er geen zin in heb.<br> 
 
