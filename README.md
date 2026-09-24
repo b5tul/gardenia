@@ -417,10 +417,25 @@ Wat zijn heading elementen en hoe horen deze 'genest' te worden? <br>
 Hoe ga jij met cookies om? Beschrijf jouw beweegredenen en of die zijn veranderd na het volgen van dit college. <br> 
 ​<br> 
 
-### `📅 21 sept Thuis` <br> 
+### `📅 22 sept Thuis` <br> 
 #### Workshop: Buttons, states en selectors (Vasilis) <br> 
 Thuis heb ik deze oefening gedaan. <br> 
 <img width="400" alt="Screenshot 2026-09-22 165126" src="https://github.com/user-attachments/assets/77a9b9f9-d996-47fc-87e7-582113d845fb" /> <br> 
+<br> 
+
+### `📅 23 sept Werkgroep en Workshop` <br> 
+#### Dark Pattern Herontwerp <br> 
+Toen ik met mijn medestudenten naar een product op de Temu pagina keek, was het dark pattern dat we zagen 'misdirection'. Wat we namelijk wilden doen was deze charm kopen, maar door de campagnes en bestseller teksten die op het scherm verschijnen, kan onze aandacht afgeleid worden naar andere producten. Hierdoor worden we afgeleid van het product dat we willen kopen en belanden we in een eindeloze loop op de pagina. <br> 
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/1b17c2ce-aec7-4f9b-9e60-fdc52bc19b1d" /> 
+<img width="400" alt="Screenshot 2026-09-24 143655" src="https://github.com/user-attachments/assets/e7d40c56-2cb8-43b0-a6d1-3bb0d43a99b9" />
+
+
+#### Cookie Consent <br> 
+-- Hoe kan je gebruikers informeren over het gebruik van hun gegevens op jouw website? <br> 
+De banner moet duidelijk vermelden dat de site gebruikmaakt van trackers, kort het doel ervan toelichten en een directe link naar het volledige privacybeleid bieden voordat de gebruiker verder navigeert. <br> 
+Op welke manier kan je instemming vragen? Doe desk-research en zoek tenminste 10 verschillende manieren van het vragen van consent op het web. <br> 
+Denk na over een manier van werken die past binnen de layout van jouw digital garden? <br>
+
 
 
 
