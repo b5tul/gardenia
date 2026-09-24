@@ -412,9 +412,11 @@ Ja. Alleen moet ik nog meer werken aan de eis: "Je hebt meerdere richtingen verk
 #### ✅Check-out <br>
 
 Wat zijn HTML landmark role elements? <br>
-Dit zijn tags die de belangrijkste structurele onderdelen van een webpagina. Het helpt snel door de pagina te navigeren. <br>
+Dit zijn tags die de belangrijkste structurele onderdelen van een webpagina. Het helpt snel door de pagina te navigeren. <br> 
+
 Wat zijn heading elementen en hoe horen deze 'genest' te worden? <br>
-Heading elementen zijn (tot h1 en met h6) die worden gebruikt om de hiërarchie en structuur van de content op een website te bepalen.<br>
+Heading elementen zijn (tot h1 en met h6) die worden gebruikt om de hiërarchie en structuur van de content op een website te bepalen.<br> 
+
 Hoe ga jij met cookies om? Beschrijf jouw beweegredenen en of die zijn veranderd na het volgen van dit college. <br>
 ​Ik weiger cookies meestal, maar als ik op veel verschillende knoppen moet drukken om ze af te wijzen, accepteer ik ze soms omdat ik er geen zin in heb.<br>
 
@@ -434,12 +436,22 @@ Toen ik met mijn medestudenten naar een product op de Temu pagina keek, was het 
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/1b17c2ce-aec7-4f9b-9e60-fdc52bc19b1d" />
 <img width="400" alt="Screenshot 2026-09-24 143655" src="https://github.com/user-attachments/assets/e7d40c56-2cb8-43b0-a6d1-3bb0d43a99b9" />
 
-#### Cookie Consent <br>
+#### Human Consent Component <br>
 
 -- Hoe kan je gebruikers informeren over het gebruik van hun gegevens op jouw website? <br>
-De banner moet duidelijk vermelden dat de site gebruikmaakt van trackers, kort het doel ervan toelichten en een directe link naar het volledige privacybeleid bieden voordat de gebruiker verder navigeert. <br>
-Op welke manier kan je instemming vragen? Doe desk-research en zoek tenminste 10 verschillende manieren van het vragen van consent op het web. <br>
-Denk na over een manier van werken die past binnen de layout van jouw digital garden? <br>
+De banner moet duidelijk vermelden dat de site gebruikmaakt van trackers, kort het doel ervan toelichten en een directe link naar het volledige privacybeleid bieden voordat de gebruiker verder navigeert. <br> 
+
+-- Op welke manier kan je instemming vragen? Doe desk-research en zoek tenminste 10 verschillende manieren van het vragen van consent op het web. <br> 
+1. Equal-Weight Accept/Reject Banners
+2. Header Notification Bar
+3. Small panel in the corner
+4. Center modal pop-up
+   <img width="400" alt="image" src="https://github.com/user-attachments/assets/24a8fd99-4629-4c61-9c4c-aa89c7d6e122" />
+Bronnen: https://www.iubenda.com/en/blog/what-is-gdpr-cookie-consent-examples/ <br>
+https://www.cookiebot.com/en/cookie-banner-examples/ <br>
+https://cookieinformation.com/blog/checklist-to-collecting-valid-cookie-consent-in-the-era-of-the-gdpr/ <br>
+
+-- Denk na over een manier van werken die past binnen de layout van jouw digital garden? <br>
 
 ​
 
