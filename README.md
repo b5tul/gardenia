@@ -15,7 +15,7 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
   <br>
   <br>
 
-### `2 sept - [Workshop Typografie en Schetsen]`
+### `📅 2 sept - [Workshop Typografie en Schetsen]`
 
 #### Typografie
 
@@ -39,7 +39,7 @@ en uiteindelijk heb ik de Pinterest website als mifi uitgewerkt, waarbij ik ook 
 <br>
 <br>
 
-### `4 sept - [Workshop Praktische CSS en CSS: fonts met kleur en effecten]`
+### `📅 4 sept - [Workshop Praktische CSS en CSS: fonts met kleur en effecten]`
 
 #### Praktische CSS
 
@@ -66,7 +66,7 @@ Oefening 3
 <br>
 <br>
 
-### `7 sept`
+### `📅 7 sept`
 
 #### Oefening: Twee websites analyseren
 
@@ -78,7 +78,7 @@ Oefening 3
 
 <img width="400" height="279" alt="WhatsApp Image 2026-09-07 at 21 55 58" src="https://github.com/user-attachments/assets/e09508c4-d549-4a68-95ba-af53c343f06d" />
 
-#### Check-out
+#### ✅Check-out
 
 1. Leg uit wat een digital garden is en waarom dat anders is dan een reguliere website.
    In digital garden staat er wat je leuk vindt dus het kan alles zijn. Het is niet af dus je maakt constant veranderingen en toevoegingen. Een reguliere website is eigenlijk het eind product. Tot het eind product te komen moet je altijd feedback hebben en variaties moeten maken.
@@ -90,7 +90,7 @@ Oefening 3
    <br>
    <br>
 
-### `8 sept - [Workshop: Light-Dark Thema]`
+### `📅 8 sept - [Workshop: Light-Dark Thema]`
 
 #### Oefening 1 <br>
 
@@ -124,7 +124,7 @@ Light thema met wit en paars. Dark thema met paars en geel.<br>
 <br>
 <br>
 
-### `9 sept` <br>
+### `📅 9 sept` <br>
 
 <br>
 Ik was gekoppeld met Bryenne om onze presentaties te laten zien <br>
@@ -162,7 +162,7 @@ Physieke materialen (diy), mix van allerlei dingen zoals text en afbeeldingen (i
 <br> 
 <br>
 
-### `10 sept [Workshop: CSS Mooie kleuren en gradients]` <br>
+### `📅 10 sept [Workshop: CSS Mooie kleuren en gradients]` <br>
 
 <br>
 
@@ -199,7 +199,7 @@ Mobile Schermen <br>
 <br>
 <br>
 
-### `11 sept [Gesprek en Workshop: Grid 101 + Media queries]` <br>
+### `📅 11 sept [Gesprek en Workshop: Grid 101 + Media queries]` <br>
 
 <br>
 
@@ -220,7 +220,7 @@ Mijn nieuwe schermschets <br>
 
 <img width="500" alt="WhatsApp Image 2026-09-14 at 09 44 02" src="https://github.com/user-attachments/assets/e80a0c4e-e5e8-460f-a4cf-53cc1a29792d" />
 
-### `14 sept [Werkgroep]`
+### `📅 14 sept [Werkgroep]`
 
 #### Bi-weekly geek 1 <br>
 
@@ -237,7 +237,7 @@ Opdracht 17 – Responsive voorbeelden zoeken <br>
 <img width="400" alt="Screenshot 2026-09-15 205231" src="https://github.com/user-attachments/assets/e31fa69e-d3c0-442a-9c87-0f90fdf875e8" /> <br>
 <br>
 
-#### Checkout
+#### ✅Checkout
 
 - Leg uit wanneer een website 'lelijk' wordt en geef voorbeelden wat je kan doen om deze 'lelijke' onderdelen te fixen? <br>
   Als er geen HTML structuur staat en hierarchie, wordt een website lelijk. Passende headers en paragraafs te selecteren.<br>
@@ -250,7 +250,7 @@ Opdracht 17 – Responsive voorbeelden zoeken <br>
   <br>
   <br>
 
-### `15 sept [Workshop: Responsive grid + Grid-areas]` <br>
+### `📅 15 sept [Workshop: Responsive grid + Grid-areas]` <br>
 
 <br>
 
@@ -264,7 +264,7 @@ Opdracht 17 – Responsive voorbeelden zoeken <br>
   <img width="400" alt="Screenshot 2026-09-15 141122" src="https://github.com/user-attachments/assets/842dd769-98fd-400b-8807-3bc5dfe2edb8" /> <br>
   <br>
 
-### `16 sept [Werkgroep en Workshop: Debuggen en Verrijken]` <br>
+### `📅 16 sept [Werkgroep en Workshop: Debuggen en Verrijken]` <br>
 
 #### Samen kijken met Gestalt principles
 
@@ -280,7 +280,7 @@ Deze zijn my sketches voordat ik feedback gekregen van mijn klasgenoten. <br>
   Hier zie ik ook een duidelijke hierarchie! <br>  
   <img width="500" alt="klasgenoots sketch" src="https://github.com/user-attachments/assets/3bfb36da-a33f-4e54-9916-2afc2d1533be" />
 
-#### Checkout <br>
+#### ✅Checkout <br>
 
 - Noem 3 Gestaltprincipes op en laat de ander uitleggen wat ze betekenen en doen. <br>
   Symetrie: Beide kanten zijn hetzelfde en evenwicht. <br>
@@ -314,7 +314,7 @@ Ik heb de ster met de hulp van deze website (https://www.cssportal.com/css-clip-
 
 Ik heb AI gebruikt om te helpen bij bugs en een oplossingsrichting te zoeken. Verder heb ik AI niet gebruikt.
 
-### `18 sept Retrospect 1 en Gesprek met Vasilis` <br>
+### `📅 18 sept Retrospect 1 en Gesprek met Vasilis` <br>
 
 #### `Retrospect 1` <br>
 
@@ -326,26 +326,25 @@ Individueel opdrachten <br>
 Groep opdracht met Tüya, Sophia en Jesse <br>
 <img width="500" alt="groep opdracht tot minst naar best" src="https://github.com/user-attachments/assets/9bfcea6d-6dbf-45dd-b69f-dabfa688fbec" /> <br>
 
-#### `Check-out` <br>
+#### Check-out <br>
 
-**ORIENTEREN EN BEGRIJPEN**
-**Waarom geven de docenten deze opdracht?**
+**1. Waarom geven de docenten deze opdracht?**
 
 Ik zie elke opdracht als een opstapje dat me helpt om de volgende stap te zetten, en daarom probeer ik ze allemaal zorgvuldig uit te voeren. Als ik iets mis, weet ik dat ik bij latere opdrachten vastloop. Deze opdrachten leren me wat er allemaal wel mogelijk is binnen de website die we bouwen, maar laten me tegelijkertijd ook zien waar de grenzen liggen.
 
-**Welke technieken gebruik ik?**
+**2. Welke technieken gebruik ik?**
 
 Tijdens deze sprint heb ik veel geleerd over CSS Grid en heb ik mijn best gedaan om dit goed toe te passen. In de HTML heb ik met behulp van headers en unordered lists gezorgd voor een duidelijke en nette structuur.
 
-**Wat zijn de randvoorwaarden?**
+**3. Wat zijn de randvoorwaarden?**
 
 Een van de belangrijkste voorwaarden was dat de website echt ‘webby’ moest zijn. Door veel verschillende websites te analyseren, hebben we geleerd wat dat precies inhoudt: eigenschappen zoals fluid, responsive en adaptief zijn maken een site webby (en veel meer). De grootste beperking voor mij was de tijd: binnen twee weken een webby site neerzetten waarin het concept duidelijk naar voren komt. Hierdoor kon ik niet heel veel experimenteren en heb ik me vooral gefocust op het goed toepassen van wat we net geleerd hadden.
 
-**Waar gebruik je HTML/CSS voor?**
+**4. Waar gebruik je HTML/CSS voor?**
 
 Voor mij is HTML echt het skelet van de website; hierin bouw je de basis en de structuur op. Vervolgens gebruik ik CSS om te bepalen hoe alles eruitziet en hoe elementen zich gedragen. Door die combinatie voelt de website logischer en vloeiender aan voor de bezoeker.
 
-**Wat kan er allemaal met CSS?**
+**5. Wat kan er allemaal met CSS?**
 
 Met CSS kun je enorm veel kanten op: van grids en responsive layouts tot kleurpaletten, custom fonts en zelfs animaties. In dit project heb ik vooral gewerkt met `grid-template/columns/rows' en 'grid-row/column-start/end'. Daarnaast heb ik met custom properties een light/dark theme opgezet.
 
