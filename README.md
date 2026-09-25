@@ -452,6 +452,9 @@ https://www.cookiebot.com/en/cookie-banner-examples/ <br>
 https://cookieinformation.com/blog/checklist-to-collecting-valid-cookie-consent-in-the-era-of-the-gdpr/ <br>
 
 -- Denk na over een manier van werken die past binnen de layout van jouw digital garden? <br>
+<img width="400" alt="WhatsApp Image 2026-09-25 at 09 23 05" src="https://github.com/user-attachments/assets/941f947c-e2c5-454a-81af-c0b15a8e6f55" /> <br> 
+Ik ga geen reject en accept button toevoegen.
+
 #### ✅Check-out <br> 
 **Wat is een wireflow en wat heb je er aan?** <br> 
 Een wireflow helpt ons te begrijpen hoe een actie op een scherm verloopt. <br> 
