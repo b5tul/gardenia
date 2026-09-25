@@ -20,7 +20,8 @@
 
 html {
   color-scheme: light dark;
-  --background: rgb(255, 181, 255);
+  --background-1: #c2c6de;
+  --background-2: #f6f7f9;
   --text-color: rgb(45, 45, 45);
   --text-background: #fff2fd;
   --article-text: rgb(45, 45, 45);
@@ -28,26 +29,31 @@ html {
   --hover-text: rgb(45, 45, 45);
   --hover-nav: #ffffff;
   --hover-nav-shadow: #2d3153;
-  --lastentries: rgb(45, 45, 45);
-  --lastentries-hover: rgb(45, 45, 45);
 
-  --background: light-dark(rgb(255, 181, 255), #2d3153);
-  --text-color: light-dark(rgb(45, 45, 45), rgb(255, 218, 255));
-  --text-background: light-dark(#fff2fd, rgb(255, 218, 255));
+  --background-1: light-dark(#c2c6de, #6c6f8a);
+  --background-2: light-dark(#f6f7f9, #999999);
+  --text-color: light-dark(rgb(5, 3, 3), rgb(134, 134, 134));
+  --text-background: light-dark(#fff2fd, #ffdaff);
   --article-text: light-dark(rgb(45, 45, 45), #2d3153);
   --hover-background: light-dark(#2d3153, #131522);
-  --hover-text: light-dark(rgb(255, 218, 255), rgb(255, 218, 255));
-  --hover-nav: light-dark(#ffffff, #ffffff);
+  --hover-text: light-dark(rgb(255, 218, 255), #ffdaff);
+  --hover-nav: light-dark(#ffffff, #ffdaff);
   --hover-nav-shadow: light-dark(#2d3153, rgb(239, 107, 239));
-  --lastentries: light-dark(rgb(45, 45, 45), rgb(255, 218, 255));
-  --lastentries-hover: light-dark(rgb(45, 45, 45), rgb(255, 218, 255));
 }
 
 body {
   font-family: Helvetica, sans-serif;
   font-style: normal;
   color: var(--text-color);
-  background-color: var(--background);
+  background-image:
+    url("./photos/texture-paper.jpg"),
+    repeating-linear-gradient(
+      90deg,
+      var(--background-1) 0 3em,
+      var(--background-2) 0 6em
+    );
+  background-blend-mode: multiply, normal;
+  opacity: 1em;
 }
 
 main {
@@ -58,7 +64,7 @@ main {
   gap: 1em;
   /* margin: 2em; */
   padding: 2em;
-  background-color: #ffffff;
+
   border-radius: 3em;
 
   @media (width<40em) {
@@ -70,39 +76,10 @@ main {
 /**** ARTICLES ****/
 /******************/
 
-article:nth-last-child(1) {
-  /* star: artist of the day */
-  background-color: var(--text-background);
-  aspect-ratio: 1/1;
-  /* max-width: 1fr; */
-  padding: 30% 30%;
-
-  /* display: flex; */
-  align-items: center;
-  justify-content: center;
-  text-align: center;
-  text-wrap: balance;
-
-  grid-column-start: 1;
-  grid-row-start: 1;
-  /* padding: 20%; */
-  clip-path: polygon(
-    50% 0%,
-    63% 33%,
-    100% 33%,
-    70% 59%,
-    82% 95%,
-    50% 72%,
-    19% 95%,
-    30% 59%,
-    0% 33%,
-    37% 33%
-  );
-}
-
 article:nth-of-type(1) {
   /* get to know me */
   justify-items: center;
+  /* background-color: transparent; */
 }
 
 article {
@@ -141,6 +118,7 @@ header {
   justify-content: space-between;
   align-items: center;
   flex-wrap: wrap;
+  color: #ffffff;
 }
 header h1 {
   font-family: "MissFajardose";
@@ -150,14 +128,9 @@ header h1 {
 nav {
   display: flex;
   flex-wrap: balance;
-  padding: 2em;
   gap: 4em;
   align-items: center;
-
-  @media (width<40em) {
-    display: grid;
-    grid-template-columns: 1fr;
-  }
+  max-width: fit-content;
 
   font-family: Helvetica, sans-serif;
   font-style: normal;
