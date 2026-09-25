@@ -464,5 +464,11 @@ Het is ontwerpelement dat gebruikers op subtiele wijze aanzet tot het uitvoeren 
 
 **Waar moet je als ontwerper rekening mee houden bij het maken van een human consent component?** <br> 
  Gebruikers keuzes laten maken en proberen hen daarbij niet te beïnvloeden en wat het belangrijkst is: die keuzes respecteren en uitvoeren wat er wordt gevraagd.
+ <br>
+ <br> 
+ ### `📅 24 sept Werkgroep en Workshop` <br>
+ #### Gesprek met Barbara <br> 
+ De sterretje veranderen in en SVG. Zodat de text in het midden staan. 
+ Voeg "Human Consent Component" toe.
 
 [...]
