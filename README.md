@@ -466,9 +466,29 @@ Het is ontwerpelement dat gebruikers op subtiele wijze aanzet tot het uitvoeren 
  Gebruikers keuzes laten maken en proberen hen daarbij niet te beïnvloeden en wat het belangrijkst is: die keuzes respecteren en uitvoeren wat er wordt gevraagd.
  <br>
  <br> 
- ### `📅 24 sept Werkgroep en Workshop` <br>
+ ### `📅 25 sept Werkgroep en Workshop` <br>
  #### Gesprek met Barbara <br> 
  De sterretje veranderen in en SVG. Zodat de text in het midden staan. 
  Voeg "Human Consent Component" toe.
+ Algemene feedback voor de groep (van Alara's notities!): <br> 
+-Het toevoegen van Ja en nee knoppen voor doorverwijzing van de webring. Hoef je niet persee te accepteren, maar dat je alleen op JOUW website wilt blijven. <br> 
+-Je kan er in zetten wat github pages doet met je data <br> 
+-Diverse schetsen maken van je human consent component en dat uitwerken <br> 
+-Verschillende vormen: door als je bijvoorbeeld: "nee" klikt dat er "jammer.. blabla" tekst krijgt en werk ook met kleuren/ ontwerp dat bij je website past. <br> 
+-Flexbox kan handig zijn voor de cookie pop-up op je website <br> 
+<br> 
+#### Workshop: Position + Dialogs (Sanne) <br>  
+
+Positions <br> 
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/3688853a-5655-4930-8d0d-8b2cef7a5d61" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/679081eb-755d-4a75-a823-0231d5e87b0d" />
+Animaties <br> 
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/9a8e4494-a072-4c6d-b7c6-ae4d352050dd" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/6ed7c127-71e1-4244-a680-ad752d06062e" />
+
+
+
+
+ 
 
 [...]
