@@ -7,7 +7,9 @@
     <meta name="color-scheme" content="dark light" />
 
     <title>[Digital Garden of Betül]</title>
+    <script defer src="gardenia.js"></script>
     <link rel="stylesheet" href="./assets/style/normal.css" />
+
     <link
       rel="stylesheet"
       href="./assets/type/Ballet-Regular-VariableFont_opsz.ttf"
@@ -25,6 +27,39 @@
     </header>
 
     <main>
+      <button>
+        <picture>
+          <source
+            srcset="./assets/style/photos/cookieDark.svg"
+            media="(prefers-color-scheme: dark)"
+          />
+          <img src="./assets/style/photos/cookieLight.svg" alt="cookie light" />
+        </picture>
+      </button>
+
+      <!-- DE MODELESS DIALOG -->
+      <dialog>
+        <form method="dialog">
+          <h2>Data Management</h2>
+          <button class="close" aria-label="sluit hulp">x</button>
+          <p>
+            This website is hosted statically via GitHub Pages. We do not use
+            tracking or advertising cookies. Basic server logs (such as IP
+            addresses) may be processed by GitHub solely for security, network
+            diagnostics, and abuse prevention purposes in accordance with
+            GitHub's Privacy Statement.
+          </p>
+          <button
+            class="readmore"
+            href="https://docs.github.com/en/site-policy/privacy-policies/github-cookies"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Read more
+          </button>
+        </form>
+      </dialog>
+
       <article>
         <img src="./assets/style/photos/banner2.png" />
         <h2>Get to know me!</h2>

@@ -47,6 +47,7 @@ html {
   --hover-text: rgb(45, 45, 45);
   --hover-nav: #ffffff;
   --hover-nav-shadow: #2d3153;
+  --cookie: #2d2d2d;
 
   --background-1: light-dark(#c2c6de, #bea5bd);
   --background-2: light-dark(#f6f7f9, #8e778d);
@@ -55,8 +56,9 @@ html {
   --article-text: light-dark(rgb(45, 45, 45), #ffffff);
   --hover-background: light-dark(#2d3153, #131522);
   --hover-text: light-dark(rgb(255, 218, 255), #ffffff);
-  --hover-nav: light-dark(#ffffff, #ffdaff);
-  --hover-nav-shadow: light-dark(#2d3153, rgb(239, 107, 239));
+  --hover-nav: light-dark(#ffffff, #fbfbfb);
+  --hover-nav-shadow: light-dark(#2d3153, #fbfbfb);
+  --cookie: light-dark(#2d2d2d, #8e778d);
 }
 
 body {
@@ -143,7 +145,8 @@ header {
 }
 header h1 {
   font-family: "MissFajardose";
-  font-size: 3em;
+  font-size: 3.5em;
+  padding-left: 0.3em;
   /* justify-content: flex-start; */
 }
 nav {
@@ -166,4 +169,73 @@ nav p:hover {
   text-shadow: var(--hover-nav-shadow) 0px 0 7px; /* offset-x, y, blur */
 
   color: var(--hover-nav);
+}
+
+main dialog {
+  position: fixed;
+  right: 1em;
+  bottom: 1em;
+  left: auto;
+  z-index: 2;
+  max-width: 20em;
+  background-color: var(--article-text);
+  color: var(--text-background);
+
+  border: 1px solid black;
+  box-shadow: 0px 0px 10px black;
+  border-radius: 2em;
+  /* padding: 1em; */
+}
+
+main dialog form {
+  position: relative;
+  padding-right: 2em;
+}
+
+dialog form .close {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 2em;
+  aspect-ratio: 1;
+
+  /* Butonu daha şık/temiz göstermek istersen (isteğe bağlı): */
+  background: transparent;
+  border: 2px solid var(--text-background);
+  border-radius: 10px;
+  color: var(--text-background);
+  font-size: 1.1rem;
+  font-weight: bold;
+  cursor: pointer;
+  /* padding: 4px 8px; */
+  /* line-height: 1; */
+}
+.close:hover {
+  opacity: 0.5;
+}
+
+.readmore {
+  background-color: var(--text-background);
+  color: var(--article-text);
+  border: none;
+}
+.readmore:hover {
+  opacity: 0.5;
+}
+
+main > button {
+  position: fixed;
+  right: 2em;
+  bottom: 2em;
+  z-index: 1;
+  background-color: var(--cookie);
+  border-color: transparent;
+
+  width: 4em;
+  aspect-ratio: 1;
+  border-radius: 5em;
+}
+main > button img {
+  max-width: 200%;
+  justify-self: center;
 }
