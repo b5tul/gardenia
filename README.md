@@ -412,10 +412,10 @@ Ja. Alleen moet ik nog meer werken aan de eis: "Je hebt meerdere richtingen verk
 #### ✅Check-out <br>
 
 Wat zijn HTML landmark role elements? <br>
-Dit zijn tags die de belangrijkste structurele onderdelen van een webpagina. Het helpt snel door de pagina te navigeren. <br> 
+Dit zijn tags die de belangrijkste structurele onderdelen van een webpagina. Het helpt snel door de pagina te navigeren. <br>
 
 Wat zijn heading elementen en hoe horen deze 'genest' te worden? <br>
-Heading elementen zijn (tot h1 en met h6) die worden gebruikt om de hiërarchie en structuur van de content op een website te bepalen.<br> 
+Heading elementen zijn (tot h1 en met h6) die worden gebruikt om de hiërarchie en structuur van de content op een website te bepalen.<br>
 
 Hoe ga jij met cookies om? Beschrijf jouw beweegredenen en of die zijn veranderd na het volgen van dit college. <br>
 ​Ik weiger cookies meestal, maar als ik op veel verschillende knoppen moet drukken om ze af te wijzen, accepteer ik ze soms omdat ik er geen zin in heb.<br>
@@ -439,56 +439,63 @@ Toen ik met mijn medestudenten naar een product op de Temu pagina keek, was het 
 #### Human Consent Component <br>
 
 -- Hoe kan je gebruikers informeren over het gebruik van hun gegevens op jouw website? <br>
-De banner moet duidelijk vermelden dat de site gebruikmaakt van trackers, kort het doel ervan toelichten en een directe link naar het volledige privacybeleid bieden voordat de gebruiker verder navigeert. <br> 
+De banner moet duidelijk vermelden dat de site gebruikmaakt van trackers, kort het doel ervan toelichten en een directe link naar het volledige privacybeleid bieden voordat de gebruiker verder navigeert. <br>
 
--- Op welke manier kan je instemming vragen? Doe desk-research en zoek tenminste 10 verschillende manieren van het vragen van consent op het web. <br> 
+-- Op welke manier kan je instemming vragen? Doe desk-research en zoek tenminste 10 verschillende manieren van het vragen van consent op het web. <br>
+
 1. Equal-Weight Accept/Reject Banners
 2. Header Notification Bar
 3. Small panel in the corner
-4. Center modal pop-up <br> 
-   <img width="400" alt="image" src="https://github.com/user-attachments/assets/24a8fd99-4629-4c61-9c4c-aa89c7d6e122" /> <br> 
-Bronnen: https://www.iubenda.com/en/blog/what-is-gdpr-cookie-consent-examples/ <br>
-https://www.cookiebot.com/en/cookie-banner-examples/ <br>
-https://cookieinformation.com/blog/checklist-to-collecting-valid-cookie-consent-in-the-era-of-the-gdpr/ <br>
+4. Center modal pop-up <br>
+   <img width="400" alt="image" src="https://github.com/user-attachments/assets/24a8fd99-4629-4c61-9c4c-aa89c7d6e122" /> <br>
+   Bronnen: https://www.iubenda.com/en/blog/what-is-gdpr-cookie-consent-examples/ <br>
+   https://www.cookiebot.com/en/cookie-banner-examples/ <br>
+   https://cookieinformation.com/blog/checklist-to-collecting-valid-cookie-consent-in-the-era-of-the-gdpr/ <br>
 
 -- Denk na over een manier van werken die past binnen de layout van jouw digital garden? <br>
-<img width="400" alt="WhatsApp Image 2026-09-25 at 09 23 05" src="https://github.com/user-attachments/assets/941f947c-e2c5-454a-81af-c0b15a8e6f55" /> <br> 
+<img width="400" alt="WhatsApp Image 2026-09-25 at 09 23 05" src="https://github.com/user-attachments/assets/941f947c-e2c5-454a-81af-c0b15a8e6f55" /> <br>
 Ik ga geen reject en accept button toevoegen.
 
-#### ✅Check-out <br> 
-**Wat is een wireflow en wat heb je er aan?** <br> 
-Een wireflow helpt ons te begrijpen hoe een actie op een scherm verloopt. <br> 
+#### ✅Check-out <br>
 
-**Wat zijn dark UX patterns? Geef drie voorbeelden...** <br> 
-Het is ontwerpelement dat gebruikers op subtiele wijze aanzet tot het uitvoeren van een specifieke actie. Bijvoorbeeld: misdirection, bait en switch, fomo <br> 
+**Wat is een wireflow en wat heb je er aan?** <br>
+Een wireflow helpt ons te begrijpen hoe een actie op een scherm verloopt. <br>
 
-**Waar moet je als ontwerper rekening mee houden bij het maken van een human consent component?** <br> 
- Gebruikers keuzes laten maken en proberen hen daarbij niet te beïnvloeden en wat het belangrijkst is: die keuzes respecteren en uitvoeren wat er wordt gevraagd.
- <br>
- <br> 
- ### `📅 25 sept Werkgroep en Workshop` <br>
- #### Gesprek met Barbara <br> 
- De sterretje veranderen in en SVG. Zodat de text in het midden staan. 
- Voeg "Human Consent Component" toe.
- Algemene feedback voor de groep (van Alara's notities!): <br> 
--Het toevoegen van Ja en nee knoppen voor doorverwijzing van de webring. Hoef je niet persee te accepteren, maar dat je alleen op JOUW website wilt blijven. <br> 
--Je kan er in zetten wat github pages doet met je data <br> 
--Diverse schetsen maken van je human consent component en dat uitwerken <br> 
--Verschillende vormen: door als je bijvoorbeeld: "nee" klikt dat er "jammer.. blabla" tekst krijgt en werk ook met kleuren/ ontwerp dat bij je website past. <br> 
--Flexbox kan handig zijn voor de cookie pop-up op je website <br> 
-<br> 
-#### Workshop: Position + Dialogs (Sanne) <br>  
+**Wat zijn dark UX patterns? Geef drie voorbeelden...** <br>
+Het is ontwerpelement dat gebruikers op subtiele wijze aanzet tot het uitvoeren van een specifieke actie. Bijvoorbeeld: misdirection, bait en switch, fomo <br>
 
-Positions <br> 
+**Waar moet je als ontwerper rekening mee houden bij het maken van een human consent component?** <br>
+Gebruikers keuzes laten maken en proberen hen daarbij niet te beïnvloeden en wat het belangrijkst is: die keuzes respecteren en uitvoeren wat er wordt gevraagd.
+<br>
+<br>
+
+### `📅 25 sept Werkgroep en Workshop` <br>
+
+#### Gesprek met Barbara <br>
+
+De sterretje veranderen in en SVG. Zodat de text in het midden staan.
+Voeg "Human Consent Component" toe.
+Algemene feedback voor de groep (van Alara's notities!): <br>
+-Het toevoegen van Ja en nee knoppen voor doorverwijzing van de webring. Hoef je niet persee te accepteren, maar dat je alleen op JOUW website wilt blijven. <br>
+-Je kan er in zetten wat github pages doet met je data <br>
+-Diverse schetsen maken van je human consent component en dat uitwerken <br>
+-Verschillende vormen: door als je bijvoorbeeld: "nee" klikt dat er "jammer.. blabla" tekst krijgt en werk ook met kleuren/ ontwerp dat bij je website past. <br>
+-Flexbox kan handig zijn voor de cookie pop-up op je website <br>
+<br>
+
+#### Workshop: Position + Dialogs (Sanne) <br>
+
+Positions <br>
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/3688853a-5655-4930-8d0d-8b2cef7a5d61" />
-<img width="400" alt="image" src="https://github.com/user-attachments/assets/679081eb-755d-4a75-a823-0231d5e87b0d" />
-Animaties <br> 
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/679081eb-755d-4a75-a823-0231d5e87b0d" /> <br>
+Animaties <br>
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/9a8e4494-a072-4c6d-b7c6-ae4d352050dd" />
-<img width="400" alt="image" src="https://github.com/user-attachments/assets/6ed7c127-71e1-4244-a680-ad752d06062e" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/6ed7c127-71e1-4244-a680-ad752d06062e" /> <br>
 
+### `📅 28 sept Werkgroep` <br>
 
+#### Bi-weekly geek 2 <br>
 
-
- 
+#### Werken met alleen-het-toetsenbord en screenreader
 
 [...]

@@ -178,6 +178,9 @@ nav {
 nav p {
   font-weight: 700;
   cursor: pointer;
+  /* background-color: #bea5bd; */
+  /* filter: drop-shadow(0 0 2px #fff) drop-shadow(0 0 4px #fff) */
+  /* drop-shadow(0 0 6px #fff) drop-shadow(0 0 10px #fff); */
 }
 
 nav p:hover {
