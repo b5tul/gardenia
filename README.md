@@ -494,9 +494,18 @@ Animaties <br>
 
 ### `📅 28 sept Werkgroep` <br>
 
-#### Bi-weekly geek 2 <br>
+#### Bi-weekly geek 2 <br> 
+**Voorbereiding**
+- Dankzij de nieuwe wetten worden de algoritmes en de misleidende effecten van sociale media onder strenger toezicht geplaatst. Hierdoor worden we dankzij de wetten beschermd op gebieden waar burgers zichzelf niet kunnen beschermen. <br> 
+- Veel mensen gebruiken AI-tools (kunstmatige intelligentie) om nieuwe informatie te verkrijgen, en dit kan de weg vrijmaken voor de verspreiding van veel onjuiste informatie en nieuws. Daarom zal dankzij de sancties van de Europese Unie worden voorkomen dat zij verkeerde informatie vertellen alsof het de waarheid is. Dit betekent dat kunstmatige intelligentie de bronnen op het internet moet kunnen onderscheiden als juiste of onjuiste informatie, iets wat volgens een onderzoek bij slechts 50% daadwerkelijk lukt. <br>
+
+- Opdracht met de team
+<img width="400" alt="Screenshot 2026-09-28 140941" src="https://github.com/user-attachments/assets/29d0d277-ecaa-45ba-bd6c-b529455af651" />
+<img width="400" alt="Screenshot 2026-09-28 141032" src="https://github.com/user-attachments/assets/33ef6a9b-a407-44b9-8c9c-a35f0bcf8eb0" />
 
 #### Werken met alleen-het-toetsenbord en screenreader <br> 
+<img width="400" alt="WhatsApp Image 2026-09-28 at 19 19 37" src="https://github.com/user-attachments/assets/ad294d1a-d8d6-486a-823d-80079a21f2b3" />
+<img width="400" alt="Screenshot 2026-09-28 135628" src="https://github.com/user-attachments/assets/f080911a-c3e0-4197-9578-0dba5a056892" />
 
 #### ✅Check-out <br> 
 Wat bedoelt Vasilis met de uitspraak: Semantiek doet mij niet zo veel, ik ben liever bezig met de UX van HTML? <br> 
