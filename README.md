@@ -496,6 +496,16 @@ Animaties <br>
 
 #### Bi-weekly geek 2 <br>
 
-#### Werken met alleen-het-toetsenbord en screenreader
+#### Werken met alleen-het-toetsenbord en screenreader <br> 
+
+#### ✅Check-out <br> 
+Wat bedoelt Vasilis met de uitspraak: Semantiek doet mij niet zo veel, ik ben liever bezig met de UX van HTML? <br> 
+De code hoeft niet correct te zijn maar het moet wel toegankelijk zijn voor de user experience. <br> 
+
+Wat voor type beperkingen hebben invloed op het gebruiken van websites? <br> 
+Visuel, motoriek, cognitieve, geluid. <br> 
+
+Noem drie manieren om door een website te navigeren met jouw screenreader. <br> 
+Tab, Shift + Tab en Pijlen. <br> 
 
 [...]
