@@ -1,3 +1,7 @@
+root {
+  interpolate-size: allow-keywords;
+}
+
 @font-face {
   font-family: "MissFajardose";
   src: url(../type/MissFajardose-Regular.ttf);
@@ -93,6 +97,7 @@ nav {
 nav p {
   font-weight: 700;
   cursor: pointer;
+  transition: 0.3s ease-in-out;
   /* background-color: #bea5bd; */
   /* filter: drop-shadow(0 0 2px #fff) drop-shadow(0 0 4px #fff) */
   /* drop-shadow(0 0 6px #fff) drop-shadow(0 0 10px #fff); */
@@ -100,7 +105,6 @@ nav p {
 
 nav p:hover {
   text-shadow: var(--hover-nav-shadow) 0px 0 7px; /* offset-x, y, blur */
-
   color: var(--hover-nav);
 }
 
@@ -112,11 +116,12 @@ main {
 .welcome1 {
   display: block;
   color: #262535;
+  font-size: 2rem;
 }
 .welcome2 {
   display: block;
   font-family: "MissFajardose";
-  font-size: 3rem;
+  font-size: 3.5rem;
   color: #262535;
 }
 
@@ -124,26 +129,53 @@ details {
   background-color: var(--text-background);
   color: var(--article-text);
   text-align: left;
+  box-shadow: 0em 0em 1em #6a176a60;
 
-  border-radius: 10px;
-  /* padding: 1em; */
+  border-radius: 0.5em;
   margin: 1em;
+}
+details p {
+  display: grid;
+  grid-template-rows: 0fr;
+  transition:
+    grid-template-rows 0.5s ease-in-out,
+    opacity 0.3s ease-in-out,
+    padding 0.3s ease-in-out;
+  opacity: 0;
+  padding-inline: 1em;
+  padding-block: 0;
+}
+details[open] p {
+  grid-template-rows: 1fr;
+  opacity: 1;
+  padding-block: 1em;
+}
+
+details:focus {
 }
 details:open::details-content {
   padding-inline: 1em;
   padding: 1em;
 }
+details:open {
+  box-shadow:
+    0em 0em 3em #00000050,
+    inset 0em -1em 5em #6a176a50;
+}
 details:open summary {
   background: var(--summary-open);
   color: var(--summary-open-text);
+  border-radius: 0.5em 0.5em 0 0;
 }
 summary {
   display: flex;
   cursor: pointer;
   padding-block: 1em;
   padding-inline: 1em;
-  border-radius: 0.4em;
+  border-radius: 0.5em;
+  transition: 0.3s ease-in-out;
 }
+
 summary:hover {
   background-color: var(--hover-background);
   color: var(--hover-text);
@@ -151,4 +183,18 @@ summary:hover {
 summary h3 {
   display: inline;
   margin: 0;
+}
+main a {
+  cursor: default;
+}
+picture {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+picture img {
+  width: 25rem;
+  height: auto;
+  cursor: pointer;
 }

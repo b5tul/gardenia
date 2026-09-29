@@ -1,11 +1,4 @@
 @font-face {
-  font-family: "Comic Relief";
-  src: url(../type/ComicRelief-Regular.woff2);
-  font-weight: 400;
-  font-style: normal;
-}
-
-@font-face {
   font-family: "Ballet";
   src: url(../type/Ballet-Regular-VariableFont_opsz.ttf);
   font-weight: 400;
@@ -141,7 +134,7 @@ article {
   color: var(--article-text);
   padding: 1em 1em 1em 1em;
   border-radius: 10px;
-  cursor: pointer;
+  transition: 0.5s ease-in-out;
 }
 article:hover {
   background-color: var(--hover-background);
@@ -157,6 +150,7 @@ header {
   align-items: center;
   flex-wrap: wrap;
   color: #262535;
+  transition: 0.5s ease-in-out;
 }
 header h1 {
   font-family: "MissFajardose";
@@ -178,6 +172,7 @@ nav {
 nav p {
   font-weight: 700;
   cursor: pointer;
+  transition: 0.3s ease-in-out;
   /* background-color: #bea5bd; */
   /* filter: drop-shadow(0 0 2px #fff) drop-shadow(0 0 4px #fff) */
   /* drop-shadow(0 0 6px #fff) drop-shadow(0 0 10px #fff); */
@@ -185,7 +180,6 @@ nav p {
 
 nav p:hover {
   text-shadow: var(--hover-nav-shadow) 0px 0 7px; /* offset-x, y, blur */
-
   color: var(--hover-nav);
 }
 
@@ -263,17 +257,39 @@ main > button img {
   max-width: 200%;
   justify-self: center;
 }
-.Encyclopedia {
+
+main dialog {
+  scale: 0;
+  transform-origin: calc(100% - 3em) calc(100% - 3em);
+
+  @media (prefers-reduced-motion: no-preference) {
+    transition:
+      scale 0.2s allow-discrete,
+      display 0.2s allow-discrete;
+  }
+}
+main dialog[open] {
+  scale: 1;
+}
+
+@starting-style {
+  main dialog[open] {
+    scale: 0;
+  }
+}
+.Encyclopedia,
+.MyJournal {
   position: absolute;
   bottom: 0.5em;
   right: 0.5em;
+  border: 1px solid var(--text-background);
 
   display: flex;
   align-items: center;
   justify-content: center;
 
-  background-color: var(--article-text);
-  color: var(--text-background);
+  background-color: #fbfbfb;
+  color: var(--article-text);
   text-decoration: none;
 
   border: none;
@@ -284,27 +300,10 @@ main > button img {
   border-radius: 2em;
   margin-top: 0.5em;
 }
-.Encyclopedia:hover {
-  opacity: 0.5;
-}
-.MyJournal {
-  position: absolute;
-  bottom: 0.5em;
-  right: 0.5em;
-  justify-self: center;
-  background-color: var(--article-text);
-  color: var(--text-background);
-
-  border: none;
-  cursor: pointer;
-  width: 3em;
-
-  font-size: 1.1em;
-  padding: 1em;
-  border-radius: 2em;
-
-  margin-top: 0.5em;
-}
+.Encyclopedia:hover,
 .MyJournal:hover {
   opacity: 0.5;
+  transition: 0.5s ease-in-out;
+  color: var(--article-text);
+  background-color: var(--text-background);
 }
