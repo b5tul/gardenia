@@ -57,13 +57,12 @@ body {
   font-family: "BeVietnam", Helvetica, sans-serif;
   font-style: normal;
   color: var(--text-color);
-  background-image:
-    /* url("./photos/texture-paper.png"), */ repeating-linear-gradient(
+  background-image: repeating-linear-gradient(
     90deg,
     var(--background-1) 0 1em,
     var(--background-2) 0 2em
   );
-  /* background-blend-mode: overlay, normal; */
+  margin: 0;
   background-repeat: repeat;
   opacity: 1em;
 }
@@ -144,6 +143,7 @@ article:hover {
 /****************/
 /**** HEADER ****/
 /****************/
+
 header {
   display: flex;
   justify-content: space-between;
@@ -151,20 +151,38 @@ header {
   flex-wrap: wrap;
   color: #262535;
   transition: 0.5s ease-in-out;
+  padding: 0 1em 0 1em;
+  background-color: var(--background-1);
+  @media (width<30em) {
+    flex-direction: column;
+    align-items: center;
+  }
+  box-shadow: inset 0em 3em 5em #6a176a50;
+}
+header a {
+  text-decoration: none;
+  color: #262535;
 }
 header h1 {
   font-family: "MissFajardose";
   font-size: 3.5em;
-  padding-left: 0.3em;
-  /* justify-content: flex-start; */
+  padding: 0;
+  @media (width<30em) {
+    font-size: 3em;
+  }
+}
+header h1:hover {
+  cursor: pointer;
 }
 nav {
   display: flex;
   flex-wrap: balance;
-  gap: 4em;
+  gap: 3em;
   align-items: center;
   max-width: fit-content;
-  margin: 0 1em 0 1em;
+  padding-left: 1em;
+  padding-right: 1em;
+  /* margin: 0 1em 0 1em; */
 
   font-family: "BeVietnam", sans-serif;
   font-weight: 700;
@@ -173,9 +191,6 @@ nav p {
   font-weight: 700;
   cursor: pointer;
   transition: 0.3s ease-in-out;
-  /* background-color: #bea5bd; */
-  /* filter: drop-shadow(0 0 2px #fff) drop-shadow(0 0 4px #fff) */
-  /* drop-shadow(0 0 6px #fff) drop-shadow(0 0 10px #fff); */
 }
 
 nav p:hover {
