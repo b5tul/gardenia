@@ -65,7 +65,8 @@ body {
     var(--background-1) 0 1em,
     var(--background-2) 0 2em
   );
-
+  margin: 0;
+  position: relative;
   background-repeat: repeat;
   opacity: 1em;
 }
@@ -79,10 +80,15 @@ header {
   transition: 0.5s ease-in-out;
   padding: 0 1em 0 1em;
   background-color: var(--background-1);
+  position: sticky;
+  top: 0;
+  margin: 0;
+  z-index: 100;
 
   @media (width<30em) {
     flex-direction: column;
     align-items: center;
+    gap: 1em;
   }
   box-shadow: inset 0em 3em 5em #6a176a50;
 }
@@ -93,6 +99,7 @@ header a {
 header h1 {
   font-family: "MissFajardose";
   font-size: 3.5em;
+  margin: 0;
   @media (width<30em) {
     font-size: 3em;
   }
@@ -101,14 +108,14 @@ header h1:hover {
   cursor: pointer;
 }
 nav {
+  margin: 0;
   display: flex;
   flex-wrap: balance;
-  gap: 3em;
+  gap: 2em;
   align-items: center;
   max-width: fit-content;
   padding-left: 1em;
   padding-right: 1em;
-  /* margin: 0 1em 0 1em; */
 
   font-family: "BeVietnam", sans-serif;
   font-weight: 700;
