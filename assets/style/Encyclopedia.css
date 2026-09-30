@@ -100,6 +100,7 @@ header h1 {
   font-family: "MissFajardose";
   font-size: 3.5em;
   margin: 0;
+  font-weight: bold;
   @media (width<30em) {
     font-size: 3em;
   }
@@ -114,24 +115,24 @@ nav {
   gap: 2em;
   align-items: center;
   max-width: fit-content;
-  padding-left: 1em;
-  padding-right: 1em;
+  padding: 1em;
 
   font-family: "BeVietnam", sans-serif;
   font-weight: 700;
 }
-nav p {
+nav a {
   font-weight: 700;
   cursor: pointer;
   transition: 0.3s ease-in-out;
+  text-transform: uppercase;
 }
 
-nav p:hover {
+nav a:hover {
   text-shadow: var(--hover-nav-shadow) 0px 0 7px; /* offset-x, y, blur */
   color: var(--hover-nav);
 }
-nav p:focus {
-  border-color: #131522;
+nav a:focus {
+  border-color: 1px solid#131522;
 }
 
 main {

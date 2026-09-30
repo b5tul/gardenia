@@ -41,6 +41,8 @@ html {
   --hover-nav: #ffffff;
   --hover-nav-shadow: #2d3153;
   --cookie: #2d2d2d;
+  --arrow: #35374f;
+  --arrow-background: #fbfbfb;
 
   --background-1: light-dark(#c2c6de, #bea5bd);
   --background-2: light-dark(#f6f7f9, #8e778d);
@@ -70,13 +72,10 @@ body {
 
 main {
   display: grid;
-  /* max-width: 70em; */
   grid-template-columns: 1fr 1fr 1fr;
   grid-template-columns: repeat(auto-fit, minmax(1fr, 1fr, 1fr));
   gap: 1em;
-  /* margin: 2em; */
   padding: 2em;
-
   border-radius: 3em;
 
   @media (width<40em) {
@@ -89,9 +88,7 @@ main {
 /******************/
 
 article:nth-of-type(1) {
-  /* get to know me */
   justify-items: center;
-  /* background-color: transparent; */
 }
 article:nth-of-type(2) {
   justify-items: center;
@@ -109,20 +106,13 @@ img {
   aspect-ratio: 2048 / 1055;
   max-width: 100%;
   border-radius: 20px;
-
   align-items: center;
-  /* mix-blend-mode: multiply; 
-  ----The artline is black so this didn't work. 
-  It will be changed.*/
-
   display: block;
   /* block meaning: The element generates a block box, 
   generating line breaks both before and after the element 
   when in the normal flow. */
 }
 
-article:nth-of-type(1) h2 {
-}
 article:nth-of-type(2) img {
   display: block;
   width: 50em;
@@ -135,10 +125,11 @@ article {
   padding: 1em 1em 1em 1em;
   border-radius: 10px;
   transition: 0.5s ease-in-out;
-}
-article:hover {
-  background-color: var(--hover-background);
-  color: var(--hover-text);
+
+  &:hover {
+    background-color: var(--hover-background);
+    color: var(--hover-text);
+  }
 }
 
 /****************/
@@ -165,10 +156,20 @@ header {
   }
   box-shadow: inset 0em 3em 5em #6a176a50;
 }
+
 header a {
   text-decoration: none;
   color: #262535;
+
+  &:hover {
+    cursor: pointer;
+  }
+  &:focus-visible {
+    outline: 0.2em dashed #262535;
+    outline-offset: 0.2em;
+  }
 }
+
 header h1 {
   font-family: "MissFajardose";
   font-size: 3.5em;
@@ -178,10 +179,12 @@ header h1 {
   @media (width<30em) {
     font-size: 3em;
   }
+  &:active {
+    transform: scale(0.9);
+    transition: 0.2s ease-in-out;
+  }
 }
-header h1:hover {
-  cursor: pointer;
-}
+
 nav {
   margin: 0;
   display: flex;
@@ -189,21 +192,57 @@ nav {
   gap: 2em;
   align-items: center;
   max-width: fit-content;
-  padding-left: 1em;
-  padding-right: 1em;
+  padding: 1em;
 
   font-family: "BeVietnam", sans-serif;
   font-weight: 700;
-}
-nav p {
-  font-weight: 700;
-  cursor: pointer;
-  transition: 0.3s ease-in-out;
+
+  & a {
+    font-weight: 700;
+    cursor: pointer;
+    transition: 0.3s ease-in-out;
+    text-transform: uppercase;
+    &:hover {
+      text-shadow: var(--hover-nav-shadow) 0px 0 7px; /* offset-x, y, blur */
+      color: var(--hover-nav);
+    }
+    &:active {
+      transform: scale(0.9);
+      transition: 0.2s ease-in-out;
+    }
+  }
 }
 
-nav p:hover {
-  text-shadow: var(--hover-nav-shadow) 0px 0 7px; /* offset-x, y, blur */
-  color: var(--hover-nav);
+/****************/
+/**** COOKIE ****/
+/****************/
+main > button {
+  position: fixed;
+  right: 2em;
+  bottom: 2em;
+  z-index: 1;
+  background-color: var(--background-1);
+  border-color: transparent;
+  box-shadow: 0px 0px 10px var(--cookie);
+
+  width: 5em;
+  aspect-ratio: 1;
+  border-radius: 5em;
+  &:hover {
+    box-shadow: inset 0em 0em 2em #6a176a50;
+  }
+  &:focus-visible {
+    outline: 0.2em dashed black;
+    outline-offset: 0.2em;
+  }
+  &:active {
+    transform: scale(0.9);
+    transition: 0.2s ease-in-out;
+  }
+  & img {
+    max-width: 200%;
+    justify-self: center;
+  }
 }
 
 main dialog {
@@ -220,11 +259,10 @@ main dialog {
   box-shadow: 0px 0px 10px black;
   border-radius: 2em;
   /* padding: 1em; */
-}
-
-main dialog form {
-  position: relative;
-  padding-right: 2em;
+  & form {
+    position: relative;
+    padding-right: 2em;
+  }
 }
 
 dialog form .close {
@@ -234,18 +272,25 @@ dialog form .close {
   width: 2em;
   aspect-ratio: 1;
 
-  /* Butonu daha şık/temiz göstermek istersen (isteğe bağlı): */
   background: var(--text-background);
   border: 2px solid var(--text-background);
   border-radius: 2em;
   color: var(--article-text);
   font-size: 1.1rem;
   cursor: pointer;
-  /* padding: 4px 8px; */
-  /* line-height: 1; */
-}
-.close:hover {
-  opacity: 0.5;
+
+  &:hover {
+    opacity: 0.5;
+    transition: 0.2s ease-in-out;
+  }
+  &:focus-visible {
+    outline: 0.2em dashed var(--text-background);
+    outline-offset: 0.2em;
+  }
+  &:active {
+    transform: scale(0.9);
+    transition: 0.2s ease-in-out;
+  }
 }
 
 .readmore {
@@ -258,27 +303,20 @@ dialog form .close {
   display: inline-block;
   margin-top: 0.5em;
   text-decoration: none;
-}
-.readmore:hover {
-  opacity: 0.5;
-}
+  &:hover {
+    opacity: 0.5;
+    transition: 0.2s ease-in-out;
+  }
 
-main > button {
-  position: fixed;
-  right: 2em;
-  bottom: 2em;
-  z-index: 1;
-  background-color: var(--background-1);
-  border-color: transparent;
-  box-shadow: 0px 0px 10px var(--cookie);
+  &:focus-visible {
+    outline: 0.2em dashed var(--text-background);
+    outline-offset: 0.2em;
+  }
 
-  width: 4em;
-  aspect-ratio: 1;
-  border-radius: 5em;
-}
-main > button img {
-  max-width: 200%;
-  justify-self: center;
+  &:active {
+    transform: scale(0.9);
+    transition: 0.2s ease-in-out;
+  }
 }
 
 main dialog {
@@ -291,6 +329,7 @@ main dialog {
       display 0.2s allow-discrete;
   }
 }
+
 main dialog[open] {
   scale: 1;
 }
@@ -300,19 +339,23 @@ main dialog[open] {
     scale: 0;
   }
 }
+
+/****************/
+/**** LINKS TO OTHER HTML'S ****/
+/****************/
 .Encyclopedia,
 .MyJournal {
   position: absolute;
   bottom: 0.5em;
   right: 0.5em;
-  border: 1px solid var(--text-background);
+  /* border: 1px solid var(--text-background); */
 
   display: flex;
   align-items: center;
   justify-content: center;
 
-  background-color: #fbfbfb;
-  color: var(--article-text);
+  background-color: var(--arrow-background);
+  color: var(--arrow);
   text-decoration: none;
 
   border: none;
@@ -322,11 +365,16 @@ main dialog[open] {
   padding: 1em;
   border-radius: 2em;
   margin-top: 0.5em;
-}
-.Encyclopedia:hover,
-.MyJournal:hover {
-  opacity: 0.5;
-  transition: 0.5s ease-in-out;
-  color: var(--article-text);
-  background-color: var(--text-background);
+
+  &:hover {
+    opacity: 0.5;
+    transition: 0.5s ease-in-out;
+    color: var(--arrow);
+    background-color: var(--arrow-background);
+  }
+
+  &:focus-visible {
+    outline: 0.2em dashed var(--article-text);
+    outline-offset: 0.2em;
+  }
 }
