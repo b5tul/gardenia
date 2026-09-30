@@ -62,7 +62,7 @@ body {
     var(--background-1) 0 1em,
     var(--background-2) 0 2em
   );
-  margin: 0;
+
   background-repeat: repeat;
   opacity: 1em;
 }
