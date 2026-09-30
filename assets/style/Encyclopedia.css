@@ -31,36 +31,33 @@ html {
   color-scheme: light dark;
   --background-1: #c2c6de;
   --background-2: #f6f7f9;
-  --text-color: #2d2d2d;
+  --text-color: rgb(45, 45, 45);
   --text-background: #fff2fd;
-  --article-text: #2d2d2d;
-  --hover-background: #2d2d2d;
-  --hover-text: #ffdaff;
+  --article-text: rgb(45, 45, 45);
+  --hover-background: rgb(45, 45, 45);
+  --hover-text: rgb(45, 45, 45);
   --hover-nav: #ffffff;
   --hover-nav-shadow: #2d3153;
   --cookie: #2d2d2d;
-  --summary-open: #2d3153;
-  --summary-open-text: #fbfbfb;
+  --arrow: #35374f;
+  --arrow-background: #fbfbfb;
 
   --background-1: light-dark(#c2c6de, #bea5bd);
   --background-2: light-dark(#f6f7f9, #8e778d);
   --text-color: light-dark(rgb(5, 3, 3), rgb(134, 134, 134));
   --text-background: light-dark(#ffdaff, #35374f);
-  --article-text: light-dark(rgb(45, 45, 45), #ffffff);
+  --article-text: light-dark(#2d3153, #ffffff);
   --hover-background: light-dark(#2d3153, #131522);
-  --hover-text: light-dark(#ffdaff, #ffffff);
+  --hover-text: light-dark(#ffafff, #ffffff);
   --hover-nav: light-dark(#ffdaff, #fbfbfb);
   --hover-nav-shadow: light-dark(#6a176a, #fbfbfb);
-  --summary-open: light-dark(#2d3153, #c2c6de);
-  --summary-open-text: light-dark(#fbfbfb, #2d3153);
 }
 
 body {
   font-family: "BeVietnam", Helvetica, sans-serif;
   font-style: normal;
   color: var(--text-color);
-  background-image:
-    /* url("./photos/texture-paper.png"), */ repeating-linear-gradient(
+  background-image: repeating-linear-gradient(
     90deg,
     var(--background-1) 0 1em,
     var(--background-2) 0 2em
@@ -84,7 +81,6 @@ header {
   top: 0;
   margin: 0;
   z-index: 100;
-
   @media (width<30em) {
     flex-direction: column;
     align-items: center;
@@ -92,22 +88,35 @@ header {
   }
   box-shadow: inset 0em 3em 5em #6a176a50;
 }
+
 header a {
   text-decoration: none;
   color: #262535;
+
+  &:hover {
+    cursor: pointer;
+  }
+  &:focus-visible {
+    outline: 0.2em dashed #262535;
+    outline-offset: 0.2em;
+  }
 }
+
 header h1 {
   font-family: "MissFajardose";
   font-size: 3.5em;
   margin: 0;
   font-weight: bold;
+
   @media (width<30em) {
     font-size: 3em;
   }
+  &:active {
+    transform: scale(0.9);
+    transition: 0.2s ease-in-out;
+  }
 }
-header h1:hover {
-  cursor: pointer;
-}
+
 nav {
   margin: 0;
   display: flex;
@@ -119,20 +128,21 @@ nav {
 
   font-family: "BeVietnam", sans-serif;
   font-weight: 700;
-}
-nav a {
-  font-weight: 700;
-  cursor: pointer;
-  transition: 0.3s ease-in-out;
-  text-transform: uppercase;
-}
 
-nav a:hover {
-  text-shadow: var(--hover-nav-shadow) 0px 0 7px; /* offset-x, y, blur */
-  color: var(--hover-nav);
-}
-nav a:focus {
-  border-color: 1px solid#131522;
+  & a {
+    font-weight: 700;
+    cursor: pointer;
+    transition: 0.3s ease-in-out;
+    text-transform: uppercase;
+    &:hover {
+      text-shadow: var(--hover-nav-shadow) 0px 0 7px; /* offset-x, y, blur */
+      color: var(--hover-nav);
+    }
+    &:active {
+      transform: scale(0.9);
+      transition: 0.2s ease-in-out;
+    }
+  }
 }
 
 main {
@@ -160,9 +170,10 @@ details {
 
   border-radius: 0.5em;
   margin: 1em;
-}
-
-details:focus {
+  &:focus-visible {
+    outline: 0.2em dashed #262535;
+    outline-offset: 0.2em;
+  }
 }
 
 details:open::details-content {
@@ -186,12 +197,12 @@ summary {
   padding-inline: 1em;
   border-radius: 0.5em;
   transition: 0.3s ease-in-out;
+  &:hover {
+    background-color: var(--hover-background);
+    color: var(--hover-text);
+  }
 }
 
-summary:hover {
-  background-color: var(--hover-background);
-  color: var(--hover-text);
-}
 summary h3 {
   display: inline;
   margin: 0;
@@ -212,7 +223,7 @@ picture img {
   transition: 0.3s ease-in-out;
   margin-top: 1em;
   filter: drop-shadow(0px 4px 10px #00000050);
-}
-picture img:hover {
-  transform: rotate(10deg) scale(1.1);
+  &:hover {
+    transform: rotate(10deg) scale(1.1);
+  }
 }
