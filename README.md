@@ -520,13 +520,22 @@ Tab, Shift + Tab en Pijlen. <br>
 Omdat ik geen cookies op mijn website gebruik, wilde ik de gebruiker informeren over hoe GitHub Pages data gebruikt. Want zoals ik op GitHub heb gelezen, worden de gegevens van bezoekers om veiligheidsredenen gebruikt. Ik wist echter niet precies hoe ik dit kort en krachtig aan de gebruiker kon overbrengen en kon niet de juiste zinnen vinden. Daarom heb ik hulp gevraagd aan Gemini, die de korte, informatieve paragraaf die je hier ziet voor me heeft geschreven. Omdat ik het belangrijk vind dat de lezer het in één keer begrijpt, heb ik ervoor gekozen om dit met behulp van kunstmatige intelligentie te schrijven. <br> 
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/363e73cb-3473-4750-8ccf-5796b6fb4ddd" /> <br> 
 
-De layout die ik eerder in gedachten had, was anders. Ik wilde één van deze drie artikelen meer laten opvallen, maar toen besefte ik dat dit niet echt bij het thema van mijn digital garden past. De reden dat deze drie artikelen dezelfde hiërarchie hebben, is dat mijn uitleg over fangirlen op mijn website ook gebaseerd is op mijn persoonlijke ervaringen. Daarom staan ze alle drie op hetzelfde niveau en nemen ze de startpagina in gelijke mate in beslag.
+De layout die ik eerder in gedachten had, was anders. Ik wilde één van deze drie artikelen meer laten opvallen, maar toen besefte ik dat dit niet echt bij het thema van mijn digital garden past. De reden dat deze drie artikelen dezelfde hiërarchie hebben, is dat mijn uitleg over fangirlen op mijn website ook gebaseerd is op mijn persoonlijke ervaringen. Daarom staan ze alle drie op hetzelfde niveau en nemen ze de startpagina in gelijke mate in beslag. <br> 
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/8281327b-f929-4b06-87d8-e963b3ab682c" />
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/2674bb08-b258-4e2e-bf2c-67ddc356d256" />
 <img width="400" alt="Screenshot 2026-10-01 142905" src="https://github.com/user-attachments/assets/42fa6340-8181-4172-b7b5-1de816dfa866" /> <br> 
-Ik heb links en knoppen aan de site toegevoegd. Er zijn hover-states aanwezig. Ik heb een achtergrond aan de header toegevoegd zodat we deze goed kunnen onderscheiden van de main content. Ik heb een nieuwe HTML pagina aangemaakt voor de "Fangirl Encyclopedia". Op deze pagina komen informatieve teksten te staan. Helemaal onderaan staat een ster die ik zelf erg leuk bedacht vind. Op deze ster staat "Artist of the day". Als je hierop klikt, kunnen we informatie lezen over de artiest van die betreffende dag.
+Ik heb links en knoppen aan de site toegevoegd. Er zijn hover-states aanwezig. Ik heb een achtergrond aan de header toegevoegd zodat we deze goed kunnen onderscheiden van de main content. Ik heb een nieuwe HTML pagina aangemaakt voor de "Fangirl Encyclopedia". Op deze pagina komen informatieve teksten te staan. Helemaal onderaan staat een ster die ik zelf erg leuk bedacht vind. Op deze ster staat "Artist of the day". Als je hierop klikt, kunnen we informatie lezen over de artiest van die betreffende dag. <br> 
 
+### `30 sept Werkgroep` <br>
+Ik was helaas niet aanwezig maar ik heb wel de opdrachten gedaan.
 
+#### ✅Check-out <br> 
+Waar staat WCAG en A11y voor?
 
+Wat vind je lastiger, je laptop/websites alleen met een toetsenbord bedienen of met een screenreader? Waarom? Waar moet je nog mee oefenen?
+
+Met welke beperking rekening houden vind je het meest lastig?
+Vind je dat je beperkt wordt in wat je kunt ontwerpen?
+Of heb je al manieren gevonden om vanuit een solide basis  - die voor iedereen toegankelijk is - allemaal leuke en mooie extra's toe te voegen als je bezoekers dat goed vinden?
 
 [...]
