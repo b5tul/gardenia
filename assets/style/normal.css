@@ -33,20 +33,20 @@ html {
   color-scheme: light dark;
   --background-1: #c2c6de;
   --background-2: #f6f7f9;
-  --text-color: rgb(45, 45, 45);
-  --text-background: #fff2fd;
-  --article-text: rgb(45, 45, 45);
-  --hover-background: rgb(45, 45, 45);
-  --hover-text: rgb(45, 45, 45);
-  --hover-nav: #ffffff;
-  --hover-nav-shadow: #2d3153;
+  --text-color: #2d3153;
+  --text-background: #ffdaff;
+  --article-text: #2d3153;
+  --hover-background: #2d3153;
+  --hover-text: #ffafff;
+  --hover-nav: #ffdaff;
+  --hover-nav-shadow: #6a176a;
   --cookie: #2d2d2d;
   --arrow: #35374f;
   --arrow-background: #fbfbfb;
 
   --background-1: light-dark(#c2c6de, #bea5bd);
   --background-2: light-dark(#f6f7f9, #8e778d);
-  --text-color: light-dark(rgb(5, 3, 3), rgb(134, 134, 134));
+  --text-color: light-dark(#2d3153, #868686);
   --text-background: light-dark(#ffdaff, #35374f);
   --article-text: light-dark(#2d3153, #ffffff);
   --hover-background: light-dark(#2d3153, #131522);
