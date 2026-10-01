@@ -1,5 +1,4 @@
-<img width="959" height="473" alt="image" src="https://github.com/user-attachments/assets/dc9f92ce-97b9-4a6c-8739-caf4e0f1d8f1" /># Model
-
+# Gardenia (Betül)
 Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door studenten worden gemaakt.
 
 ## Learning Log
