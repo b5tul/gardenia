@@ -526,8 +526,21 @@ De layout die ik eerder in gedachten had, was anders. Ik wilde één van deze dr
 <img width="400" alt="Screenshot 2026-10-01 142905" src="https://github.com/user-attachments/assets/42fa6340-8181-4172-b7b5-1de816dfa866" /> <br> 
 Ik heb links en knoppen aan de site toegevoegd. Er zijn hover-states aanwezig. Ik heb een achtergrond aan de header toegevoegd zodat we deze goed kunnen onderscheiden van de main content. Ik heb een nieuwe HTML pagina aangemaakt voor de "Fangirl Encyclopedia". Op deze pagina komen informatieve teksten te staan. Helemaal onderaan staat een ster die ik zelf erg leuk bedacht vind. Op deze ster staat "Artist of the day". Als je hierop klikt, kunnen we informatie lezen over de artiest van die betreffende dag. <br> 
 
-### `30 sept Werkgroep` <br>
-Ik was helaas niet aanwezig maar ik heb wel de opdrachten gedaan.
+### `30 sept Werkgroep` <br> 
+Ik was helaas niet aanwezig maar ik heb wel de opdrachten gedaan. <br> 
+- Skip Link <br> 
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/d49cb2b0-4b80-48e5-828b-195ef94a8ef0" /> <br> 
+- WCAG checklist <br>
+Deze heb ik met Tüya getest. <br>
+<img width="300" alt="Screenshot 2026-10-01 192249" src="https://github.com/user-attachments/assets/3b0429c1-f758-411f-be5c-e36fcdd5b5f3" />
+<img width="300"  alt="Screenshot 2026-10-01 192309" src="https://github.com/user-attachments/assets/929e7c54-acfe-4def-a8da-f4d0b3ca9873" />
+<img width="300" alt="Screenshot 2026-10-01 192320" src="https://github.com/user-attachments/assets/c5c28aca-3f38-4f6f-8e05-c5d521f28d96" />
+<img width="300" alt="Screenshot 2026-10-01 192332" src="https://github.com/user-attachments/assets/64a5ec22-7435-416d-954f-0da608a7d6d6" />
+<img width="300" alt="Screenshot 2026-10-01 192348" src="https://github.com/user-attachments/assets/94b5780f-35b6-4049-8d4d-2b8fa13d0902" /> <br>
+- Contrast <br>
+<img width="400" alt="Screenshot 2026-09-30 123547" src="https://github.com/user-attachments/assets/b8bd000f-5cf3-4d0a-8db0-39e190c34737" />
+<img width="400" alt="Screenshot 2026-09-30 123606" src="https://github.com/user-attachments/assets/e0579079-b228-48b4-b724-c855bb291604" />
+
 
 #### ✅Check-out <br> 
 Waar staat WCAG en A11y voor?
