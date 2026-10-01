@@ -289,6 +289,11 @@ dialog form .close {
   font-size: 1.1rem;
   cursor: pointer;
 
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+
   &:hover {
     opacity: 0.5;
     transition: 0.2s ease-in-out;
