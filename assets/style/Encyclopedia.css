@@ -41,6 +41,8 @@ html {
   --cookie: #2d2d2d;
   --arrow: #35374f;
   --arrow-background: #fbfbfb;
+  --summary-open: #2d3153;
+  --summary-open-text: #ffdaff;
 
   --background-1: light-dark(#c2c6de, #bea5bd);
   --background-2: light-dark(#f6f7f9, #8e778d);
@@ -51,6 +53,8 @@ html {
   --hover-text: light-dark(#ffafff, #ffffff);
   --hover-nav: light-dark(#ffdaff, #fbfbfb);
   --hover-nav-shadow: light-dark(#6a176a, #fbfbfb);
+  --summary-open: light-dark(#2d3153, #fbfbfb);
+  --summary-open-text: light-dark(#ffdaff, #2d3153);
 }
 
 body {
@@ -180,12 +184,12 @@ details:open::details-content {
   padding-inline: 1em;
   padding: 1em;
 }
-details:open {
+details[open] {
   box-shadow:
     0em 0em 3em #00000050,
     inset 0em -1em 5em #6a176a50;
 }
-details:open summary {
+details[open] summary {
   background: var(--summary-open);
   color: var(--summary-open-text);
   border-radius: 0.5em 0.5em 0 0;
