@@ -552,12 +552,14 @@ Deze heb ik met Tüya getest. <br>
 - ❌ **Color Contrast**: Check custom ::selection colors. 
 - 
 #### ✅Check-out <br> 
-Waar staat WCAG en A11y voor?
+**Waar staat WCAG en A11y voor?** <br> 
+WCAG en a11y zijn eigenlijk de richtlijnen die ons helpen om websites toegankelijk te maken voor iedereen. <br> 
 
-Wat vind je lastiger, je laptop/websites alleen met een toetsenbord bedienen of met een screenreader? Waarom? Waar moet je nog mee oefenen?
-
-Met welke beperking rekening houden vind je het meest lastig?
+**Wat vind je lastiger, je laptop/websites alleen met een toetsenbord bedienen of met een screenreader? Waarom? Waar moet je nog mee oefenen?** <br> 
+Ik vind een screenreader lastiger omdat je op elk klein detail moet letten. Zelfs in situaties waar we niet aan denken, kunnen er dingen zijn waar rekening mee gehouden moet worden. En precies dat opmerken is het moeilijkste gedeelte. <br> 
+ 
+**Met welke beperking rekening houden vind je het meest lastig? 
 Vind je dat je beperkt wordt in wat je kunt ontwerpen?
-Of heb je al manieren gevonden om vanuit een solide basis  - die voor iedereen toegankelijk is - allemaal leuke en mooie extra's toe te voegen als je bezoekers dat goed vinden?
-
+Of heb je al manieren gevonden om vanuit een solide basis  - die voor iedereen toegankelijk is - allemaal leuke en mooie extra's toe te voegen als je bezoekers dat goed vinden?** <br> 
+Ik vind een visuele beperking het lastigst om rekening mee te houden. Het ontwerpen van een website is over het algemeen namelijk iets heel visueels, en het is best moeilijk om de website tegelijkertijd ook goed begrijpelijk te maken voor een screenreader. Tot nu toe heb ik er geen moeite mee gehad om de website hierop te ontwerpen. Maar als ik complexere dingen wil toevoegen, zal ik er wel beter over moeten nadenken hoe ik dat precies ga aanpakken.
 [...]
