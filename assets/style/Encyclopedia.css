@@ -230,4 +230,8 @@ picture img {
   &:hover {
     transform: rotate(10deg) scale(1.1);
   }
+  &:active {
+    transform: rotate(360deg) scale(1.1);
+    transition: 0.5s ease-in-out;
+  }
 }
