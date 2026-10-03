@@ -561,5 +561,20 @@ Ik vind een screenreader lastiger omdat je op elk klein detail moet letten. Zelf
 **Met welke beperking rekening houden vind je het meest lastig? 
 Vind je dat je beperkt wordt in wat je kunt ontwerpen?
 Of heb je al manieren gevonden om vanuit een solide basis  - die voor iedereen toegankelijk is - allemaal leuke en mooie extra's toe te voegen als je bezoekers dat goed vinden?** <br> 
-Ik vind een visuele beperking het lastigst om rekening mee te houden. Het ontwerpen van een website is over het algemeen namelijk iets heel visueels, en het is best moeilijk om de website tegelijkertijd ook goed begrijpelijk te maken voor een screenreader. Tot nu toe heb ik er geen moeite mee gehad om de website hierop te ontwerpen. Maar als ik complexere dingen wil toevoegen, zal ik er wel beter over moeten nadenken hoe ik dat precies ga aanpakken.
+Ik vind een visuele beperking het lastigst om rekening mee te houden. Het ontwerpen van een website is over het algemeen namelijk iets heel visueels, en het is best moeilijk om de website tegelijkertijd ook goed begrijpelijk te maken voor een screenreader. Tot nu toe heb ik er geen moeite mee gehad om de website hierop te ontwerpen. Maar als ik complexere dingen wil toevoegen, zal ik er wel beter over moeten nadenken hoe ik dat precies ga aanpakken. <br> 
+<br> 
+### `2 okt Werkgroep` <br> 
+#### Gesprek met Barbara <br> 
+Ik heb voldoende en goed gekregen van competenties dus het ging best wel goed. <br> 
+**To-do List**
+1. Uitmaken van de webring
+2. Uitwerken de overage paginas om meer content te kunnen lezen en je onderwerp te kunnen begrijpen.
+3. Cookie pointer toevoegen
+#### Retrospect Sprint 2
+<img width="400" attachments/assets/d58b9251-8a0e-4849-a537-26c607dde4d7" />
+<img width="400" alt="Screenshot 2026-10-03 225959" src="https://github.com/user-attachments/assets/d41f07c0-c09c-4a88-a2b9-3780d4adf14a" />
+<img width="400" alt="Screenshot 2026-10-03 230117" src="https://github.com/user-attachments/assets/08382303-880a-4462-a0f0-c5cf84fd1443" />
+
+
+
 [...]
