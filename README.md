@@ -566,12 +566,15 @@ Ik vind een visuele beperking het lastigst om rekening mee te houden. Het ontwer
 ### `2 okt Werkgroep` <br> 
 #### Gesprek met Barbara <br> 
 Ik heb voldoende en goed gekregen van competenties dus het ging best wel goed. <br> 
+ 
 **To-do List**
 1. Uitmaken van de webring
 2. Uitwerken de overage paginas om meer content te kunnen lezen en je onderwerp te kunnen begrijpen.
 3. Cookie pointer toevoegen
+
+
 #### Retrospect Sprint 2
-<img width="400" attachments/assets/d58b9251-8a0e-4849-a537-26c607dde4d7" />
+<img width="400" alt="Screenshot 2026-10-03 230057" src="https://github.com/user-attachments/assets/4b723e43-d85c-4184-99f4-ca896ff7f2ed" />
 <img width="400" alt="Screenshot 2026-10-03 225959" src="https://github.com/user-attachments/assets/d41f07c0-c09c-4a88-a2b9-3780d4adf14a" />
 <img width="400" alt="Screenshot 2026-10-03 230117" src="https://github.com/user-attachments/assets/08382303-880a-4462-a0f0-c5cf84fd1443" />
 
