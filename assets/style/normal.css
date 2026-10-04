@@ -256,7 +256,7 @@ main > button {
   width: 5em;
   aspect-ratio: 1;
   border-radius: 5em;
-
+  cursor: pointer;
   &:hover {
     box-shadow: inset 0em 0em 2em #6a176a50;
   }
@@ -413,4 +413,10 @@ main dialog[open] {
     outline: 0.2em dashed var(--article-text);
     outline-offset: 0.2em;
   }
+}
+
+footer {
+  font-weight: 400;
+  margin: 1em;
+  color: black;
 }
