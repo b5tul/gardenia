@@ -43,6 +43,7 @@ html {
   --arrow-background: #fbfbfb;
   --summary-open: #2d3153;
   --summary-open-text: #ffdaff;
+  --backdrop: #ffffff50;
 
   --background-1: light-dark(#c2c6de, #bea5bd);
   --background-2: light-dark(#f6f7f9, #8e778d);
@@ -55,6 +56,7 @@ html {
   --hover-nav-shadow: light-dark(#6a176a, #fbfbfb);
   --summary-open: light-dark(#2d3153, #fbfbfb);
   --summary-open-text: light-dark(#ffdaff, #2d3153);
+  --backdrop: light-dark(#ffffff50, #11111150);
 }
 
 body {
@@ -146,5 +148,162 @@ nav {
       transform: scale(0.9);
       transition: 0.2s ease-in-out;
     }
+  }
+}
+
+main {
+  max-width: 70%;
+  margin-inline: auto;
+}
+
+ol {
+  list-style: none;
+  padding: 1em;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(10em, 1fr));
+  gap: 1em;
+}
+
+ol button {
+  width: 100%;
+  height: 100%;
+  padding: 0em 2em 2em 2em;
+  cursor: pointer;
+  border: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  background-color: var(--text-background);
+  color: var(--article-text);
+  box-shadow:
+    0em 0em 3em #00000050,
+    inset 0em 0em 5em #6a176a50;
+  border-radius: 0.5em;
+  transition: 0.3s ease-in-out;
+  &:hover {
+    background-color: var(--hover-background);
+    color: var(--hover-text);
+  }
+  &:focus-visible {
+    outline: 0.2em dashed #262535;
+    outline-offset: 0.2em;
+  }
+}
+main h2 {
+  display: block;
+  font-size: 2rem;
+  color: #262535;
+}
+
+ol button h3 {
+  font-family: "MissFajardose";
+  font-size: 4em;
+  font-weight: 700;
+}
+ol button p {
+  font-family: "BeVietnam", Helvetica, sans-serif;
+}
+
+.diary-dialog {
+  position: relative;
+  border: none;
+  border-radius: 1em;
+  padding: 2em;
+
+  width: 40em;
+  background-color: var(--text-background);
+  color: var(--article-text);
+  box-sizing: border-box;
+  box-shadow:
+    0em 0em 3em #00000050,
+    inset 0em 0em 5em #6a176a50;
+
+  scale: 0;
+  transform-origin: center center;
+  @media (prefers-reduced-motion: no-preference) {
+    transition:
+      scale 0.2s allow-discrete,
+      display 0.2s allow-discrete,
+      overlay 0.2s allow-discrete;
+  }
+}
+.diary-dialog h3 {
+  font-size: 2em;
+}
+
+.diary-dialog[open] {
+  scale: 1;
+}
+
+@starting-style {
+  .diary-dialog[open] {
+    scale: 0;
+  }
+}
+
+.diary-dialog::backdrop {
+  background-color: var(--backdrop);
+  backdrop-filter: blur(3px);
+}
+
+.diary-dialog::backdrop {
+  transition:
+    display 0.2 allow-discrete,
+    overlay 0.2s allow-discrete,
+    opacity 0.2s;
+  opacity: 0;
+}
+
+.diary-dialog[open]::backdrop {
+  opacity: 1;
+}
+
+@starting-style {
+  .diary-dialog[open]::backdrop {
+    opacity: 0;
+  }
+}
+.diary-dialog img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  max-width: 30em;
+  border-radius: 0.5em;
+  border-color: var(--background-1);
+  border-width: 0.5em;
+  border-style: solid;
+}
+
+.close {
+  position: sticky;
+  top: 1em;
+  width: 2em;
+
+  aspect-ratio: 1;
+  display: block;
+  margin-left: auto;
+  z-index: 10;
+
+  background: var(--article-text);
+  border: 2px solid var(--text-background);
+  border-radius: 2em;
+  color: var(--text-background);
+  font-size: 1.1rem;
+  cursor: pointer;
+
+  &:hover {
+    opacity: 0.5;
+    transition: 0.2s ease-in-out;
+  }
+  &:focus-visible {
+    outline: 0.2em dashed var(--text-background);
+    outline-offset: 0.2em;
+  }
+  &:active {
+    transform: scale(0.9);
+    transition: 0.2s ease-in-out;
   }
 }

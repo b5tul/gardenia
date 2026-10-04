@@ -15,10 +15,95 @@
     <header>
       <a href="index.html "><h1>Betül's Space</h1> </a>
       <nav>
-        <a href="LastEntries.html">Last Entries</a>
-        <a href="Journal.html">Journal</a>
-        <a href="Encyclopedia.html">Encyclopedia</a>
+        <a href="last-entries.html">Last Entries</a>
+        <a href="journal.html">Journal</a>
+        <a href="encyclopedia.html">Encyclopedia</a>
       </nav>
     </header>
   </body>
+
+  <main>
+    <h2>My Journal</h2>
+    <ol>
+      <li>
+        <button onclick="diary('dialog-day1')">
+          <h3>Day 1</h3>
+          <p>love love writing</p>
+        </button>
+      </li>
+      <li>
+        <button onclick="diary('dialog-day2')">
+          <h3>Day 2</h3>
+          <p>How I met with TR-Pop</p>
+        </button>
+      </li>
+      <li>
+        <button onclick="diary('dialog-day3')">
+          <h3>Day 3</h3>
+          <p>To be continued...</p>
+        </button>
+      </li>
+    </ol>
+
+    <dialog id="dialog-day1" class="diary-dialog">
+      <div class="dialog-content">
+        <button class="close" onclick="diaryclose('dialog-day1')">✖</button>
+        <h3>Day 1</h3>
+        <p>
+          I love writing what I think, see and feel. That's why I thought it can
+          be a good idea to make a space in this website about it. Although it
+          might seem not interesting as much as I first thought about it,
+          beginning something new won't hurt anyone (I guess :p).
+        </p>
+      </div>
+    </dialog>
+
+    <dialog id="dialog-day2" class="diary-dialog">
+      <div class="dialog-content">
+        <button class="close" onclick="diaryclose('dialog-day2')">✖</button>
+        <h3>Day 2</h3>
+        <p>
+          For the last 5-6 years I have been listening to kpop. Through fandoms
+          and platforms I have met a lot of people and joined communities. This
+          became a huge thing in the whole world as much as it is in Türkiye.
+        </p>
+        <p>
+          In 2024, a survival/reality show called "Big 5" started. It is aimed
+          at forming a new music group (and is still ongoing). When I first saw
+          this show, I immediately knew it was going to be the start of a new
+          era in Turkish pop music. Of course, there are many Turkish music
+          groups, and one of the most beloved among them is "Hepsi". This was a
+          four member girl group that was incredibly famous in the 2000s for
+          their dances, songs, and performances. It was clear from the
+          promotional videos that this show wanted to create a group in a
+          similar vein. However, with the influence of K-pop, we can say that
+          the point it has evolved into is a bit different. In short, this is
+          how it all started for me.
+        </p>
+        <img
+          src="./assets/style/photos/hepsi-group.jpg"
+          alt="Hepsi group photo"
+        />
+        <p>
+          With the group 'Manifest' that debuted after the show, this has turned
+          into a massive trend over the last two years. Manifest's popularity
+          brought along other shows and groups. Currently, there are many
+          new-generation singers in the industry who have also made solo debuts.
+          This means a great deal to me. When I was younger, I used to think
+          that this kind of industry could never exist or survive in Türkiye. It
+          felt as if there was no place for us young people. But right now, many
+          Turkish youths like me are experiencing this excitement, and music
+          that truly appeals to us is being produced. Along with it, a lot of
+          different stage shows, dances, and trends are emerging. Since I have
+          always loved dancing and singing, being able to do this in my own
+          native language makes me happier than I ever imagined and gives me so
+          much inspiration.
+        </p>
+        <img
+          src="./assets/style/photos/manifest-group.jpg"
+          alt="Manifest group photo"
+        />
+      </div>
+    </dialog>
+  </main>
 </html>
