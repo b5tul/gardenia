@@ -576,8 +576,30 @@ Ik heb voldoende en goed gekregen van competenties dus het ging best wel goed. <
 #### Retrospect Sprint 2
 <img width="400" alt="Screenshot 2026-10-03 230057" src="https://github.com/user-attachments/assets/4b723e43-d85c-4184-99f4-ca896ff7f2ed" />
 <img width="400" alt="Screenshot 2026-10-03 225959" src="https://github.com/user-attachments/assets/d41f07c0-c09c-4a88-a2b9-3780d4adf14a" />
-<img width="400" alt="Screenshot 2026-10-03 230117" src="https://github.com/user-attachments/assets/08382303-880a-4462-a0f0-c5cf84fd1443" />
+<img width="400" alt="Screenshot 2026-10-03 230117" src="https://github.com/user-attachments/assets/08382303-880a-4462-a0f0-c5cf84fd1443" /> <br>
+<br> 
 
+### `5 okt Werkgroep` <br> 
+#### ✅Check-out <br>
+**1. Leg uit wat er met de volgende termen bedoeld wordt: kerning, tracking, leading, flush-left, flush-right, centered, justified, indent, outdent, modular scale, movable type, focus punt, vijf soorten contrast, spatial tension. (Hint, alle termen staan in de artikelen die we samen gelezen hebben)** <br> 
+Kerning: letter spacing
+leading: verticale afstand van de ene basislijn tot de volgende
+flush-left: een rechte verticale lijn in de linkermarge
+flush-right: een rechte verticale lijn in de rechtermarge
+centered: het is geschikt voor korte teksten, zoals op titelpagina's
+justified: levert vaak strakkere, geometrische zettingen op met zuivere, vlak aansluitende randen
+indent: een tekstregel of alinea dichter naar de rechtermarge verplaatsen
+outdent: een tekstregel of alinea dichter naar de linkermarge verplaatsen
+modular scale: een balans creeren door middel van custom properties
+movable type:
+focus punt:
+contrasten:
+spatial tension:
+
+
+**2. Wat is jouw ideale regellengte (measure)? Leg uit waarom.** <br> 
+Het is in het algemeen 60ch-90ch. Dat geldt ook voor mij.
+**3. Als je in een ontwerp maar één variabele tot je beschikking had om hiërarchie aan te brengen (grootte, plaatsing, spacing, lettersoorten), welke zou je dan gebruiken en waarom?** <br> 
 
 
 [...]
