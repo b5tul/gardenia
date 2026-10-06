@@ -582,24 +582,24 @@ Ik heb voldoende en goed gekregen van competenties dus het ging best wel goed. <
 ### `5 okt Werkgroep` <br> 
 #### ✅Check-out <br>
 **1. Leg uit wat er met de volgende termen bedoeld wordt: kerning, tracking, leading, flush-left, flush-right, centered, justified, indent, outdent, modular scale, movable type, focus punt, vijf soorten contrast, spatial tension. (Hint, alle termen staan in de artikelen die we samen gelezen hebben)** <br> 
-Kerning: letter spacing
-leading: verticale afstand van de ene basislijn tot de volgende
-flush-left: een rechte verticale lijn in de linkermarge
-flush-right: een rechte verticale lijn in de rechtermarge
-centered: het is geschikt voor korte teksten, zoals op titelpagina's
-justified: levert vaak strakkere, geometrische zettingen op met zuivere, vlak aansluitende randen
-indent: een tekstregel of alinea dichter naar de rechtermarge verplaatsen
-outdent: een tekstregel of alinea dichter naar de linkermarge verplaatsen
-modular scale: een balans creeren door middel van custom properties
-movable type:
-focus punt:
-contrasten:
-spatial tension:
-
-
+Kerning: De kleine ruimtes tussen individuele tekens <br> 
+leading: Verticale afstand van de ene basislijn tot de volgende <br> 
+flush-left: Een rechte verticale lijn in de linkermarge <br> 
+flush-right: Een rechte verticale lijn in de rechtermarge <br> 
+centered: Het is geschikt voor korte teksten, zoals op titelpagina's <br> 
+justified: De tekst vult de hele regel zodat de zijkanten strak zijn <br> 
+indent: Een tekstregel of alinea dichter naar de rechtermarge verplaatsen <br> 
+outdent: Een tekstregel of alinea dichter naar de linkermarge verplaatsen <br> 
+modular scale: Een balans creeren door middel van custom properties <br> 
+movable type: Het is een systeem van drukken en typografie dat gebruikmaakt van afzonderlijke, herbruikbare onderdelen <br> 
+focus punt: Het is een opvallend element dat het vaste ritme verandert. <br> 
+contrasten: Dit zijn de vijf methoden om een focuspunt te creëren: contrast in grootte, kleur, ruimte, gewicht en vorm. <br> 
+spatial tension: Het ontstaat door elementen bewust uit balans te brengen <br> 
+<br> 
 **2. Wat is jouw ideale regellengte (measure)? Leg uit waarom.** <br> 
-Het is in het algemeen 60ch-90ch. Dat geldt ook voor mij.
+Mijn ideale regellengte ligt tussen de 60 en 90 tekens. De reden hiervoor is dat dit het lezen makkelijker maakt. <br> 
+<br> 
 **3. Als je in een ontwerp maar één variabele tot je beschikking had om hiërarchie aan te brengen (grootte, plaatsing, spacing, lettersoorten), welke zou je dan gebruiken en waarom?** <br> 
-
+Ik zou voor 'grootte' kiezen, omdat de afmeting van de tekst het meeste mijn aandacht trekt. Ik lees teksten altijd in volgorde, beginnend bij de grootste en zo door naar de kleinste. Daarom zou ik hiervoor kiezen. <br> 
 
 [...]
