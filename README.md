@@ -629,6 +629,10 @@ Mijn ideale regellengte ligt tussen de 60 en 90 tekens. De reden hiervoor is dat
 Ik zou voor 'grootte' kiezen, omdat de afmeting van de tekst het meeste mijn aandacht trekt. Ik lees teksten altijd in volgorde, beginnend bij de grootste en zo door naar de kleinste. Daarom zou ik hiervoor kiezen. <br> 
 <br> 
 #### [Huiswerk] Zaken die ik nog niet heb kunnen vertalen naar CSS <br> 
-Eerlijk gezegd zou ik de teksten liever niet alleen langs een verticale lijn laten lopen, maar ze ook in verschillende richtingen en in zachtere, gekromde vormen willen omzetten, maar ik weet momenteel nog niet hoe ik dit in CSS moet doen.
+Eerlijk gezegd zou ik de teksten liever niet alleen langs een verticale lijn laten lopen, maar ze ook in verschillende richtingen en in zachtere, gekromde vormen willen omzetten, maar ik weet momenteel nog niet hoe ik dit in CSS moet doen. <br> 
+<br> 
+#### [Deep Dive] S3: Interessantere layouts <br> 
+<img width="400" alt="Screenshot 2026-10-06 201743" src="https://github.com/user-attachments/assets/416d71d4-18e7-4aa1-95e4-cf248859cc3b" />
+
 
 [...]
