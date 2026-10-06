@@ -1,4 +1,4 @@
-<img width="678" height="485" alt="Screenshot 2026-10-06 172639" src="https://github.com/user-attachments/assets/00ab40b1-d9af-4a96-ba1f-b20143973e9c" /># Gardenia (Betül)
+# Gardenia (Betül)
 Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door studenten worden gemaakt.
 
 ## Learning Log
@@ -584,15 +584,17 @@ Ik heb voldoende en goed gekregen van competenties dus het ging best wel goed. <
 Let It Happen - Tame Impala <br> 
 <img height="400" alt="Screenshot 2026-10-06 172831" src="https://github.com/user-attachments/assets/a4849c83-6137-490d-8bf3-80df30cd5dce" /> <br>
 In de videoclip is er in het begin sprake van een ongecontroleerdheid en chaos die ontstaan. Ik weet niet goed hoe ik dit in de typografie kan laten zien, maar dit is wel het grootste punt dat mij is opgevallen.
-#### Bespreken onze schetsen met Amy 
+#### Bespreken onze schetsen met Amy <br> 
 Het overbrengen van dat gevoel uit de videoclip is een van mijn doelen. Hoewel ik momenteel nog niet veel schetsen heb, denk ik dat mijn eerste tekeningen me inspiratie zullen geven. Ik heb Vasilis ook gevraagd hoe ik dit kan coderen, namelijk of we dingen zoals classes of spans kunnen gebruiken, en het is mogelijk. Dit gaat onze boel een stuk makkelijker maken. 
-#### Mijn schetsen
+<br> 
+#### Mijn schetsen <br> 
 <img width="400" alt="Screenshot 2026-10-06 172757" src="https://github.com/user-attachments/assets/1228da97-f69e-44a4-86f2-6fb811d8c215" />
 <img width="400" alt="Screenshot 2026-10-06 172809" src="https://github.com/user-attachments/assets/c0ebecd0-ddd7-4b95-aca0-f45a9236d048" />
 <img width="400" alt="Screenshot 2026-10-06 172738" src="https://github.com/user-attachments/assets/80d8dc11-0c92-45b2-bcc7-b7dc63cfa061" />
 <img width="400" alt="Screenshot 2026-10-06 172639" src="https://github.com/user-attachments/assets/bfd9f166-4e72-4a8f-bb37-8128c135681a" /> <br> 
-Het maken van schetsen voor iets dat alleen uit tekst bestaat was best lastig, dus ik heb de delen die ik wilde benadrukken als tekst getekend en de rest als lijnen.
-#### HTML/CSS
+Het maken van schetsen voor iets dat alleen uit tekst bestaat was best lastig, dus ik heb de delen die ik wilde benadrukken als tekst getekend en de rest als lijnen. <br> 
+<br> 
+#### HTML/CSS <br> 
 <img width="400" alt="Screenshot 2026-10-06 174136" src="https://github.com/user-attachments/assets/692e3a00-17d9-4fac-96e8-d65190458e7c" />
 <img width="400" alt="Screenshot 2026-10-06 174219" src="https://github.com/user-attachments/assets/c79ac22b-40c0-4510-9dbc-0b6e43bb9ff5" />
 <img width="400" alt="Screenshot 2026-10-06 174233" src="https://github.com/user-attachments/assets/00ea6a42-a7c2-4dd7-9c49-ba4e2cbe5e62" />
