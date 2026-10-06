@@ -600,7 +600,9 @@ Het maken van schetsen voor iets dat alleen uit tekst bestaat was best lastig, d
 <img width="400" alt="Screenshot 2026-10-06 174233" src="https://github.com/user-attachments/assets/00ea6a42-a7c2-4dd7-9c49-ba4e2cbe5e62" />
 <img width="400" alt="Screenshot 2026-10-06 174248" src="https://github.com/user-attachments/assets/04d6134f-fa5b-4254-9d92-c2c8e218d5f6" />
 <img width="400" alt="Screenshot 2026-10-06 174316" src="https://github.com/user-attachments/assets/d365ac58-cd96-43e2-af07-d6e1b224d97e" />
-<img width="400" alt="Screenshot 2026-10-06 174327" src="https://github.com/user-attachments/assets/e704467d-f3c2-4f5a-bf7c-762a2d260da4" />
+<img width="400" alt="Screenshot 2026-10-06 174327" src="https://github.com/user-attachments/assets/e704467d-f3c2-4f5a-bf7c-762a2d260da4" /> <br> 
+<br> 
+**[Huiswerk] Eerste digitale vertaling van jouw schets** <br> 
 <img width="800" alt="let it happen lyrics" src="https://github.com/user-attachments/assets/fa3af784-0c32-4ae9-b03a-86e26af9cae3" /> <br> 
 
 
@@ -625,5 +627,8 @@ Mijn ideale regellengte ligt tussen de 60 en 90 tekens. De reden hiervoor is dat
 <br> 
 **3. Als je in een ontwerp maar één variabele tot je beschikking had om hiërarchie aan te brengen (grootte, plaatsing, spacing, lettersoorten), welke zou je dan gebruiken en waarom?** <br> 
 Ik zou voor 'grootte' kiezen, omdat de afmeting van de tekst het meeste mijn aandacht trekt. Ik lees teksten altijd in volgorde, beginnend bij de grootste en zo door naar de kleinste. Daarom zou ik hiervoor kiezen. <br> 
+<br> 
+#### [Huiswerk] Zaken die ik nog niet heb kunnen vertalen naar CSS <br> 
+Eerlijk gezegd zou ik de teksten liever niet alleen langs een verticale lijn laten lopen, maar ze ook in verschillende richtingen en in zachtere, gekromde vormen willen omzetten, maar ik weet momenteel nog niet hoe ik dit in CSS moet doen.
 
 [...]
