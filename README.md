@@ -601,9 +601,7 @@ Het maken van schetsen voor iets dat alleen uit tekst bestaat was best lastig, d
 <img width="400" alt="Screenshot 2026-10-06 174248" src="https://github.com/user-attachments/assets/04d6134f-fa5b-4254-9d92-c2c8e218d5f6" />
 <img width="400" alt="Screenshot 2026-10-06 174316" src="https://github.com/user-attachments/assets/d365ac58-cd96-43e2-af07-d6e1b224d97e" />
 <img width="400" alt="Screenshot 2026-10-06 174327" src="https://github.com/user-attachments/assets/e704467d-f3c2-4f5a-bf7c-762a2d260da4" />
-<img width="400" alt="Screenshot 2026-10-06 174415" src="https://github.com/user-attachments/assets/f8a16726-85ee-428a-9c19-502753be575e" />
-<img width="400" alt="Screenshot 2026-10-06 174429" src="https://github.com/user-attachments/assets/2c21b79e-f01b-40d5-86dd-8778e17a494a" />
-<img width="400" alt="Screenshot 2026-10-06 174435" src="https://github.com/user-attachments/assets/8a78a154-c3d2-405e-a44a-78a2a0bb3167" /> <br> 
+<img width="800" alt="let it happen lyrics" src="https://github.com/user-attachments/assets/fa3af784-0c32-4ae9-b03a-86e26af9cae3" /> <br> 
 
 
 #### ✅Check-out <br>
