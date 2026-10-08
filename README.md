@@ -632,7 +632,17 @@ Ik zou voor 'grootte' kiezen, omdat de afmeting van de tekst het meeste mijn aan
 Eerlijk gezegd zou ik de teksten liever niet alleen langs een verticale lijn laten lopen, maar ze ook in verschillende richtingen en in zachtere, gekromde vormen willen omzetten, maar ik weet momenteel nog niet hoe ik dit in CSS moet doen. <br> 
 <br> 
 #### [Deep Dive] S3: Interessantere layouts <br> 
-<img width="400" alt="Screenshot 2026-10-06 201743" src="https://github.com/user-attachments/assets/416d71d4-18e7-4aa1-95e4-cf248859cc3b" />
+<img width="400" alt="Screenshot 2026-10-06 201743" src="https://github.com/user-attachments/assets/416d71d4-18e7-4aa1-95e4-cf248859cc3b" /> <br>
+<br> 
+### `7 okt Werkgroep` <br> 
+Ik was ziek dus ik heb de opdracht thuis uitgewerkt.
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/292d315d-b27d-436f-aaa3-ab70e6e4e7e2" />
+<img width="400" alt="Screenshot 2026-10-08 225818" src="https://github.com/user-attachments/assets/0937a2cb-ed0b-41c4-8e1b-91934e7c45fa" />
 
+
+#### ✅Check-out <br>
+**Waarom is het goed om een grid in je ontwerp toe te passen? Noem een reden voor de ontwerper en een voor de bezoeker.** <br> 
+**Noem drie manieren om chaos in je ontwerp te voorkomen.** <br> 
+**Hoeveel gekkigheid moet er in je werk zitten?** <br> 
 
 [...]
