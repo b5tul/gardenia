@@ -644,5 +644,14 @@ Ik was ziek dus ik heb de opdracht thuis uitgewerkt.
 **Waarom is het goed om een grid in je ontwerp toe te passen? Noem een reden voor de ontwerper en een voor de bezoeker.** <br> 
 **Noem drie manieren om chaos in je ontwerp te voorkomen.** <br> 
 **Hoeveel gekkigheid moet er in je werk zitten?** <br> 
+<br> 
+### `10 okt Voortgang Gesprek` <br> 
+**Notities van de gesprek:** <br> 
+Webring toevoegen - Waar moet ik eigenlijk de gebruiker informeren? <br> 
+Gostermek istedigin veya zorunda oldugun seyler icin bi sayfa acabilirsin. <br>
+Accept en reject buttons / read more in de text zetten
+Hele blok klikken of buttons dus daar hoef geen hover state
+
+
 
 [...]
