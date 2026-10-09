@@ -647,10 +647,11 @@ Ik was ziek dus ik heb de opdracht thuis uitgewerkt.
 <br> 
 ### `10 okt Voortgang Gesprek` <br> 
 **Notities van de gesprek:** <br> 
-Webring toevoegen - Waar moet ik eigenlijk de gebruiker informeren? <br> 
-Gostermek istedigin veya zorunda oldugun seyler icin bi sayfa acabilirsin. <br>
-Accept en reject buttons / read more in de text zetten
-Hele blok klikken of buttons dus daar hoef geen hover state
+Webring toevoegen!!! <br> 
+Als ik de informatie van deep dives toevoegen, kan ik een andere pagina doen om dat laten te zien.  <br>
+Cookies --> Accept en reject buttons / read more in de text zetten
+Digital Garden --> Bij home pagina hele blok of de buttons klikken (Ik heb bij blocks en buttons allebei hover states maar dat maakt het ingewikkelder voor de gebruiker. Ik zal het even naar mijn klasgenoten vragen.) <br> 
+Liedje --> responsive maken, clamp en variables toevoegen 
 
 
 
