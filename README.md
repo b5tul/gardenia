@@ -580,6 +580,32 @@ Ik heb voldoende en goed gekregen van competenties dus het ging best wel goed. <
 <br> 
 
 ### `5 okt Werkgroep` <br> 
+#### Songtekst analyseren <br> 
+Let It Happen - Tame Impala <br> 
+<img height="400" alt="Screenshot 2026-10-06 172831" src="https://github.com/user-attachments/assets/a4849c83-6137-490d-8bf3-80df30cd5dce" /> <br>
+In de videoclip is er in het begin sprake van een ongecontroleerdheid en chaos die ontstaan. Ik weet niet goed hoe ik dit in de typografie kan laten zien, maar dit is wel het grootste punt dat mij is opgevallen.
+#### Bespreken onze schetsen met Amy <br> 
+Het overbrengen van dat gevoel uit de videoclip is een van mijn doelen. Hoewel ik momenteel nog niet veel schetsen heb, denk ik dat mijn eerste tekeningen me inspiratie zullen geven. Ik heb Vasilis ook gevraagd hoe ik dit kan coderen, namelijk of we dingen zoals classes of spans kunnen gebruiken, en het is mogelijk. Dit gaat onze boel een stuk makkelijker maken. 
+<br> 
+#### Mijn schetsen <br> 
+<img width="400" alt="Screenshot 2026-10-06 172757" src="https://github.com/user-attachments/assets/1228da97-f69e-44a4-86f2-6fb811d8c215" />
+<img width="400" alt="Screenshot 2026-10-06 172809" src="https://github.com/user-attachments/assets/c0ebecd0-ddd7-4b95-aca0-f45a9236d048" />
+<img width="400" alt="Screenshot 2026-10-06 172738" src="https://github.com/user-attachments/assets/80d8dc11-0c92-45b2-bcc7-b7dc63cfa061" />
+<img width="400" alt="Screenshot 2026-10-06 172639" src="https://github.com/user-attachments/assets/bfd9f166-4e72-4a8f-bb37-8128c135681a" /> <br> 
+Het maken van schetsen voor iets dat alleen uit tekst bestaat was best lastig, dus ik heb de delen die ik wilde benadrukken als tekst getekend en de rest als lijnen. <br> 
+<br> 
+#### HTML/CSS <br> 
+<img width="400" alt="Screenshot 2026-10-06 174136" src="https://github.com/user-attachments/assets/692e3a00-17d9-4fac-96e8-d65190458e7c" />
+<img width="400" alt="Screenshot 2026-10-06 174219" src="https://github.com/user-attachments/assets/c79ac22b-40c0-4510-9dbc-0b6e43bb9ff5" />
+<img width="400" alt="Screenshot 2026-10-06 174233" src="https://github.com/user-attachments/assets/00ea6a42-a7c2-4dd7-9c49-ba4e2cbe5e62" />
+<img width="400" alt="Screenshot 2026-10-06 174248" src="https://github.com/user-attachments/assets/04d6134f-fa5b-4254-9d92-c2c8e218d5f6" />
+<img width="400" alt="Screenshot 2026-10-06 174316" src="https://github.com/user-attachments/assets/d365ac58-cd96-43e2-af07-d6e1b224d97e" />
+<img width="400" alt="Screenshot 2026-10-06 174327" src="https://github.com/user-attachments/assets/e704467d-f3c2-4f5a-bf7c-762a2d260da4" /> <br> 
+<br> 
+**[Huiswerk] Eerste digitale vertaling van jouw schets** <br> 
+<img width="800" alt="let it happen lyrics" src="https://github.com/user-attachments/assets/fa3af784-0c32-4ae9-b03a-86e26af9cae3" /> <br> 
+
+
 #### ✅Check-out <br>
 **1. Leg uit wat er met de volgende termen bedoeld wordt: kerning, tracking, leading, flush-left, flush-right, centered, justified, indent, outdent, modular scale, movable type, focus punt, vijf soorten contrast, spatial tension. (Hint, alle termen staan in de artikelen die we samen gelezen hebben)** <br> 
 Kerning: De kleine ruimtes tussen individuele tekens <br> 
@@ -601,5 +627,22 @@ Mijn ideale regellengte ligt tussen de 60 en 90 tekens. De reden hiervoor is dat
 <br> 
 **3. Als je in een ontwerp maar één variabele tot je beschikking had om hiërarchie aan te brengen (grootte, plaatsing, spacing, lettersoorten), welke zou je dan gebruiken en waarom?** <br> 
 Ik zou voor 'grootte' kiezen, omdat de afmeting van de tekst het meeste mijn aandacht trekt. Ik lees teksten altijd in volgorde, beginnend bij de grootste en zo door naar de kleinste. Daarom zou ik hiervoor kiezen. <br> 
+<br> 
+#### [Huiswerk] Zaken die ik nog niet heb kunnen vertalen naar CSS <br> 
+Eerlijk gezegd zou ik de teksten liever niet alleen langs een verticale lijn laten lopen, maar ze ook in verschillende richtingen en in zachtere, gekromde vormen willen omzetten, maar ik weet momenteel nog niet hoe ik dit in CSS moet doen. <br> 
+<br> 
+#### [Deep Dive] S3: Interessantere layouts <br> 
+<img width="400" alt="Screenshot 2026-10-06 201743" src="https://github.com/user-attachments/assets/416d71d4-18e7-4aa1-95e4-cf248859cc3b" /> <br>
+<br> 
+### `7 okt Werkgroep` <br> 
+Ik was ziek dus ik heb de opdracht thuis uitgewerkt.
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/292d315d-b27d-436f-aaa3-ab70e6e4e7e2" />
+<img width="400" alt="Screenshot 2026-10-08 225818" src="https://github.com/user-attachments/assets/0937a2cb-ed0b-41c4-8e1b-91934e7c45fa" />
+
+
+#### ✅Check-out <br>
+**Waarom is het goed om een grid in je ontwerp toe te passen? Noem een reden voor de ontwerper en een voor de bezoeker.** <br> 
+**Noem drie manieren om chaos in je ontwerp te voorkomen.** <br> 
+**Hoeveel gekkigheid moet er in je werk zitten?** <br> 
 
 [...]
