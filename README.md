@@ -594,6 +594,7 @@ Het overbrengen van dat gevoel uit de videoclip is een van mijn doelen. Hoewel i
 <img width="400" alt="Screenshot 2026-10-06 172639" src="https://github.com/user-attachments/assets/bfd9f166-4e72-4a8f-bb37-8128c135681a" /> <br> 
 Het maken van schetsen voor iets dat alleen uit tekst bestaat was best lastig, dus ik heb de delen die ik wilde benadrukken als tekst getekend en de rest als lijnen. <br> 
 <br> 
+
 #### HTML/CSS <br> 
 <img width="400" alt="Screenshot 2026-10-06 174136" src="https://github.com/user-attachments/assets/692e3a00-17d9-4fac-96e8-d65190458e7c" />
 <img width="400" alt="Screenshot 2026-10-06 174219" src="https://github.com/user-attachments/assets/c79ac22b-40c0-4510-9dbc-0b6e43bb9ff5" />
@@ -645,13 +646,23 @@ Ik was ziek dus ik heb de opdracht thuis uitgewerkt.
 **Noem drie manieren om chaos in je ontwerp te voorkomen.** <br> 
 **Hoeveel gekkigheid moet er in je werk zitten?** <br> 
 <br> 
-### `10 okt Voortgang Gesprek` <br> 
+
+### `10 okt Voortgang Gesprek en Workshop` <br> 
 **Notities van de gesprek:** <br> 
 Webring toevoegen!!! <br> 
 Als ik de informatie van deep dives toevoegen, kan ik een andere pagina doen om dat laten te zien.  <br>
 Cookies --> Accept en reject buttons / read more in de text zetten
 Digital Garden --> Bij home pagina hele blok of de buttons klikken (Ik heb bij blocks en buttons allebei hover states maar dat maakt het ingewikkelder voor de gebruiker. Ik zal het even naar mijn klasgenoten vragen.) <br> 
-Liedje --> responsive maken, clamp en variables toevoegen 
+Liedje --> responsive maken, clamp en variables toevoegen <br> 
+<br> 
+#### Workshop: CSS Animations <br> 
+Oefening 1: <br> 
+<img width="400" alt="Screenshot 2026-10-12 155646" src="https://github.com/user-attachments/assets/01eaee7b-6251-44d8-85a8-f8a9a2422c5c" /> <br> 
+
+Onze eigen knopje met animation en geluid: <br> 
+<img width="400" alt="Screenshot 2026-10-12 155814" src="https://github.com/user-attachments/assets/9a153a90-a363-4523-aa9a-5b42a3960ae9" />
+<img width="400" alt="Screenshot 2026-10-12 155832" src="https://github.com/user-attachments/assets/4770b421-a5b1-4d91-97a9-724f7b2812e3" /> <br> 
+
 
 
 
