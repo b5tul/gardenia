@@ -662,6 +662,35 @@ Oefening 1: <br>
 Onze eigen knopje met animation en geluid: <br> 
 <img width="400" alt="Screenshot 2026-10-12 155814" src="https://github.com/user-attachments/assets/9a153a90-a363-4523-aa9a-5b42a3960ae9" />
 <img width="400" alt="Screenshot 2026-10-12 155832" src="https://github.com/user-attachments/assets/4770b421-a5b1-4d91-97a9-724f7b2812e3" /> <br> 
+<br> 
+<br> 
+### `12 okt` <br> 
+#### Deep Dive: Variabele fonts <br> 
+-- Oefening 1 <br> 
+<img width="400" alt="Screenshot 2026-10-12 172439" src="https://github.com/user-attachments/assets/f4adbbaf-d956-4c47-a6f9-8e997c55a6c0" />
+<img width="400" alt="Screenshot 2026-10-12 172448" src="https://github.com/user-attachments/assets/8cd03ece-ecbc-4f2a-b258-1e435f57a995" />
+<img width="400" alt="Screenshot 2026-10-12 172501" src="https://github.com/user-attachments/assets/418159a6-bf4d-4c30-9d7b-33655c8ccbac" /> <br> 
+<br> 
+
+-- Oefening 2 <br> 
+<img width="400" alt="Screenshot 2026-10-12 211215" src="https://github.com/user-attachments/assets/922fc6e9-bcdb-4790-8187-767fa021dc47" />
+<img width="400" alt="Screenshot 2026-10-12 211228" src="https://github.com/user-attachments/assets/d2233a0e-6a0e-41a3-917b-eff1f36027f5" />
+<img width="400" alt="Screenshot 2026-10-12 211240" src="https://github.com/user-attachments/assets/c7acf0fa-ea5b-4cba-9f98-af829a4d7e03" />
+<img width="400" alt="Screenshot 2026-10-12 211251" src="https://github.com/user-attachments/assets/5c12b45a-2a16-4b7d-9904-54cb6a58061d" />
+<img width="400" alt="Screenshot 2026-10-12 211303" src="https://github.com/user-attachments/assets/d4eb5f45-a39f-47a2-97e5-71b747637ae5" /> <br> 
+<br> 
+Codes
+<img height="200" alt="Screenshot 2026-10-12 211432" src="https://github.com/user-attachments/assets/eb76ef7f-3743-4504-a129-7c4a55f55ce9" />
+<img height="200" alt="Screenshot 2026-10-12 211343" src="https://github.com/user-attachments/assets/e415cac9-3c47-467e-a2d3-e9c827d1f210" />
+<img  height="200" alt="Screenshot 2026-10-12 211414" src="https://github.com/user-attachments/assets/4c01fc12-d100-4786-8b03-a26a5ccae7ab" />
+<img height="200" alt="Screenshot 2026-10-12 211424" src="https://github.com/user-attachments/assets/fb5d91a5-1436-4832-b25a-de3b79d05cf4" />
+
+
+
+
+
+
+
 
 
 
