@@ -683,7 +683,11 @@ Codes
 <img height="200" alt="Screenshot 2026-10-12 211432" src="https://github.com/user-attachments/assets/eb76ef7f-3743-4504-a129-7c4a55f55ce9" />
 <img height="200" alt="Screenshot 2026-10-12 211343" src="https://github.com/user-attachments/assets/e415cac9-3c47-467e-a2d3-e9c827d1f210" />
 <img  height="200" alt="Screenshot 2026-10-12 211414" src="https://github.com/user-attachments/assets/4c01fc12-d100-4786-8b03-a26a5ccae7ab" />
-<img height="200" alt="Screenshot 2026-10-12 211424" src="https://github.com/user-attachments/assets/fb5d91a5-1436-4832-b25a-de3b79d05cf4" />
+<img height="200" alt="Screenshot 2026-10-12 211424" src="https://github.com/user-attachments/assets/fb5d91a5-1436-4832-b25a-de3b79d05cf4" /> <br> 
+<br> 
+-- Oefening 3 <br> 
+<img width="400" alt="Screenshot 2026-10-12 224829" src="https://github.com/user-attachments/assets/0b64f926-b968-44f7-9d9e-5164f32d092a" />
+
 
 
 
