@@ -679,14 +679,19 @@ Onze eigen knopje met animation en geluid: <br>
 <img width="400" alt="Screenshot 2026-10-12 211251" src="https://github.com/user-attachments/assets/5c12b45a-2a16-4b7d-9904-54cb6a58061d" />
 <img width="400" alt="Screenshot 2026-10-12 211303" src="https://github.com/user-attachments/assets/d4eb5f45-a39f-47a2-97e5-71b747637ae5" /> <br> 
 <br> 
-Codes
+Codes <br> 
 <img height="200" alt="Screenshot 2026-10-12 211432" src="https://github.com/user-attachments/assets/eb76ef7f-3743-4504-a129-7c4a55f55ce9" />
 <img height="200" alt="Screenshot 2026-10-12 211343" src="https://github.com/user-attachments/assets/e415cac9-3c47-467e-a2d3-e9c827d1f210" />
 <img  height="200" alt="Screenshot 2026-10-12 211414" src="https://github.com/user-attachments/assets/4c01fc12-d100-4786-8b03-a26a5ccae7ab" />
 <img height="200" alt="Screenshot 2026-10-12 211424" src="https://github.com/user-attachments/assets/fb5d91a5-1436-4832-b25a-de3b79d05cf4" /> <br> 
 <br> 
 -- Oefening 3 <br> 
-<img width="400" alt="Screenshot 2026-10-12 224829" src="https://github.com/user-attachments/assets/0b64f926-b968-44f7-9d9e-5164f32d092a" />
+<img width="400" alt="Screenshot 2026-10-12 224829" src="https://github.com/user-attachments/assets/0b64f926-b968-44f7-9d9e-5164f32d092a" /> <br> 
+
+### `Lyrics Responsive en Opnieuw Maken` <br>
+Dit is de nieuwe versie die ik opnieuw heb gemaakt. Het is nu responsive en ik heb een paar adjustments toegevoegd van de dingen die we in de sprint 3 hebben geleerd (zoals font-size:clamp(), max-inline-size).
+<img width="959" height="471" alt="Screenshot 2026-10-15 204954" src="https://github.com/user-attachments/assets/4e976651-5356-4996-ae89-17cf0971ca4e" />
+
 
 
 
