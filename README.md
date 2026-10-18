@@ -655,6 +655,16 @@ Cookies --> Accept en reject buttons / read more in de text zetten
 Digital Garden --> Bij home pagina hele blok of de buttons klikken (Ik heb bij blocks en buttons allebei hover states maar dat maakt het ingewikkelder voor de gebruiker. Ik zal het even naar mijn klasgenoten vragen.) <br> 
 Liedje --> responsive maken, clamp en variables toevoegen <br> 
 <br> 
+#### ✅Check-out <br> 
+- **Welke variabelen van Seraphs gebruik je in de opmaak van je songtekst?** <br>
+Ik heb gebruik gemaakt van 2 variabele axes: wght (voor dikte) en srfs(de details van de serifs).
+- **Wat voegt iedere variabele toe aan je ontwerp (denk aan leesbaarheid, hiërarchie of de uitstraling die je wil bereiken)?** <br>
+1. wght: Voor de algemene songtekst gebruik ik een lage weight, wat zorgt voor een rustig beeld en goede leesbaarheid. Voor specifieke woorden met nadruk (voice, noise, shadow en shallow) en tijdens hover state verhoog ik de weight. Hierdoor springen deze woorden er visueel uit. Hierdoor kunnen we op een betekenisvollere manier stilstaan ​​bij de tekstregel in het nummer, wat het op zijn beurt makkelijker maakt om aan het nummer betekenis toe te kennen.
+2. srfs: Door met SRFS te spelen, is het mogelijk om de vibe van de woorden te veranderen. In de music video van Let It Happen zien we dit heel vaak terug. Het hoofdpersonage ontspant zich plotseling vanuit de chaos en maakt een overgang naar een ander universum. Door zo'n sfeer te creëren met SRFS, leggen we eigenlijk een verbinding met de videoclip. Dit is te ervaren door het ook in de hover states te variëren.
+- **Hoe zou je animatie kunnen toepassen om het ritme of de accenten in de weergave van je songtekst nog beter visueel te maken?** <br>
+Eigenlijk had ik me voorgesteld dat de woorden die ik wilde benadrukken één voor één in hoofdletters zouden veranderen met een hele zachte overgang, maar het was echt heel moeilijk om te maken en hoewel ik het geprobeerd heb, is het niet gelukt. Daarnaast had ik voor ogen dat sommige woorden zouden stretchen, gebaseerd op het gevoel dat 'Let It Happen' bij mij oproept. Voor het refrein stelde ik me vooral een animatie voor waarbij de woorden één voor één tevoorschijn komen, natuurlijk ook met een zachte overgang.
+<br> 
+
 #### Workshop: CSS Animations <br> 
 Oefening 1: <br> 
 <img width="400" alt="Screenshot 2026-10-12 155646" src="https://github.com/user-attachments/assets/01eaee7b-6251-44d8-85a8-f8a9a2422c5c" /> <br> 
