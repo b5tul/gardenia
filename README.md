@@ -1,7 +1,7 @@
 # Gardenia (Betül)
 Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door studenten worden gemaakt.
 
-## Learning Log
+##  Welcome to My Learning Log
 
 ### `31 augustus`
 
@@ -689,8 +689,27 @@ Codes <br>
 <img width="400" alt="Screenshot 2026-10-12 224829" src="https://github.com/user-attachments/assets/0b64f926-b968-44f7-9d9e-5164f32d092a" /> <br> 
 
 ### `Lyrics Responsive en Opnieuw Maken` <br>
-Dit is de nieuwe versie die ik opnieuw heb gemaakt. Het is nu responsive en ik heb een paar adjustments toegevoegd van de dingen die we in de sprint 3 hebben geleerd (zoals font-size:clamp(), max-inline-size).
-<img width="959" height="471" alt="Screenshot 2026-10-15 204954" src="https://github.com/user-attachments/assets/4e976651-5356-4996-ae89-17cf0971ca4e" />
+Dit is de nieuwe versie die ik opnieuw heb gemaakt. Het is nu responsive en ik heb een paar adjustments toegevoegd van de dingen die we in de sprint 3 hebben geleerd (zoals font-size:clamp(), max-inline-size). Hier 5 schetsen om een responsievere oplossing te komen: <br> 
+<img width="400" alt="Screenshot 2026-10-16 153633" src="https://github.com/user-attachments/assets/664544f3-fe8d-4f4e-b7f8-5555b72da85d" />
+<img width="400" alt="Screenshot 2026-10-16 153704" src="https://github.com/user-attachments/assets/5d308bf6-aafe-4eee-ad53-b3d9a5fa1b5d" />
+<img width="400" alt="Screenshot 2026-10-16 153715" src="https://github.com/user-attachments/assets/23b44661-2886-49ef-9ed0-074339d77dd0" />
+<img width="400" alt="Screenshot 2026-10-16 153738" src="https://github.com/user-attachments/assets/3f4471c6-205d-4627-a785-bdd9b74c7c07" />
+<img width="400" alt="Screenshot 2026-10-16 153750" src="https://github.com/user-attachments/assets/03a14f5e-9aa1-43d4-8a7f-6e82cfa052b8" /> <br> 
+De laatste schets past beter als een responsive layout. Ik ga ook hover states toevoegen om sommige woorden te emphasizen. Daardoor ga ik font-variation-settings gebruiken.
+<br> 
+**Het eind resultaat**
+<img width="400" alt="Screenshot 2026-10-15 204954" src="https://github.com/user-attachments/assets/4e976651-5356-4996-ae89-17cf0971ca4e" /> <br> 
+<br> 
+HTML: <br> 
+<img width="400" alt="Screenshot 2026-10-15 212116" src="https://github.com/user-attachments/assets/320181c8-5562-41dc-aebc-742b6e4ef605" /> <br> 
+<br> 
+CSS: <br> 
+<img width="400" alt="Screenshot 2026-10-15 214314" src="https://github.com/user-attachments/assets/8563c4a0-2ff2-414c-bbf4-da27521c8d1e" />
+<img width="400" alt="Screenshot 2026-10-15 214336" src="https://github.com/user-attachments/assets/95b02d9c-cfb6-4b8d-ab4f-9c9fc33431f4" />
+<img width="400" alt="Screenshot 2026-10-15 214412" src="https://github.com/user-attachments/assets/34048083-af45-48b0-8586-cf93d79eb104" />
+<img width="400" alt="Screenshot 2026-10-15 214438" src="https://github.com/user-attachments/assets/d2e3892d-e3a3-489c-97e3-ba66594be33f" /> <br> 
+Zoals je hier kunt zien, heb ik met kolommen een cleaner layout gemaakt voor brede schermen. Ik heb met @media ervoor gezorgd dat alles op mobiel in één kolom wordt getoond.
+
 
 
 
