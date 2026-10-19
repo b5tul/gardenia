@@ -707,7 +707,7 @@ Dit is de nieuwe versie die ik opnieuw heb gemaakt. Het is nu responsive en ik h
 <img width="400" alt="Screenshot 2026-10-16 153750" src="https://github.com/user-attachments/assets/03a14f5e-9aa1-43d4-8a7f-6e82cfa052b8" /> <br> 
 De laatste schets past beter als een responsive layout. Ik ga ook hover states toevoegen om sommige woorden te emphasizen. Daardoor ga ik font-variation-settings gebruiken.
 <br> 
-**Het eind resultaat**
+**Het eind resultaat** <br> 
 <img width="400" alt="Screenshot 2026-10-15 204954" src="https://github.com/user-attachments/assets/4e976651-5356-4996-ae89-17cf0971ca4e" /> <br> 
 <br> 
 HTML: <br> 
