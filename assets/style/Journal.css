@@ -299,7 +299,7 @@ ol button p {
     transition: 0.2s ease-in-out;
   }
   &:focus-visible {
-    outline: 0.2em dashed var(--text-background);
+    outline: 0.2em dashed black;
     outline-offset: 0.2em;
   }
   &:active {
