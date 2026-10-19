@@ -63,10 +63,9 @@ body {
   font-family: "BeVietnam", Helvetica, sans-serif;
   font-style: normal;
   color: var(--text-color);
-  background-image: repeating-linear-gradient(
-    90deg,
-    var(--background-1) 0 1em,
-    var(--background-2) 0 2em
+  background-image: linear-gradient(
+    var(--background-2) 0 60%,
+    var(--background-1)
   );
   margin: 0;
   position: relative;
@@ -92,7 +91,7 @@ header {
     align-items: center;
     gap: 1em;
   }
-  box-shadow: inset 0em 3em 5em #6a176a50;
+  box-shadow: inset 0em 3em 5em #fff9ff50;
 }
 
 header a {
