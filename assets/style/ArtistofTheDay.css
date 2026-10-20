@@ -44,12 +44,13 @@ html {
   --summary-open: #2d3153;
   --summary-open-text: #ffdaff;
   --backdrop: #ffffff50;
+  --aotd-text: #2d3153;
 
   --background-1: light-dark(#c2c6de, #bea5bd);
-  --background-2: light-dark(#f6f7f9, #8e778d);
+  --background-2: light-dark(#f6f7f9, #f6f7f9);
   --text-color: light-dark(#2d3153, #868686);
   --text-background: light-dark(#ffdaff, #35374f);
-  --article-text: light-dark(#2d3153, #ffffff);
+  --article-text: light-dark(#2d3153, #8e778d);
   --hover-background: light-dark(#2d3153, #131522);
   --hover-text: light-dark(#ffafff, #ffffff);
   --hover-nav: light-dark(#ffdaff, #fbfbfb);
@@ -57,20 +58,7 @@ html {
   --summary-open: light-dark(#2d3153, #fbfbfb);
   --summary-open-text: light-dark(#ffdaff, #2d3153);
   --backdrop: light-dark(#ffffff50, #11111150);
-}
-
-body {
-  font-family: "BeVietnam", Helvetica, sans-serif;
-  font-style: normal;
-  color: var(--text-color);
-  background-image: linear-gradient(
-    var(--background-2) 0 60%,
-    var(--background-1)
-  );
-  margin: 0;
-  position: relative;
-  background-repeat: repeat;
-  opacity: 1em;
+  --aotd-text: light-dark(#2d3153, #262535);
 }
 
 header {
@@ -150,7 +138,75 @@ nav {
   }
 }
 
+body {
+  font-family: "BeVietnam", Helvetica, sans-serif;
+  font-style: normal;
+  color: var(--aotd-text);
+  background-image: linear-gradient(
+    var(--background-2) 0 30%,
+    var(--background-1)
+  );
+  background-attachment: fixed;
+  background-size: 100%;
+  margin: 0;
+  position: relative;
+  opacity: 1em;
+}
+
 main {
-  max-width: 70%;
+  position: relative;
+  max-width: 100%;
   margin-inline: auto;
+  gap: 2em;
+  margin: 0em 2em 0em 2em;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  @media (max-width: 600px) {
+    grid-template-columns: 1fr;
+  }
+}
+h2 {
+  font-size: clamp(1.4rem, 2.5vw, 1.85rem);
+}
+
+h3 {
+  font-size: clamp(1.2rem, 2vw, 1.45rem);
+}
+
+h4 {
+  font-size: clamp(1.05rem, 1.5vw, 1.25rem);
+}
+
+p,
+article,
+li {
+  font-size: clamp(0.95rem, 1.2vw, 1.05rem);
+  line-height: 1.6;
+}
+.myfavs {
+  position: sticky;
+  top: 4em;
+  margin-top: 1em;
+
+  display: flex;
+  flex-direction: column;
+  column-count: 2;
+  column-gap: 1em;
+  gap: 1.5em;
+
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+}
+
+.myfavs article {
+  background-color: var(--article-text);
+  color: var(--arrow-background);
+  padding: 1em;
+  border-radius: 10px;
+}
+.myfavs img {
+  display: block;
+  margin: 0 auto 1rem auto;
+  max-width: 20em;
+  border-radius: 0.5em;
 }

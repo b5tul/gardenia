@@ -146,11 +146,6 @@ article {
   padding: 1em 1em 1em 1em;
   border-radius: 10px;
   transition: 0.5s ease-in-out;
-
-  /* &:hover {
-    background-color: var(--hover-background);
-    color: var(--hover-text);
-  } */
 }
 
 /****************/
@@ -427,7 +422,6 @@ main dialog[open] {
   position: absolute;
   bottom: 0.5em;
   right: 0.5em;
-  /* border: 1px solid var(--text-background); */
 
   display: flex;
   align-items: center;
