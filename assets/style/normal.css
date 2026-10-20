@@ -444,6 +444,7 @@ div[aria-label="running"] {
     var(--text-background)
   );
   cursor: pointer;
+  text-align: center;
   background-color: var(--background-1);
   box-shadow:
     0em 0em 1em #6a176a70,
