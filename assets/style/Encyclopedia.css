@@ -211,6 +211,15 @@ summary h3 {
   display: inline;
   margin: 0;
 }
+.paragraphs {
+  @media (width>25em) {
+    column-count: 2;
+    column-gap: 2;
+  }
+  & p {
+    margin-top: 0;
+  }
+}
 main a {
   cursor: default;
 }

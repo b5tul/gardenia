@@ -282,7 +282,7 @@ main dialog {
   bottom: 1em;
   left: auto;
   z-index: 2;
-  max-width: 20em;
+  max-width: 30em;
   background-color: var(--article-text);
   color: var(--text-background);
 
@@ -328,17 +328,28 @@ dialog form .close {
     transition: 0.2s ease-in-out;
   }
 }
+.actions {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  margin-top: 1.5em;
+}
+dialog form a {
+  color: inherit;
+  font-weight: 700;
+}
 
-.readmore {
-  background-color: var(--text-background);
+.gotit,
+.leave {
   color: var(--article-text);
   border: none;
   cursor: pointer;
   padding: 1em;
   border-radius: 2em;
-  display: inline-block;
-  margin-top: 0.5em;
   text-decoration: none;
+  font-weight: 700;
+  font-size: 1em;
   &:hover {
     opacity: 0.5;
     transition: 0.2s ease-in-out;
@@ -353,6 +364,12 @@ dialog form .close {
     transform: scale(0.9);
     transition: 0.2s ease-in-out;
   }
+}
+.gotit {
+  background-color: var(--text-background);
+}
+.leave {
+  background-color: lightgray;
 }
 
 main dialog {
@@ -422,7 +439,9 @@ footer {
 }
 
 div a {
-  text-decoration: none;
+  text-decoration-style: dotted;
+  font-weight: 700;
+
   color: var(--article-text);
 }
 
