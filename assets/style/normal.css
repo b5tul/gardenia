@@ -282,17 +282,38 @@ main dialog {
   bottom: 1em;
   left: auto;
   z-index: 2;
-  max-width: 30em;
+  width: min(30em, calc(100vw - 2em));
   background-color: var(--article-text);
   color: var(--text-background);
 
   border: 1px solid black;
   box-shadow: 0px 0px 10px black;
-  border-radius: 2em;
-  /* padding: 1em; */
+  border-radius: 1.5em;
+  padding: 1.25em;
+
+  @media (max-width: 600px) {
+    left: 1em;
+    right: 1em;
+    bottom: 1em;
+    width: auto;
+    font-size: 0.85rem;
+    padding: 1em;
+    border-radius: 1.2em;
+  }
+
   & form {
     position: relative;
-    padding-right: 2em;
+
+    h2 {
+      font-size: 1.2rem;
+      margin-top: 0;
+      margin-bottom: 0.5em;
+    }
+
+    p {
+      margin-bottom: 0.8em;
+      line-height: 1.4;
+    }
   }
 }
 
@@ -328,21 +349,23 @@ dialog form .close {
     transition: 0.2s ease-in-out;
   }
 }
-.actions {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  width: 100%;
-  margin-top: 1.5em;
-}
+
 dialog form a {
   color: inherit;
   font-weight: 700;
 }
 
+.actions {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 1.5em;
+  gap: 2em;
+}
+
 .gotit,
 .leave {
-  color: var(--article-text);
+  flex: 1;
   border: none;
   cursor: pointer;
   padding: 1em;
@@ -367,9 +390,12 @@ dialog form a {
 }
 .gotit {
   background-color: var(--text-background);
+  color: var(--article-text);
 }
 .leave {
-  background-color: lightgray;
+  color: var(--text-background);
+  background-color: transparent;
+  border: 0.1em solid var(--text-background);
 }
 
 main dialog {
