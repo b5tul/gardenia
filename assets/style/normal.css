@@ -147,10 +147,10 @@ article {
   border-radius: 10px;
   transition: 0.5s ease-in-out;
 
-  &:hover {
+  /* &:hover {
     background-color: var(--hover-background);
     color: var(--hover-text);
-  }
+  } */
 }
 
 /****************/
@@ -419,4 +419,45 @@ footer {
   font-weight: 400;
   margin: 1em;
   color: black;
+}
+
+div a {
+  text-decoration: none;
+  color: var(--article-text);
+}
+
+@keyframes --running-animation {
+  0% {
+    background-position: 0% 0%;
+  }
+
+  100% {
+    background-position: 200% 0%;
+  }
+}
+
+div[aria-label="running"] {
+  background-image: linear-gradient(
+    90deg,
+    var(--text-background),
+    #a3b8e0,
+    var(--text-background)
+  );
+  cursor: pointer;
+  background-color: var(--background-1);
+  box-shadow:
+    0em 0em 1em #6a176a70,
+    inset 0.2em -1em 1em #ffffff90;
+
+  padding: 1em 1em 1em 1em;
+  border-radius: 10px;
+
+  animation-name: --running-animation;
+  animation-duration: 4s;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+  background-size: 200% 100%;
+  &:hover {
+    box-shadow: inset 0em 0em 3em #6a176a50;
+  }
 }

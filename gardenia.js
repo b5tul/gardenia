@@ -13,3 +13,11 @@ function diaryclose(dialogId) {
   const dialog = document.getElementById(dialogId);
   dialog.close(); // Bu komut dialog'u kapatır
 }
+
+const webring = document.querySelector(".webring");
+
+webring.addEventListener("click", toggleRunning);
+
+function toggleRunning() {
+  webring.classList.toggle("running");
+}

@@ -307,6 +307,12 @@ ol button p {
     transition: 0.2s ease-in-out;
   }
 }
+
 a {
   text-decoration: none;
+  color: var(--article-text);
+}
+
+a:visited {
+  color: inherit;
 }
