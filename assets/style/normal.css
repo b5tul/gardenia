@@ -67,7 +67,6 @@ body {
   margin: 0;
   position: relative;
   background-repeat: repeat;
-  opacity: 1em;
 }
 
 body > a:nth-of-type(1) {
