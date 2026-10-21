@@ -319,7 +319,7 @@ dialog form .close {
   aspect-ratio: 1;
 
   background: var(--text-background);
-  border: 2px solid var(--text-background);
+
   border-radius: 2em;
   color: var(--article-text);
   font-size: 1.1rem;
