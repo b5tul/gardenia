@@ -94,7 +94,6 @@ body > a:nth-of-type(1):focus {
 main {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
-  grid-template-columns: repeat(auto-fit, minmax(1fr, 1fr, 1fr));
   gap: 1em;
   padding: 2em;
   border-radius: 3em;
@@ -396,12 +395,6 @@ dialog form a {
 main dialog {
   scale: 0;
   transform-origin: calc(100% - 3em) calc(100% - 3em);
-
-  @media (prefers-reduced-motion: no-preference) {
-    transition:
-      scale 0.2s allow-discrete,
-      display 0.2s allow-discrete;
-  }
 }
 
 main dialog[open] {
