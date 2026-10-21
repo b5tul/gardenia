@@ -1,19 +1,21 @@
 /* MARK: fonts */
 @font-face {
-  font-family: 'Seraphs';
-  src: url('font/SeraphsVF.woff2') format('woff2'), /* Modern Browsers */
+  font-family: "Seraphs";
+  src: url("font/SeraphsVF.woff2") format("woff2"); /* Modern Browsers */
 }
 /* MARK: items */
-body{
-  font-family: 'Seraphs';
+body {
+  font-family: "Seraphs";
   /* font-size: 1em; */
 }
-main{
-  font-variation-settings: "wght" 105, "SRFS" 58;
+main {
+  font-variation-settings:
+    "wght" 105,
+    "SRFS" 58;
   padding: 1em;
 }
 
-header{
+header {
   line-height: -1em;
   width: 100%;
   text-align: center;
@@ -23,43 +25,52 @@ header{
   text-decoration: none;
   letter-spacing: -2px;
 }
-div{
+div {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   gap: 2em;
   margin: 2em;
-} 
+}
 
 @media (width<30em) {
   div {
     grid-template-columns: 1fr;
-  }}
-
-.voice{
-  font-size: clamp(2rem, 2.5vw, 6rem);
-  font-variation-settings: "wght" 105, "SRFS" 0;
-
-  @media (prefers-reduced-motion:no-preference) {
-  transition-duration : 1s;
-  transition-timing-function: ease;
-  
-  &:hover{
-  font-variation-settings: "wght" 180, "SRFS" 22;
-  
-  } }
+  }
 }
-.noise{
-  font-size: clamp(2rem, 2.5vw, 6rem);
-  font-variation-settings: "wght" 105, "SRFS" 0;
 
-  @media (prefers-reduced-motion:no-preference) {
-  transition-duration : 1s;
-  transition-timing-function: ease;
-  
-  &:hover{
-  font-variation-settings: "wght" 180, "SRFS" 22;
-  
-  } }
+.voice {
+  font-size: clamp(2rem, 2.5vw, 6rem);
+  font-variation-settings:
+    "wght" 105,
+    "SRFS" 0;
+
+  @media (prefers-reduced-motion: no-preference) {
+    transition-duration: 1s;
+    transition-timing-function: ease;
+
+    &:hover {
+      font-variation-settings:
+        "wght" 180,
+        "SRFS" 22;
+    }
+  }
+}
+.noise {
+  font-size: clamp(2rem, 2.5vw, 6rem);
+  font-variation-settings:
+    "wght" 105,
+    "SRFS" 0;
+
+  @media (prefers-reduced-motion: no-preference) {
+    transition-duration: 1s;
+    transition-timing-function: ease;
+
+    &:hover {
+      font-variation-settings:
+        "wght" 180,
+        "SRFS" 22;
+    }
+  }
 }
 
 p:nth-of-type(2) {
@@ -67,58 +78,66 @@ p:nth-of-type(2) {
   text-align: center;
 }
 .letithappen1 {
-  display:inline-block;
+  display: inline-block;
   justify-content: center;
   letter-spacing: 1em;
-  @media (prefers-reduced-motion:no-preference) {
-    transition-duration : 1s;
+  @media (prefers-reduced-motion: no-preference) {
+    transition-duration: 1s;
     transition-timing-function: ease;
-    
-    &:hover{
-     font-variation-settings: "wght" 180, "SRFS" 0;
-   
-     letter-spacing: 1.5em;
-     
+
+    &:hover {
+      font-variation-settings:
+        "wght" 180,
+        "SRFS" 0;
+
+      letter-spacing: 1.5em;
     }
   }
 }
-.itgonna{
+.itgonna {
   display: inline-block;
   justify-content: center;
   max-inline-size: 15em;
   letter-spacing: -0.1em;
 }
 
-p:nth-of-type(3){
+p:nth-of-type(3) {
   display: inline-block;
   text-align: end;
   /* max-inline-size: 10em; */
 }
-.shadow{
-   font-size: clamp(2rem, 2.5vw, 6rem);
-  font-variation-settings: "wght" 105, "SRFS" 0;
-  
+.shadow {
+  font-size: clamp(2rem, 2.5vw, 6rem);
+  font-variation-settings:
+    "wght" 105,
+    "SRFS" 0;
 
-  @media (prefers-reduced-motion:no-preference) {
-  transition-duration : 1s;
-  transition-timing-function: ease;
-  
-  &:hover{
-  font-variation-settings: "wght" 180, "SRFS" 22;
-  filter: blur(1px);
-  } }
+  @media (prefers-reduced-motion: no-preference) {
+    transition-duration: 1s;
+    transition-timing-function: ease;
+
+    &:hover {
+      font-variation-settings:
+        "wght" 180,
+        "SRFS" 22;
+      filter: blur(1px);
+    }
+  }
 }
-.shallow{
-   font-size: clamp(2rem, 2.5vw, 6rem);
-  font-variation-settings: "wght" 105, "SRFS" 0;
-  
+.shallow {
+  font-size: clamp(2rem, 2.5vw, 6rem);
+  font-variation-settings:
+    "wght" 105,
+    "SRFS" 0;
 
-  @media (prefers-reduced-motion:no-preference) {
-  transition-duration : 1s;
-  transition-timing-function: ease;
-  
-  &:hover{
-  font-variation-settings: "wght" 180, "SRFS" 22;
-  
-  } }
+  @media (prefers-reduced-motion: no-preference) {
+    transition-duration: 1s;
+    transition-timing-function: ease;
+
+    &:hover {
+      font-variation-settings:
+        "wght" 180,
+        "SRFS" 22;
+    }
+  }
 }
