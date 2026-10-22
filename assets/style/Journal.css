@@ -223,6 +223,23 @@ ol button p {
     0em 0em 3em #00000050,
     inset 0em 0em 5em #6a176a50;
 
+  /*scrollbar settings*/
+  scrollbar-width: thin;
+  scrollbar-color: var(--article-text) transparent;
+
+  &::-webkit-scrollbar-track {
+    background: transparent;
+  }
+
+  &::-webkit-scrollbar-thumb {
+    background-color: transparent;
+    border-radius: 20px;
+
+    &:hover {
+      opacity: 70%;
+    }
+  }
+
   scale: 0;
   transform-origin: center center;
   @media (prefers-reduced-motion: no-preference) {
@@ -232,6 +249,7 @@ ol button p {
       overlay 0.2s allow-discrete;
   }
 }
+
 .diary-dialog h3 {
   font-size: 2em;
 }
