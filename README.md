@@ -635,10 +635,11 @@ Eerlijk gezegd zou ik de teksten liever niet alleen langs een verticale lijn lat
 #### [Deep Dive] S3: Interessantere layouts <br> 
 <img width="400" alt="Screenshot 2026-10-06 201743" src="https://github.com/user-attachments/assets/416d71d4-18e7-4aa1-95e4-cf248859cc3b" /> <br>
 <br> 
+
 ### `7 okt Werkgroep` <br> 
-Ik was ziek dus ik heb de opdracht thuis uitgewerkt.
+Ik was ziek dus ik heb de opdracht thuis uitgewerkt. <br> 
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/292d315d-b27d-436f-aaa3-ab70e6e4e7e2" />
-<img width="400" alt="Screenshot 2026-10-08 225818" src="https://github.com/user-attachments/assets/0937a2cb-ed0b-41c4-8e1b-91934e7c45fa" />
+<img width="400" alt="Screenshot 2026-10-08 225818" src="https://github.com/user-attachments/assets/0937a2cb-ed0b-41c4-8e1b-91934e7c45fa"/> <br> 
 
 
 #### ✅Check-out <br>
@@ -740,20 +741,20 @@ Hieronder heb ik de webring op een geanimeerde manier toegevoegd. Het trekt de a
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/ec1dfa29-70d2-41b4-b2be-8c656811d818" /> <br>
 Hier heb ik column-count gebruikt om de paragraaf in 2 columns te verdelen. Maar door het tegelijkertijd responsive te maken, heb ik ervoor gezorgd dat het één paragraaf wordt wanneer het scherm kleiner wordt. <br>
 
--  **Titels leesbaarder maken** <br>
-<img width="400" alt="image" src="https://github.com/user-attachments/assets/b4435e1f-86f4-4638-a58c-5bac3cb29561" />
-<img width="400" alt="Screenshot 2026-10-22 224419" src="https://github.com/user-attachments/assets/917f9b90-a435-413c-a354-1917a37eda38" /> <br> 
-Hier heb ik text-shadow gebruikt om het leesbaarder te maken; op deze manier trekt de titel meer aandacht en is deze beter leesbaar geworden.
+-  **Titels leesbaarder maken** <br>  <img width="400" alt="image" src="https://github.com/user-attachments/assets/b4435e1f-86f4-4638-a58c-5bac3cb29561" /><img width="400" alt="Screenshot 2026-10-22 224419" src="https://github.com/user-attachments/assets/917f9b90-a435-413c-a354-1917a37eda38" /> <br> 
+Hier heb ik text-shadow gebruikt om het leesbaarder te maken; op deze manier trekt de titel meer aandacht en is deze beter leesbaar geworden. <br> 
 
--  **Cookie updaten**  <br> 
-<img width="400" alt="image" src="https://github.com/user-attachments/assets/d70d9cd4-b969-45d2-8267-b3d73e8ec0df" /> <br>
+-  **Cookie updaten**  <br>
+  <img width="400" alt="image" src="https://github.com/user-attachments/assets/d70d9cd4-b969-45d2-8267-b3d73e8ec0df" /> <br>
 Hier heb ik de tekst opnieuw bijgewerkt. Ik heb ook een waarschuwing gegeven over de webring. Omdat er hier geen instelling is die ik kan veranderen, heb ik een knop toegevoegd waarmee de gebruiker bevestigt dat hij dit heeft gelezen. Daarna wilde ik een knop toevoegen waarmee ze direct de website konden verlaten als ze niet akkoord gingen, maar hiervoor had ik de benodigde kennis niet. Daarom heb ik dit gedeelte door een AI laten coderen. <br>
 <img width="300" alt="image" src="https://github.com/user-attachments/assets/ed1af7a8-1710-4403-bc5a-56b509ba774b" /> <br>
 Hoewel ik het niet zelf heb gecodeerd, liet het terugzien van de termen "if" en "else" me eigenlijk zien dat deze code helemaal niet zo moeilijk of ingewikkeld is. Ik ben blij dat ik dit heb geleerd. <br>
-<br> 
+<br>
+
 ### `21 okt Bi-weekly geek en het Peerfeedback formulier`  <br> 
-#### Bi-weekly Geek 
+#### Bi-weekly Geek <br> 
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/987bad29-7929-4714-92c5-53a80e8df6f4" /> <br> 
+
 #### Peerfeedback formulier <br>
 <img width="300" alt="image" src="https://github.com/user-attachments/assets/0bc4df61-5198-44e5-a076-831e906d5790" />
 <img width="300" alt="image" src="https://github.com/user-attachments/assets/0f6ad355-7ade-4365-8b40-1cae402c841a" /> <br>
