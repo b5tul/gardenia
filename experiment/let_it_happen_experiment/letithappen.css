@@ -141,3 +141,47 @@ p:nth-of-type(3) {
     }
   }
 }
+
+.ticker-container {
+  display: flex;
+  flex-direction: column;
+  gap: clamp(0.5rem, 1.5vh, 1.2rem);
+  width: 100%;
+  overflow: hidden;
+  font-variation-settings:
+    "wght" 50,
+    "SRFS" 0;
+}
+
+.ticker-line {
+  white-space: nowrap;
+  width: max-content;
+  font-size: clamp(1rem, 2.5vw, 1.8rem);
+  @media (prefers-reduced-motion: no-preference) {
+    animation: news;
+    animation-duration: 8s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+    animation-delay: calc(var(--i) * 1s);
+  }
+}
+
+@keyframes news {
+  0% {
+    transform: translateX(100vw);
+    font-variation-settings:
+      "wght" 50,
+      "SRFS" 0;
+  }
+  30% {
+    font-variation-settings:
+      "wght" 180,
+      "SRFS" 60;
+  }
+  100% {
+    transform: translateX(-100vw);
+    font-variation-settings:
+      "wght" 50,
+      "SRFS" 0;
+  }
+}

@@ -26,6 +26,12 @@
 @font-face {
   font-family: "BeVietnam";
   src: url(../type/BeVietnamPro-MediumItalic.ttf);
+  font-weight: 600;
+  font-style: italic;
+}
+@font-face {
+  font-family: "BeVietnam";
+  src: url(../type/BeVietnamPro-LightItalic.ttf);
   font-weight: 400;
   font-style: italic;
 }
