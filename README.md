@@ -718,7 +718,37 @@ CSS: <br>
 <img width="400" alt="Screenshot 2026-10-15 214336" src="https://github.com/user-attachments/assets/95b02d9c-cfb6-4b8d-ab4f-9c9fc33431f4" />
 <img width="400" alt="Screenshot 2026-10-15 214412" src="https://github.com/user-attachments/assets/34048083-af45-48b0-8586-cf93d79eb104" />
 <img width="400" alt="Screenshot 2026-10-15 214438" src="https://github.com/user-attachments/assets/d2e3892d-e3a3-489c-97e3-ba66594be33f" /> <br> 
-Zoals je hier kunt zien, heb ik met kolommen een cleaner layout gemaakt voor brede schermen. Ik heb met @media ervoor gezorgd dat alles op mobiel in één kolom wordt getoond.
+Zoals je hier kunt zien, heb ik met kolommen een cleaner layout gemaakt voor brede schermen. Ik heb met @media ervoor gezorgd dat alles op mobiel in één kolom wordt getoond.<br> 
+<br> 
+### `19 okt Hoe webby is mijn website? ` <br>
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/b06fe42b-a94b-4625-a3e4-d37692e109b2" /> <br>
+Nadat we dit hadden ingevuld, hebben Alara en ik elkaar feedback gegeven over elkaars websites en besproken hoe webby ze waren. <br>
+Over mijn website hebben we het volgende besproken: <br>
+- Toen ik zei dat ik niet wist hoe ik de webring aan de site kon toevoegen, bespraken we dat we deze als een link konden plaatsen.
+- Omdat sommige van mijn paragrafen lang zijn en daardoor moeilijk te lezen, ga ik ze in columns verdelen.
+- Ze gaf aan dat in het "My journal" gedeelte de titel met de achtergrond versmolt en niet duidelijk was. Dat was inderdaad zo, vooral in het dark theme was de leesbaarheid slecht.
+- Ik wist dat ik meer informatie moest schrijven voor het cookie-gedeelte en dat ik 2 verschillende buttons moest toevoegen, maar ik heb ideeën van Alara gekregen over hoe ik dit kon aanpakken. Ze liet haar eigen cookies zien om mij te tonen wat voor stijl ik zou kunnen maken. <br>
+<br>
+#### De veranderingen die ik heb aangebracht <br>
+- **Webring** <br>
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/4f34b4db-c935-4c9c-8cc0-e83fc8f74362" /><br>
+Hieronder heb ik de webring op een geanimeerde manier toegevoegd. Het trekt de aandacht en neemt bovendien geen ruimte in beslag op de homepagina. <br>
+- **Paragraphs** <br>
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/ec1dfa29-70d2-41b4-b2be-8c656811d818" /> <br>
+Hier heb ik column-count gebruikt om de paragraaf in 2 columns te verdelen. Maar door het tegelijkertijd responsive te maken, heb ik ervoor gezorgd dat het één paragraaf wordt wanneer het scherm kleiner wordt. <br>
+- **Titels leesbaarder maken**<br>
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/b4435e1f-86f4-4638-a58c-5bac3cb29561" />
+<img width="400" alt="Screenshot 2026-10-22 224419" src="https://github.com/user-attachments/assets/917f9b90-a435-413c-a354-1917a37eda38" />
+Hier heb ik text-shadow gebruikt om het leesbaarder te maken; op deze manier trekt de titel meer aandacht en is deze beter leesbaar geworden.
+- **Cookie updaten** <br>
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/d70d9cd4-b969-45d2-8267-b3d73e8ec0df" /> <br>
+Hier heb ik de tekst opnieuw bijgewerkt. Ik heb ook een waarschuwing gegeven over de webring. Omdat er hier geen instelling is die ik kan veranderen, heb ik een knop toegevoegd waarmee de gebruiker bevestigt dat hij dit heeft gelezen. Daarna wilde ik een knop toevoegen waarmee ze direct de website konden verlaten als ze niet akkoord gingen, maar hiervoor had ik de benodigde kennis niet. Daarom heb ik dit gedeelte door een AI laten coderen. <br>
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/ed1af7a8-1710-4403-bc5a-56b509ba774b" /> <br>
+Hoewel ik het niet zelf heb gecodeerd, liet het terugzien van de termen "if" en "else" me eigenlijk zien dat deze code helemaal niet zo moeilijk of ingewikkeld is. Ik ben blij dat ik dit heb geleerd.
+
+
+
+
 
 
 
