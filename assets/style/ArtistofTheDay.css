@@ -1,7 +1,3 @@
-root {
-  interpolate-size: allow-keywords;
-}
-
 @font-face {
   font-family: "MissFajardose";
   src: url(../type/MissFajardose-Regular.ttf);
