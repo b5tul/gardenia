@@ -505,3 +505,8 @@ div a {
     box-shadow: inset 0em 0em 3em #6a176a50;
   }
 }
+
+footer {
+  width: 60%;
+  text-shadow: 0px 0px 5px #ffffff;
+}
