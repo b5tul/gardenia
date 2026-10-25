@@ -767,7 +767,12 @@ Tegelijkertijd had ik het gevoel dat ik heel weinig had gedaan toen ik de andere
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/e589e5f3-25df-45af-8699-0dc3657cac05" />
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/2ec40759-252a-4c2c-9259-24844bb084a4" /> <br>
 Hoewel het niet helemaal duidelijk is op deze screenshots, gaan ze dankzij de animation-delay allemaal achter elkaar van links naar rechts. Hiervoor heb ik de sibling index gebruikt die we hebben geleerd bij deep dive animaties. <br>
-<img width="300" alt="image" src="https://github.com/user-attachments/assets/66b93056-b0ce-4c43-9853-9b13a58f11c2" />
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/66b93056-b0ce-4c43-9853-9b13a58f11c2" /> <br> 
+### `23 okt Retrospect 3 en Gesprek met Vasilis` <br> 
+#### Gesprek
+- Narratori kullanmayi ogren
+- Songtekst icin schetsler vs yaptim evet ama songtekstime bakildiginda cok da fontlarla experiment yapildigim belli olmuyor. Ozellikle cok az animasyon bulunmakta. Bunun uzerine daha cok calisabilirim.
+- Genel manada aldigim feedback pozitif yonde oldugu icin mutluyum.!
 
 
 
