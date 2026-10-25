@@ -204,6 +204,10 @@ summary {
     background-color: var(--hover-background);
     color: var(--hover-text);
   }
+  &:focus-visible {
+    outline: 0.2em dashed black;
+    outline-offset: 0.2em;
+  }
 }
 
 summary h3 {
@@ -221,6 +225,13 @@ summary h3 {
 }
 main a {
   cursor: default;
+  &:focus-visible {
+    outline: none;
+  }
+}
+main a:focus-visible img {
+  outline: 0.2em dashed black;
+  outline-offset: 0.2em;
 }
 picture {
   display: flex;
@@ -238,6 +249,7 @@ picture img {
   &:hover {
     transform: rotate(10deg) scale(1.1);
   }
+
   &:active {
     transform: rotate(360deg) scale(1.1);
     transition: 0.5s ease-in-out;
