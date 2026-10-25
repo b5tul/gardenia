@@ -768,11 +768,47 @@ Tegelijkertijd had ik het gevoel dat ik heel weinig had gedaan toen ik de andere
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/2ec40759-252a-4c2c-9259-24844bb084a4" /> <br>
 Hoewel het niet helemaal duidelijk is op deze screenshots, gaan ze dankzij de animation-delay allemaal achter elkaar van links naar rechts. Hiervoor heb ik de sibling index gebruikt die we hebben geleerd bij deep dive animaties. <br>
 <img width="300" alt="image" src="https://github.com/user-attachments/assets/66b93056-b0ce-4c43-9853-9b13a58f11c2" /> <br> 
+<br> 
+<br> 
 ### `23 okt Retrospect 3 en Gesprek met Vasilis` <br> 
-#### Gesprek
-- Narratori kullanmayi ogren
-- Songtekst icin schetsler vs yaptim evet ama songtekstime bakildiginda cok da fontlarla experiment yapildigim belli olmuyor. Ozellikle cok az animasyon bulunmakta. Bunun uzerine daha cok calisabilirim.
-- Genel manada aldigim feedback pozitif yonde oldugu icin mutluyum.!
+#### Gesprek <br>
+- Leer hoe je Narrator gebruikt
+- Ik heb schetsen e.d. gemaakt voor de songtekst, dat klopt, maar als je naar mijn songtekst kijkt, is het niet echt duidelijk dat er geëxperimenteerd is met lettertypen. Er zijn vooral erg weinig animaties. Hier kan ik meer aan werken.
+- Over het algemeen ben ik blij dat de feedback die ik heb gekregen positief was!
+
+#### Retrospect 3 <br>
+<img width="400" alt="Screenshot 2026-10-25 214719" src="https://github.com/user-attachments/assets/05bc5693-5a77-48b9-9215-fd80a1749a95" />
+<img width="400" alt="Screenshot 2026-10-25 214732" src="https://github.com/user-attachments/assets/7b31a22d-7e38-44a7-af6a-7d78548856cf" />
+<img width="400" alt="Screenshot 2026-10-25 214808" src="https://github.com/user-attachments/assets/d3ee10a1-30e2-41d9-910e-355432132e2f" /> <br>
+De reden dat ik deze metafoor heb gebruikt, is dat deze legostenen het gemakkelijker voor mij maakten om te komen waar ik moet zijn. Dit is ook geen trap/pad dat in één keer gebouwd kan worden. Het was iets dat ik deed door elke dag regelmatig te werken. Daarom zijn de legostenen klein en allemaal van dezelfde grootte. <br>
+<br>
+
+### `Verbeteringen` <br>
+#### Songtekst <br>
+Ik had met Vasilis gesproken over het toevoegen van meer songtekst aan de songteksten-pagina en dat ik wat meer met animaties zou moeten spelen. Daarom heb ik wat onderzoek gedaan naar hoe ik een paar dingen die ik al in gedachten had kon maken. <br>
+
+**1. "Whirlwind"** <br>
+<img width="200" alt="image" src="https://github.com/user-attachments/assets/0d9fe19a-67e1-4274-9f0e-f6f607f99d6c" /> <br>
+Ik wilde van dit deel een soort spiraalvormige curve maken. Omdat "whirlwind" wervelwind betekent. Ik dacht dat ik dit het beste kon overbrengen door de vorm van de tekst aan te passen. <br> 
+<img width="300" alt="Screenshot 2026-10-25 163610" src="https://github.com/user-attachments/assets/288bd3ec-bf8e-4ef2-9c63-c18f3e24dc18" />
+<img width="300" alt="Screenshot 2026-10-25 163559" src="https://github.com/user-attachments/assets/e9b4497c-1b18-48e7-8dec-59aaf3c10dd1" /> <br>
+bron: https://csswarp.eleqtriq.com/ <br>
+Vervolgens heb ik op een paar sites gekeken of er een CSS-generator was die dit deed, en ik vond dit de beste. Hier heb ik de gekopieerde CSS en HTML in mijn eigen experiment geplaatst. Dat zag er zo uit.<br> 
+<img width="300" alt="Screenshot 2026-10-25 180612" src="https://github.com/user-attachments/assets/6726b22f-687a-410b-ab18-df136e21b6c0" /> <br>
+Maar dit alleen geeft natuurlijk geen effect aan het woord dat ik wil benadrukken. Daarom wilde ik een animatie toevoegen aan het woord "whirlwind", alsof er een wervelwind voorbijgaat. Hiervoor moet ik ervoor zorgen dat de letters opeenvolgend dikker worden en daarna weer dunner. Omdat dit achter elkaar gebeurt, moet ik in dit geval de :nth-child(x) code gebruiken. Hiervoor moet ik voor elke letter afzonderlijk een span tag aanmaken. <br>
+<br> 
+Ik heb dit ook toegepast op andere woorden buiten whirlwind, hier zijn een paar voorbeelden: <br>
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/f2ba4c23-0fdd-48e4-b6fe-285754c216e4" /> 
+<img width="200" alt="image" src="https://github.com/user-attachments/assets/594f2333-4e0b-4660-8813-de4be1daac1d" />
+<br> 
+
+
+
+
+
+
+
+
 
 
 
