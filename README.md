@@ -770,8 +770,9 @@ Hoewel het niet helemaal duidelijk is op deze screenshots, gaan ze dankzij de an
 <img width="300" alt="image" src="https://github.com/user-attachments/assets/66b93056-b0ce-4c43-9853-9b13a58f11c2" /> <br> 
 <br> 
 <br> 
-### `23 okt Retrospect 3 en Gesprek met Vasilis` <br> 
-#### Gesprek <br>
+
+### `23 okt Retrospect 3 en Gesprek met Vasilis`<br> 
+#### Gesprek <br> 
 - Leer hoe je Narrator gebruikt
 - Ik heb schetsen e.d. gemaakt voor de songtekst, dat klopt, maar als je naar mijn songtekst kijkt, is het niet echt duidelijk dat er geëxperimenteerd is met lettertypen. Er zijn vooral erg weinig animaties. Hier kan ik meer aan werken.
 - Over het algemeen ben ik blij dat de feedback die ik heb gekregen positief was!
