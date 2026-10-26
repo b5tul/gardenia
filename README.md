@@ -768,7 +768,9 @@ Eigenlijk heb ik meer en andere feedback gekregen dan ik had verwacht. Dit was v
 Ik heb mijn errors gefixt. Ik ben vergeten hier een screenshot van te maken, maar ik heb ze allemaal één voor één opgelost. <br>
 Er werd geschreven dat ik meer met fonts zou kunnen spelen, daarom heb ik op een pagina waar ik veel tekst heb geschreven een variable font toegevoegd. Ik heb aanpassingen gemaakt door clamp te gebruiken voor de font-sizes en font-variation-settings toe te passen. <br>
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/77bcba0f-6274-4384-84aa-9ef60ffe6013" />
-<img width="400" alt="image" src="https://github.com/user-attachments/assets/265cb18f-7f83-4e4c-8d92-f5d44f06d147" /> <br>
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/265cb18f-7f83-4e4c-8d92-f5d44f06d147" /> 
+--De bron van de tekst is: https://tr.wikipedia.org/wiki/Manifest_(m%C3%BCzik_grubu). De tekst is met behulp van AI ingekort en naar het Nederlands vertaald. Daarnaast bevat het ook mijn eigen toevoegingen en zinnen. Omdat ik in dit gedeelte vooral met font heb geëxperimenteerd, had ik niet de kans om de teksten helemaal zelf te schrijven.-- <br> 
+<br> 
 Tegelijkertijd had ik het gevoel dat ik heel weinig had gedaan toen ik de andere songteksten zag die Diederik had laten zien. Daarom heb ik nog een deel van 4 zinnen toegevoegd aan mijn songtekst en wilde ik de emoties in het liedje hier overbrengen met een animatie. In de muziekvideo is het hoofdpersonage altijd gehaast, en dat heb ik proberen te laten zien in de animatie die ik heb gemaakt. <br> 
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/e589e5f3-25df-45af-8699-0dc3657cac05" />
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/2ec40759-252a-4c2c-9259-24844bb084a4" /> <br>
