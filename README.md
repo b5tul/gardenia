@@ -79,12 +79,12 @@ Oefening 3
 
 #### ✅Check-out
 
-1. Leg uit wat een digital garden is en waarom dat anders is dan een reguliere website.
+1. Leg uit wat een digital garden is en waarom dat anders is dan een reguliere website.<br> 
    In digital garden staat er wat je leuk vindt dus het kan alles zijn. Het is niet af dus je maakt constant veranderingen en toevoegingen. Een reguliere website is eigenlijk het eind product. Tot het eind product te komen moet je altijd feedback hebben en variaties moeten maken.
-2. Leg uit wat een website 'webby' maakt en welke websites jou het meeste inspireren.
+2. Leg uit wat een website 'webby' maakt en welke websites jou het meeste inspireren. <br> 
    Hoe interactief, toegankelijk en expressief en makkelijk voor de user, maakt een website "webby".
 
-3. Vertel waar jij mee aan de slag wilt gaan bij het maken van jouw eigen digital garden (let op: dit zijn jouw eerste ideeën, dit kan en mag veranderen in de loop van het programma.
+3. Vertel waar jij mee aan de slag wilt gaan bij het maken van jouw eigen digital garden (let op: dit zijn jouw eerste ideeën, dit kan en mag veranderen in de loop van het programma. <br>
    Ik dacht dat ik iets over "fangirlling" kunnen doen. Het was een grootdeel van mijn leven als een kind maar ook nu. Ik kan een deel persoonlijker kunnen maken maar ook informatief.
    <br>
    <br>
@@ -644,8 +644,14 @@ Ik was ziek dus ik heb de opdracht thuis uitgewerkt. <br>
 
 #### ✅Check-out <br>
 **Waarom is het goed om een grid in je ontwerp toe te passen? Noem een reden voor de ontwerper en een voor de bezoeker.** <br> 
+Voor de ontwerper: Volgens mij is het voor de ontwerper makkelijker om de rest van de code toe te voegen zodra de grid is gecodeerd en de lay-out staat. Op deze manier hoef je je geen zorgen meer te maken over hoe de inhoud op de website eruitziet.<br>
+Voor de bezoeker: Het maakt het voor de bezoeker makkelijker om de website te volgen. Hierdoor wordt de tekst begrijpelijker en beter leesbaar. <br> 
+
 **Noem drie manieren om chaos in je ontwerp te voorkomen.** <br> 
+Het gebruik van `display`, het responsive maken (met de `@media` tag), classes bepalen. <br> 
+
 **Hoeveel gekkigheid moet er in je werk zitten?** <br> 
+Ik denk dat je er zoveel gekkigheid in kunt stoppen als je wilt, zolang anderen (naast jijzelf) maar begrijpen wat het is. <br> 
 <br> 
 
 ### `10 okt Voortgang Gesprek en Workshop` <br> 
@@ -802,6 +808,21 @@ Ik heb dit ook toegepast op andere woorden buiten whirlwind, hier zijn een paar 
 <img width="300" alt="image" src="https://github.com/user-attachments/assets/f2ba4c23-0fdd-48e4-b6fe-285754c216e4" /> 
 <img width="200" alt="image" src="https://github.com/user-attachments/assets/594f2333-4e0b-4660-8813-de4be1daac1d" />
 <br> 
+
+### `26 okt Expo` <br> 
+#### Sticky stickers <br> 
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/4ecfa225-26f5-4923-991b-c1a280ba4fda" /> <br> 
+Ik was blij met de feedback die ik kreeg over mijn code en de cookie pop-up, maar het was een beetje onverwacht dat ik zo weinig stickers heb gekregen voor toegepaste ontwerpvaardigheden. Voor zover ik begrijp, heb ik niet echt een visueel aantrekkelijke en nieuwsgierigheid opwekkende homepagina gemaakt (dit viel me ook op in de latere opdrachten die we in duo's hebben gedaan). <br> 
+#### Hoe webby is mijn eindproduct? <br>
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/857c46af-9f7b-4170-b6ae-f9b435dd2240" /> <br>
+Tijdens het ontwerpen van mijn website heb ik er goed op gelet dat het 'webby' is, dus op dat gebied heb ik niet veel minpunten. Maar voor zover ik begrijp, is mijn homepage toch niet zo interessant als ik dacht en legt het niet helemaal uit wat er op mijn website staat. Daarom vroeg ik Bryenne het volgende over de feedback die ik eerder kreeg: Wat ontbreekt er volgens jou op de homepage of wat zou het beter kunnen maken? Ze zei dat een introtekst het beter zou doen. Tijdens het ontwerpen van mijn website dacht ik dat deze 3 subkoppen een geheel vormden. Maar er zo over nadenken is eigenlijk helemaal niet "webby" en gebruiksvriendelijk. <br>
+#### Hoe log is jouw learning log? <br>
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/544eb1bb-359e-428e-a6b9-f70c0bd378e0" /> <br>
+Samen met het team hebben we elkaars logs bekeken. Omdat mijn learning log up-to-date was, hebben we na die van Julia naar de mijne gekeken. Over het algemeen is mijn learning log vrij duidelijk en ik zorg ervoor dat ik alles op een georganiseerde manier plaats.
+
+
+
+
 
 
 
