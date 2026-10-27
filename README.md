@@ -63,11 +63,11 @@ Oefening 3
 
 <img width="400" height="250" alt="Screenshot 2026-09-06 140500" src="https://github.com/user-attachments/assets/b5d62bae-73ca-4487-8105-a8045e50d4a9" />
 <br>
-<br>
-##  Sprint 1
-### `📅 7 sept`
+<br> 
 
-#### Oefening: Twee websites analyseren
+##  Sprint 1 <br> 
+### `📅 7 sept` <br> 
+#### Oefening: Twee websites analyseren <br> 
 
 -We hebben naar 2 gekozende websites gekeken en geschreven als ze genoeg webby zijn.
 
@@ -398,7 +398,7 @@ Ik heb gemerkt dat coderen eigenlijk veel leuker kan zijn dan ik dacht. <br>
 Ja. Alleen moet ik nog meer werken aan de eis: "Je hebt meerdere richtingen verkend met behulp van schetstechnieken." <br>
 <br> 
 
-##  Sprint 2
+##  Sprint 2 <br> 
 ### `📅 21 sept Werkgroep` <br>
 
 #### **Ik was niet aanwezig vanwege ziekte dus ik heb geprobeerd mijn best te doen om de opdrachten uit te voeren** <br>
