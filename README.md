@@ -821,8 +821,12 @@ Tijdens het ontwerpen van mijn website heb ik er goed op gelet dat het 'webby' i
 #### Hoe log is jouw learning log? <br>
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/544eb1bb-359e-428e-a6b9-f70c0bd378e0" /> <br>
 Samen met het team hebben we elkaars logs bekeken. Omdat mijn learning log up-to-date was, hebben we na die van Julia naar de mijne gekeken. Over het algemeen is mijn learning log vrij duidelijk en ik zorg ervoor dat ik alles op een georganiseerde manier plaats.
-
-
+<br> 
+Naast wat ik hierboven heb besproken, wil ik ook mijn reflectie op dit blok delen. Over het algemeen was het een blok waarin ik met heel veel plezier heb geleerd. Dat we tijdens het leren coderen via de "bi-weekly geeks" de achtergrond van veel zaken meekregen en onderwerpen met elkaar konden verbinden, gaf veel meer diepgang aan de betekenis van ons eindproduct. Waar we ons in het blok van vorig jaar meer richtten op user experience, hebben we onze site dit keer in het blok "Het web is voor iedereen" ontworpen met belangrijke thema's in gedachten, zoals toegankelijkheid en privacy. Hiermee hebben we een professionelere stap gezet.<br> 
+<br>
+In deze periode heb ik geprobeerd de deep dives en opdrachten zoveel mogelijk op tijd af te ronden. Door de gekregen feedback te evalueren en toe te passen, heb ik nieuwe perspectieven gekregen. Met de schetsmethodes die we tijdens de retrospects hebben geleerd, kwam ik erachter hoe ik duidelijkere schetsen kan maken. Dit waren allemaal stappen die enorm hebben geholpen bij het begrijpen en toepassen van de opgedane kennis in mijn website.<br> 
+<br> 
+Een van de dingen waar ik in een volgend blok op wil letten, is het volgende. Hoewel ik tijdens de feedback sessies wel vragen stelde aan klasgenoten over dingen waar ik tegenaan liep, kreeg ik niet altijd diepgaande antwoorden. Ik realiseerde me dat dit eigenlijk kwam doordat ik niet voldoende heb doorgevraagd. Daarom wil ik er de volgende keer op letten dat ik, wanneer ik ergens mee zit en feedback vraag, hier vooraf dieper over nadenk, zodat ik gerichtere vragen kan stellen en beter kan doorvragen.
 
 
 
