@@ -580,9 +580,13 @@ Ik heb voldoende en goed gekregen van competenties dus het ging best wel goed. <
 <img width="400" alt="Screenshot 2026-10-03 230117" src="https://github.com/user-attachments/assets/08382303-880a-4462-a0f0-c5cf84fd1443" /> <br>
 <br> 
 <br> 
-##  Sprint 3 <br> 
+
+## Sprint 3 <br> 
+
 ### `5 okt Werkgroep` <br> 
+
 #### Songtekst analyseren <br> 
+
 Let It Happen - Tame Impala <br> 
 <img height="400" alt="Screenshot 2026-10-06 172831" src="https://github.com/user-attachments/assets/a4849c83-6137-490d-8bf3-80df30cd5dce" /> <br>
 In de videoclip is er in het begin sprake van een ongecontroleerdheid en chaos die ontstaan. Ik weet niet goed hoe ik dit in de typografie kan laten zien, maar dit is wel het grootste punt dat mij is opgevallen.
