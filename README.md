@@ -1,7 +1,7 @@
 # Gardenia (Betül)
 Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door studenten worden gemaakt.
 
-##  Welcome to My Learning Log
+
 
 ### `31 augustus`
 
@@ -64,7 +64,7 @@ Oefening 3
 <img width="400" height="250" alt="Screenshot 2026-09-06 140500" src="https://github.com/user-attachments/assets/b5d62bae-73ca-4487-8105-a8045e50d4a9" />
 <br>
 <br>
-
+##  Sprint 1
 ### `📅 7 sept`
 
 #### Oefening: Twee websites analyseren
@@ -396,8 +396,9 @@ Ik heb gemerkt dat coderen eigenlijk veel leuker kan zijn dan ik dacht. <br>
 
 **6. Voldoet het nog aan de eisen?** <br>
 Ja. Alleen moet ik nog meer werken aan de eis: "Je hebt meerdere richtingen verkend met behulp van schetstechnieken." <br>
-<br>
+<br> 
 
+##  Sprint 2
 ### `📅 21 sept Werkgroep` <br>
 
 #### **Ik was niet aanwezig vanwege ziekte dus ik heb geprobeerd mijn best te doen om de opdrachten uit te voeren** <br>
@@ -578,7 +579,8 @@ Ik heb voldoende en goed gekregen van competenties dus het ging best wel goed. <
 <img width="400" alt="Screenshot 2026-10-03 225959" src="https://github.com/user-attachments/assets/d41f07c0-c09c-4a88-a2b9-3780d4adf14a" />
 <img width="400" alt="Screenshot 2026-10-03 230117" src="https://github.com/user-attachments/assets/08382303-880a-4462-a0f0-c5cf84fd1443" /> <br>
 <br> 
-
+<br> 
+##  Sprint 3 <br> 
 ### `5 okt Werkgroep` <br> 
 #### Songtekst analyseren <br> 
 Let It Happen - Tame Impala <br> 
